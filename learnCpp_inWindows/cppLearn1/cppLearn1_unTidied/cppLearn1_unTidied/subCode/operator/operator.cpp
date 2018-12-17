@@ -9,6 +9,7 @@ namespace theRotten_temp_learnX_cppLearn1_subCode_operator
 			
 		}
 
+		
 		//void operator
 	}
 }

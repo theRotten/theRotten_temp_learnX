@@ -4,6 +4,9 @@
 
 #include<iostream>
 
+//["operator"]用到的类
+#include ".\operator_class-operatorLearn1_testClass.hpp"
+
 
 using namespace std;
 

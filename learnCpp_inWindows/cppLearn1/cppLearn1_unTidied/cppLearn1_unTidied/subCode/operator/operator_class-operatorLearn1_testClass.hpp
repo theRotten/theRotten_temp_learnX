@@ -8,8 +8,16 @@ namespace theRotten_temp_learnX_cppLearn1_subCode_operator
 		class testClass
 		{
 		public:
+			testClass(int);
+			testClass(void);
+
+			int testValue;
+
 			void testA(void);
 			void testB(void);
+
+
+			bool operator==(testClass);
 		};
 	}
 }

@@ -9,3 +9,21 @@ void ::theRotten_temp_learnX_cppLearn1_subCode_operator::operatorLearn1::testCla
 {
 	;//doSomething
 }
+
+bool ::theRotten_temp_learnX_cppLearn1_subCode_operator::operatorLearn1::testClass::operator==(testClass personA)
+{
+	if (this->testValue == personA.testValue)
+		return true;
+	else
+		return false;
+}
+
+::theRotten_temp_learnX_cppLearn1_subCode_operator::operatorLearn1::testClass::testClass(int inputValue)
+{
+	this->testValue = inputValue;
+}
+
+::theRotten_temp_learnX_cppLearn1_subCode_operator::operatorLearn1::testClass::testClass()
+{
+	this->testValue = 0;
+}

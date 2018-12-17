@@ -3,6 +3,8 @@
 
 #include<iostream>
 
+#include ".\subCode\template\template.h"
+
 using namespace std;
 
 #endif

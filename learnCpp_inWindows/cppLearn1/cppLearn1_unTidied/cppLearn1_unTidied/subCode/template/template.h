@@ -1,8 +1,6 @@
 #ifndef __cppLearn1_subCode_template_h
 #define __cppLearn1_subCode_template_h
 
-#include<iostream>
-
 namespace theRotten_temp_learnX_cppLearn1_subCode_template
 {
 	namespace templateLearn1

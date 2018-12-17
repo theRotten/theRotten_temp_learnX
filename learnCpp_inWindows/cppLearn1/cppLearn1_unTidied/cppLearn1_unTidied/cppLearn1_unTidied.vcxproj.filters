@@ -19,6 +19,9 @@
     <Filter Include="源文件\sub\template">
       <UniqueIdentifier>{92b08cd2-8bb3-4153-9812-159923cd83ba}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\sub\operator">
+      <UniqueIdentifier>{225b709c-28fb-4cf9-b029-c1af5692ef97}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cppLearn1_unTidied_main.cpp">
@@ -26,6 +29,9 @@
     </ClCompile>
     <ClCompile Include="subCode\template\template.cpp">
       <Filter>源文件\sub\template</Filter>
+    </ClCompile>
+    <ClCompile Include="subCode\operator\operator.cpp">
+      <Filter>源文件\sub\operator</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -37,6 +43,12 @@
     </ClInclude>
     <ClInclude Include="subCode\template\template.h">
       <Filter>源文件\sub\template</Filter>
+    </ClInclude>
+    <ClInclude Include="subCode\operator\operator_include.h">
+      <Filter>源文件\sub\operator</Filter>
+    </ClInclude>
+    <ClInclude Include="subCode\operator\operator.h">
+      <Filter>源文件\sub\operator</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

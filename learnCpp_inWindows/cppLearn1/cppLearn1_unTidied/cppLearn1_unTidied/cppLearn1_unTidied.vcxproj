@@ -79,10 +79,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="cppLearn1_unTidied_main.cpp" />
+    <ClCompile Include="subCode\operator\operator.cpp" />
     <ClCompile Include="subCode\template\template.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cppLearn1_unTidied_main_include.h" />
+    <ClInclude Include="subCode\operator\operator.h" />
+    <ClInclude Include="subCode\operator\operator_include.h" />
     <ClInclude Include="subCode\template\template.h" />
     <ClInclude Include="subCode\template\template_include.h" />
   </ItemGroup>

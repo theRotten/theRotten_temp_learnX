@@ -2,7 +2,19 @@
 
 namespace theRotten_temp_learnX_cppLearn1_subCode_template
 {
-	namespace templateLearn1
+	namespace templateLearn2//自己写一个模板函数
+	{
+		template <typename anyType2, typename anyType3> anyType2 templateFunction1(anyType2 a, typename anyType3 b)
+		{
+			cout << endl << "sizeOfA=" << sizeof(a) << endl;
+			cout << endl << "ValueOfA=" << a << endl;
+			cout << endl << "sizeOfB=" << sizeof(b) << endl;
+			cout << endl << "ValueOfB=" << b << endl;
+			return a;
+		}
+	}
+	
+	namespace templateLearn1//简单贴代码试验
 	{
 		template <typename T>
 		inline T const& Max(T const& a, T const& b)
@@ -67,7 +79,14 @@ namespace theRotten_temp_learnX_cppLearn1_subCode_template
 			}
 		}
 
-		void templateLearn1_test()
+		void templateLearn1_test()//对模仿写的第一个模板泛类函数的调用 2018年12月17日15:52:23
+		{
+			cout << endl << "templateLearn1_test start" << endl;
+			::theRotten_temp_learnX_cppLearn1_subCode_template::templateLearn2::templateFunction1("a",234);
+			
+		}
+
+		void templateLearn1_test1()//测试不同命名空间的调用及命名空间内对全局函数的调用，但据说在这个过程中发现了编译器和Cpp标准的Bug 2018年12月17日15:51:45
 		{
 			cout << endl << "templateLearn1_test start" << endl;
 			//cout<<theRotten_temp_learnX_cppLearn1_subCode_template::templateLearn1::Max(12, 14);//这种写法好像不标准不正规，因为IDE在现在就会报错

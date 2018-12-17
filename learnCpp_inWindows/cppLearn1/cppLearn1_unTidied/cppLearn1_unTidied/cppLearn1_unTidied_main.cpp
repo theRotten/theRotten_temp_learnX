@@ -6,7 +6,7 @@ namespace theRotten_temp_learnX_cppLearn1_unTidied_main
 
 	void beforeMain(void)
 	{
-		cout << "abcd";
+		cout << "abcd"<<endl;
 	}
 }
 

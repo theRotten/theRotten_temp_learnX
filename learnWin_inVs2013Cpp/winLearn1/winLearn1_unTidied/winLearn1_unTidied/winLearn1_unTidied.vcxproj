@@ -80,6 +80,12 @@
   <ItemGroup>
     <ClCompile Include="main\main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main\main_include.hpp" />
+    <ClInclude Include="sub\direct2D\d2d1_use.h" />
+    <ClInclude Include="sub\direct2D\direct2D_supplyOut.h" />
+    <ClInclude Include="sub\windows\windows_use.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

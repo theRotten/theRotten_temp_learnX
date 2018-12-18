@@ -1,4 +1,4 @@
-#include <windows.h>
+#include ".\main_include.hpp" 
 
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
 	PSTR szCmdLine, int iCmdShow)

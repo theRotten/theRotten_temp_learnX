@@ -16,10 +16,36 @@
     <Filter Include="源文件\main">
       <UniqueIdentifier>{660f577e-45ab-4e2b-a069-018b7ddb244c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\sub">
+      <UniqueIdentifier>{1882a99d-4210-4ea7-a204-9a52b8725198}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\unTidied">
+      <UniqueIdentifier>{b5983f92-a7cb-4223-81a1-16b0e10c2b37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sub\direct2D">
+      <UniqueIdentifier>{ce7eb164-868c-45bf-b90d-11314c2de9e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sub\windows">
+      <UniqueIdentifier>{a4aed954-291d-45b6-9615-c366c3df78f3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main\main.cpp">
       <Filter>源文件\main</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main\main_include.hpp">
+      <Filter>源文件\main</Filter>
+    </ClInclude>
+    <ClInclude Include="sub\direct2D\direct2D_supplyOut.h">
+      <Filter>源文件\sub\direct2D</Filter>
+    </ClInclude>
+    <ClInclude Include="sub\direct2D\d2d1_use.h">
+      <Filter>源文件\sub\direct2D</Filter>
+    </ClInclude>
+    <ClInclude Include="sub\windows\windows_use.h">
+      <Filter>源文件\sub\windows</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

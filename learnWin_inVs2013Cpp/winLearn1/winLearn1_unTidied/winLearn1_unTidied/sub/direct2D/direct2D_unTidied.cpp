@@ -24,7 +24,7 @@ namespace direct2D
 						&pD2DFactory
 						);
 				}*/
-
+				//下面这个函数报错
 				void createID2D1Factory(ID2D1Factory* pD2DFactory )
 				{
 					

@@ -16,6 +16,7 @@
     <Filter Include="源文件\main">
       <UniqueIdentifier>{660f577e-45ab-4e2b-a069-018b7ddb244c}</UniqueIdentifier>
     </Filter>
+<<<<<<< HEAD
     <Filter Include="源文件\sub">
       <UniqueIdentifier>{1882a99d-4210-4ea7-a204-9a52b8725198}</UniqueIdentifier>
     </Filter>
@@ -53,6 +54,8 @@
       <ParseFiles>false</ParseFiles>
       <SourceControlFiles>False</SourceControlFiles>
     </Filter>
+=======
+>>>>>>> parent of 19493cf... 添加了winLearn的内部结构成分，包括direct2D、windows这两个子成分
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main\main.cpp">
@@ -65,6 +68,7 @@
       <Filter>源文件\sub\direct2D</Filter>
     </ClCompile>
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <ClInclude Include="main\main_include.hpp">
       <Filter>源文件\main</Filter>
@@ -88,4 +92,6 @@
       <Filter>源文件\toolsAndWheels\safeRelease</Filter>
     </ClInclude>
   </ItemGroup>
+=======
+>>>>>>> parent of 19493cf... 添加了winLearn的内部结构成分，包括direct2D、windows这两个子成分
 </Project>

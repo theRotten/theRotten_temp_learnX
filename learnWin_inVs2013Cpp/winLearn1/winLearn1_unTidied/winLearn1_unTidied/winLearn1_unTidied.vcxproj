@@ -86,6 +86,7 @@
     <ClCompile Include="sub\direct2D\direct2D_unTidied.cpp" />
     <ClCompile Include="toolsAndWheels\safeRelease\safeRelease.cpp" />
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <ClInclude Include="main\main_include.hpp" />
     <ClInclude Include="sub\direct2D\d2d1_use.h" />
@@ -95,6 +96,8 @@
     <ClInclude Include="sub\windows\windows_use.h" />
     <ClInclude Include="toolsAndWheels\safeRelease\safeRelease.hpp" />
   </ItemGroup>
+=======
+>>>>>>> parent of 19493cf... 添加了winLearn的内部结构成分，包括direct2D、windows这两个子成分
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

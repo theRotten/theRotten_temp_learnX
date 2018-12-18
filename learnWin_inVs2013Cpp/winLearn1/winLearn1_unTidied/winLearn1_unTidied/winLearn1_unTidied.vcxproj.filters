@@ -50,9 +50,12 @@
     </Filter>
     <Filter Include="源文件\sub\direct2D\specificNeeds\d2d1Needs">
       <UniqueIdentifier>{36328998-79e2-4469-8012-eb8dae9a6859}</UniqueIdentifier>
+      <ParseFiles>false</ParseFiles>
+      <SourceControlFiles>False</SourceControlFiles>
     </Filter>
     <Filter Include="源文件\sub\direct2D\specificNeeds\d2d1Needs\SafeRelease">
       <UniqueIdentifier>{5684135e-201b-4948-ad1d-96b327d0619c}</UniqueIdentifier>
+      <SourceControlFiles>False</SourceControlFiles>
     </Filter>
   </ItemGroup>
   <ItemGroup>

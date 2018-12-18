@@ -120,16 +120,16 @@ namespace direct2D
 					HRESULT hr = pRT->EndDraw();
 				}
 
-				//第6步：发布资源
-				void releaseResources(ID2D1HwndRenderTarget* pRT, ID2D1SolidColorBrush*pBlackBrush, ID2D1Factory* pD2DFactory)
-				{
-					using namespace ::theRotten_this::sub::direct2D::specificNeeds::d2d1Needs::SafeRelease;
-					//pRT->Release();
-					SafeRelease(pRT);
-					SafeRelease(pBlackBrush);
+				//第6步：释放资源
+				//void releaseResources(ID2D1HwndRenderTarget* pRT, ID2D1SolidColorBrush*pBlackBrush, ID2D1Factory* pD2DFactory)
+				//{
+				//	using namespace ::theRotten_this::sub::direct2D::specificNeeds::d2d1Needs::SafeRelease;
+				//	//pRT->Release();
+				//	SafeRelease(pRT);
+				//	SafeRelease(pBlackBrush);
 
-					SafeRelease(pD2DFactory);
-				}
+				//	SafeRelease(pD2DFactory);
+				//}
 			}
 		}
 
@@ -139,6 +139,7 @@ namespace direct2D
 			{
 
 			}
+
 
 			void direct2Dtest(HWND hwnd)
 			{

@@ -84,7 +84,6 @@
   <ItemGroup>
     <ClCompile Include="main\main.cpp" />
     <ClCompile Include="sub\direct2D\direct2D_unTidied.cpp" />
-    <ClCompile Include="sub\direct2D\specificNeeds\d2d1Needs\SafeRelease\SafeRelease.cpp" />
     <ClCompile Include="toolsAndWheels\safeRelease\safeRelease.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -93,8 +92,6 @@
     <ClInclude Include="sub\direct2D\direct2D.h" />
     <ClInclude Include="sub\direct2D\direct2D_supplyOut.h" />
     <ClInclude Include="sub\direct2D\direct2D_unTidied_include.h" />
-    <ClInclude Include="sub\direct2D\specificNeeds\d2d1Needs\SafeRelease\direct2D_specificNeeds_d2d1NeedsSafeRelease.h" />
-    <ClInclude Include="sub\direct2D\specificNeeds\d2d1Needs\SafeRelease\SafeRelease.h" />
     <ClInclude Include="sub\windows\windows_use.h" />
     <ClInclude Include="toolsAndWheels\safeRelease\safeRelease.hpp" />
   </ItemGroup>

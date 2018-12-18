@@ -53,23 +53,16 @@
       <ParseFiles>false</ParseFiles>
       <SourceControlFiles>False</SourceControlFiles>
     </Filter>
-    <Filter Include="源文件\sub\direct2D\specificNeeds\d2d1Needs\SafeRelease">
-      <UniqueIdentifier>{5684135e-201b-4948-ad1d-96b327d0619c}</UniqueIdentifier>
-      <SourceControlFiles>False</SourceControlFiles>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main\main.cpp">
       <Filter>源文件\main</Filter>
     </ClCompile>
-    <ClCompile Include="sub\direct2D\direct2D_unTidied.cpp">
-      <Filter>源文件\sub\direct2D</Filter>
-    </ClCompile>
     <ClCompile Include="toolsAndWheels\safeRelease\safeRelease.cpp">
       <Filter>源文件\toolsAndWheels\safeRelease</Filter>
     </ClCompile>
-    <ClCompile Include="sub\direct2D\specificNeeds\d2d1Needs\SafeRelease\SafeRelease.cpp">
-      <Filter>源文件\sub\direct2D\specificNeeds\d2d1Needs\SafeRelease</Filter>
+    <ClCompile Include="sub\direct2D\direct2D_unTidied.cpp">
+      <Filter>源文件\sub\direct2D</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -93,12 +86,6 @@
     </ClInclude>
     <ClInclude Include="toolsAndWheels\safeRelease\safeRelease.hpp">
       <Filter>源文件\toolsAndWheels\safeRelease</Filter>
-    </ClInclude>
-    <ClInclude Include="sub\direct2D\specificNeeds\d2d1Needs\SafeRelease\direct2D_specificNeeds_d2d1NeedsSafeRelease.h">
-      <Filter>源文件\sub\direct2D\specificNeeds\d2d1Needs\SafeRelease</Filter>
-    </ClInclude>
-    <ClInclude Include="sub\direct2D\specificNeeds\d2d1Needs\SafeRelease\SafeRelease.h">
-      <Filter>源文件\sub\direct2D\specificNeeds\d2d1Needs\SafeRelease</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

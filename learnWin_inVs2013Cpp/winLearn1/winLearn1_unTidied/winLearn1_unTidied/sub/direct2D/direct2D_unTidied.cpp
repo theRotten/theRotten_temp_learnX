@@ -16,14 +16,14 @@ namespace direct2D
 			namespace test1_test1
 			{
 				//第2步，创建ID2D1Factory	2018年12月18日10:01:32------from:https://docs.microsoft.com/zh-cn/windows/desktop/Direct2D/getting-started-with-direct2d
-				/*void createID2D1Factory(void)
-				{
-					ID2D1Factory* pD2DFactory = NULL;
-					HRESULT hr = D2D1CreateFactory(
-						D2D1_FACTORY_TYPE_SINGLE_THREADED,
-						&pD2DFactory
-						);
-				}*/
+				//void createID2D1Factory(void)
+				//{
+				//	ID2D1Factory* pD2DFactory = NULL;
+				//	HRESULT hr = D2D1CreateFactory(
+				//		D2D1_FACTORY_TYPE_SINGLE_THREADED,
+				//		&pD2DFactory
+				//		);
+				//}
 				//下面这个函数报错
 				void createID2D1Factory(ID2D1Factory* pD2DFactory )
 				{
@@ -147,7 +147,7 @@ namespace direct2D
 
 				//第二步
 				ID2D1Factory* pD2DFactory = NULL;
-				direct2D::testlist::test::test1_test1::createID2D1Factory(pD2DFactory);
+				//direct2D::testlist::test::test1_test1::createID2D1Factory();
 				//createID2D1Factory(pD2DFactory);
 
 				//第三步

@@ -28,10 +28,45 @@
     <Filter Include="源文件\sub\windows">
       <UniqueIdentifier>{a4aed954-291d-45b6-9615-c366c3df78f3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\toolsAndWheels">
+      <UniqueIdentifier>{b2b5f9cb-e5ba-42ed-aa92-247ea2642a22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\common">
+      <UniqueIdentifier>{4bc3f441-7721-4a38-9f87-3557de4f21be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\toolsAndWheels\safeRelease">
+      <UniqueIdentifier>{d3770251-40dc-4f54-ab64-e57746bd757c}</UniqueIdentifier>
+      <SourceControlFiles>False</SourceControlFiles>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="源文件\sub\direct2D\specificNeeds">
+      <UniqueIdentifier>{ac4cb480-e8ac-4ef0-babd-daf99fe3328d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sub\direct2D\supportedOn">
+      <UniqueIdentifier>{f2fda830-634a-4f81-b21a-2a388cbb6f4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sub\direct2D\supportedOn\d2d1">
+      <UniqueIdentifier>{70b73696-94c4-4983-a526-1bb6c68d4444}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sub\direct2D\specificNeeds\d2d1Needs">
+      <UniqueIdentifier>{36328998-79e2-4469-8012-eb8dae9a6859}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sub\direct2D\specificNeeds\d2d1Needs\SafeRelease">
+      <UniqueIdentifier>{5684135e-201b-4948-ad1d-96b327d0619c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main\main.cpp">
       <Filter>源文件\main</Filter>
+    </ClCompile>
+    <ClCompile Include="sub\direct2D\direct2D_unTidied.cpp">
+      <Filter>源文件\sub\direct2D</Filter>
+    </ClCompile>
+    <ClCompile Include="toolsAndWheels\safeRelease\safeRelease.cpp">
+      <Filter>源文件\toolsAndWheels\safeRelease</Filter>
+    </ClCompile>
+    <ClCompile Include="sub\direct2D\specificNeeds\d2d1Needs\SafeRelease\SafeRelease.cpp">
+      <Filter>源文件\sub\direct2D\specificNeeds\d2d1Needs\SafeRelease</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -46,6 +81,21 @@
     </ClInclude>
     <ClInclude Include="sub\windows\windows_use.h">
       <Filter>源文件\sub\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="sub\direct2D\direct2D_unTidied_include.h">
+      <Filter>源文件\sub\direct2D</Filter>
+    </ClInclude>
+    <ClInclude Include="sub\direct2D\direct2D.h">
+      <Filter>源文件\sub\direct2D</Filter>
+    </ClInclude>
+    <ClInclude Include="toolsAndWheels\safeRelease\safeRelease.hpp">
+      <Filter>源文件\toolsAndWheels\safeRelease</Filter>
+    </ClInclude>
+    <ClInclude Include="sub\direct2D\specificNeeds\d2d1Needs\SafeRelease\direct2D_specificNeeds_d2d1NeedsSafeRelease.h">
+      <Filter>源文件\sub\direct2D\specificNeeds\d2d1Needs\SafeRelease</Filter>
+    </ClInclude>
+    <ClInclude Include="sub\direct2D\specificNeeds\d2d1Needs\SafeRelease\SafeRelease.h">
+      <Filter>源文件\sub\direct2D\specificNeeds\d2d1Needs\SafeRelease</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

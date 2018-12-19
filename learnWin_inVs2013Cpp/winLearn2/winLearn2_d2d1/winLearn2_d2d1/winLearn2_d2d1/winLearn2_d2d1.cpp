@@ -133,7 +133,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	PAINTSTRUCT ps;
 	HDC hdc;
 
-	//自定义代码 开始-----------------------------------------------------------2018年12月19日00:39:27
+	
+
+
+	//自定义代码_用D2D1画矩形 开始-----------------------------------------------------------2018年12月19日00:39:27
+
 	//第二步
 	ID2D1Factory* pD2DFactory = NULL;
 	HRESULT hr = D2D1CreateFactory(
@@ -227,7 +231,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 
 	pD2DFactory->Release();
 
-	//自定义代码 结束-----------------------------------------------------------2018年12月19日00:39:27
+	//自定义代码_用D2D1画矩形 结束-----------------------------------------------------------2018年12月19日00:39:27
 
 	switch (message)
 	{

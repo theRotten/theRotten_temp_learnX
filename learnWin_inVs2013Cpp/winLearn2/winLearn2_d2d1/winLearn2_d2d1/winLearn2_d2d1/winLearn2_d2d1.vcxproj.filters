@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\demoApp">
+      <UniqueIdentifier>{fa819a9c-12b5-46e9-a0d8-35286f73d7d2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -30,6 +33,15 @@
     <ClInclude Include="winLearn2_d2d1.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="demoapp\demoApp_include.h">
+      <Filter>源文件\demoApp</Filter>
+    </ClInclude>
+    <ClInclude Include="demoapp\demoApp_namespace.h">
+      <Filter>源文件\demoApp</Filter>
+    </ClInclude>
+    <ClInclude Include="demoapp\demoApp_namespace_referanceUse.h">
+      <Filter>源文件\demoApp</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -37,6 +49,9 @@
     </ClCompile>
     <ClCompile Include="winLearn2_d2d1.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="demoapp\demoApp.cpp">
+      <Filter>源文件\demoApp</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

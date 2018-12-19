@@ -42,6 +42,12 @@
     <ClInclude Include="demoapp\demoApp_namespace_referanceUse.h">
       <Filter>源文件\demoApp</Filter>
     </ClInclude>
+    <ClInclude Include="winLearn2_d2d1_include.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="demoapp\demoApp.h">
+      <Filter>源文件\demoApp</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

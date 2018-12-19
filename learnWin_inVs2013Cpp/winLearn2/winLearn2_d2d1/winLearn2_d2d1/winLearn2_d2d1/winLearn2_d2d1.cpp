@@ -4,6 +4,8 @@
 #include "stdafx.h"
 #include "winLearn2_d2d1.h"
 
+#include "./winLearn2_d2d1_include.h"
+
 #define MAX_LOADSTRING 100
 
 // 全局变量: 
@@ -222,6 +224,42 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		pOrangeBrush);
 
 	hr = pRT->EndDraw();
+
+	//第5.1步：插入图
+	ID2D1Bitmap **ppBitmap;
+	//ID2D1Bitmap **********************************************ppBitmap2;
+	IWICImagingFactory *pIWICFactory;
+
+	IWICImagingFactory IWICFactory;
+
+	//创建位图
+	//CoInitialize(NULL);
+	//IWICImagingFactory *pFactory = NULL;
+	//IWICBitmapDecoder *pDecoder = NULL;
+	//HRESULT hr = CoCreateInstance(
+	//	CLSID_WICImagingFactory,
+	//	NULL,
+	//	CLSCTX_INPROC_SERVER,
+	//	IID_IWICImagingFactory,
+	//	(LPVOID*)&pFactory
+	//	);
+
+	CreateBitmap(
+		33,
+		3,
+		REFWICPixelFormatGUID      pixelFormat,
+		WICBitmapCacheOnDemand,
+		ppIBitmap
+		);
+
+	//“从文件装载位图”
+	DemoApp::LoadBitmapFromFile(pRT,
+		pIWICFactory,
+		L"./test24BitsBmpFile.bmp",
+		33,
+		3,
+		ppBitmap
+		);
 
 	//第6步：释放资源
 	pRT->Release();

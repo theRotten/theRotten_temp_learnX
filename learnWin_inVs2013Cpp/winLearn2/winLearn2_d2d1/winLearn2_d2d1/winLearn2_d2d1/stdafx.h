@@ -19,4 +19,11 @@
 
 
 // TODO:  在此处引用程序需要的其他头文件
+
+//使用d2d1
 #include <d2d1.h>
+#pragma  comment(lib,"d2d1.lib")
+
+//使用Windows Image Component （WIC）
+#include <wincodec.h>
+#pragma  comment(lib,"Windowscodecs.lib")

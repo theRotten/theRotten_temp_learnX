@@ -227,41 +227,44 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 
 	hr = pRT->EndDraw();
 
-	//第5.1步：插入图
-	ID2D1Bitmap **ppBitmap;
-	//ID2D1Bitmap **********************************************ppBitmap2;
-	IWICImagingFactory *pIWICFactory;
+	////第5.1步：插入图 开始--------------------------------2018年12月19日21:48:56
+	//ID2D1Bitmap **ppIBitmap;
+	////ID2D1Bitmap **********************************************ppBitmap2;
+	//IWICImagingFactory *pIWICFactory;
 
-	//IWICImagingFactory IWICFactory;
+	////IWICImagingFactory IWICFactory;
 
-	//创建位图
-	//CoInitialize(NULL);
-	//IWICImagingFactory *pFactory = NULL;
-	//IWICBitmapDecoder *pDecoder = NULL;
-	//HRESULT hr = CoCreateInstance(
-	//	CLSID_WICImagingFactory,
-	//	NULL,
-	//	CLSCTX_INPROC_SERVER,
-	//	IID_IWICImagingFactory,
-	//	(LPVOID*)&pFactory
+	////创建位图
+	////CoInitialize(NULL);
+	////IWICImagingFactory *pFactory = NULL;
+	////IWICBitmapDecoder *pDecoder = NULL;
+	////HRESULT hr = CoCreateInstance(
+	////	CLSID_WICImagingFactory,
+	////	NULL,
+	////	CLSCTX_INPROC_SERVER,
+	////	IID_IWICImagingFactory,
+	////	(LPVOID*)&pFactory
+	////	);
+
+	//GUID *pFormat;
+
+	//CreateBitmap(
+	//	33,
+	//	3,
+	//							IWICPixelFormatInfo::GetFormatGUID(pFormat),
+	//	WICBitmapCacheOnDemand,
+	//	ppIBitmap
 	//	);
 
-	CreateBitmap(
-		33,
-		3,
-		REFWICPixelFormatGUID      pixelFormat,
-		WICBitmapCacheOnDemand,
-		ppIBitmap
-		);
-
-	//“从文件装载位图”
-	DemoApp::LoadBitmapFromFile(pRT,
-		pIWICFactory,
-		L"./test24BitsBmpFile.bmp",
-		33,
-		3,
-		ppBitmap
-		);
+	////“从文件装载位图”
+	//DemoApp::LoadBitmapFromFile(pRT,
+	//	pIWICFactory,
+	//	L"./test24BitsBmpFile.bmp",
+	//	33,
+	//	3,
+	//	ppBitmap
+	//	);
+	////第5.1步：插入图 结束--------------------------------2018年12月19日21:48:56
 
 	//第6步：释放资源
 	pRT->Release();

@@ -428,7 +428,9 @@ LRESULT DemoApp::OnPaint(HWND hWnd)
             m_pRT->SetTransform(D2D1::Matrix3x2F::Identity());
 
             // Clear the background
-            m_pRT->Clear(D2D1::ColorF(D2D1::ColorF::White));
+            m_pRT->Clear(D2D1::ColorF(D2D1::ColorF::Orange));
+
+			//m_pRT->DrawTextW("abc", 3, "utf8", )
 
             auto rtSize = m_pRT->GetSize();
 

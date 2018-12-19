@@ -142,6 +142,8 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 
 	//第二步
 	ID2D1Factory* pD2DFactory = NULL;
+
+
 	HRESULT hr = D2D1CreateFactory(
 		D2D1_FACTORY_TYPE_SINGLE_THREADED,
 		&pD2DFactory
@@ -230,7 +232,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	//ID2D1Bitmap **********************************************ppBitmap2;
 	IWICImagingFactory *pIWICFactory;
 
-	IWICImagingFactory IWICFactory;
+	//IWICImagingFactory IWICFactory;
 
 	//创建位图
 	//CoInitialize(NULL);

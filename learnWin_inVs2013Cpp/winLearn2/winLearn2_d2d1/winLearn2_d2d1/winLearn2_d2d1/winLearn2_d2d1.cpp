@@ -147,11 +147,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 
 	//第三步
 	// Obtain the size of the drawing area.
-	RECT rc;
+	RECT rc;//关于[“rc”]的描述-: :概念_inThisXSet_-:“屏幕画图区域”	--2018年12月19日11:17:28
 	GetClientRect(hWnd, &rc);
 
 	// Create a Direct2D render target          
-	ID2D1HwndRenderTarget* pRT = NULL;
+	ID2D1HwndRenderTarget* pRT = NULL;//关于[“pRT”]的描述-: :概念_inThisXSet_-:“指向渲染目标的指针”	--2018年12月19日11:17:31
 	hr = pD2DFactory->CreateHwndRenderTarget(
 		D2D1::RenderTargetProperties(),
 		D2D1::HwndRenderTargetProperties(
@@ -164,7 +164,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		);
 
 	//第4步：创建画笔
-	ID2D1SolidColorBrush* pBlackBrush = NULL;
+	ID2D1SolidColorBrush* pBlackBrush = NULL;//关于[“pBlackBrush”]的描述-: :概念_inThisXSet_-:“一个叫"pBlackBrush"的画笔”	--2018年12月19日11:17:28
 	if (SUCCEEDED(hr))
 	{
 
@@ -174,7 +174,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			);
 	}
 
-	ID2D1SolidColorBrush* pRedBrush = NULL;
+	ID2D1SolidColorBrush* pRedBrush = NULL;//关于[“pRedBrush”]的描述-: :概念_inThisXSet_-:“一个叫"pRedBrush"的画笔”	--2018年12月19日11:17:28
 	if (SUCCEEDED(hr))
 	{
 
@@ -184,7 +184,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			);
 	}
 
-	ID2D1SolidColorBrush* pOrangeBrush = NULL;
+	ID2D1SolidColorBrush* pOrangeBrush = NULL;//关于[“pOrangeBrush”]的描述-: :概念_inThisXSet_-:“一个叫"pOrangeBrush"的画笔”	--2018年12月19日11:17:28
 	if (SUCCEEDED(hr))
 	{
 
@@ -197,7 +197,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	//第5步：绘制矩形
 	pRT->BeginDraw();
 
-	pRT->DrawRectangle(
+	pRT->DrawRectangle(//关于[“ pRT->DrawRectangle 执行过程”]的描述-: :概念_inThisXSet_-:“在概念“pRT”上用一个叫"pBlackBrush"的画笔画“如下的样子”（rc.left+100.0f,rc.top+10.0f......）”	--2018年12月19日11:28:18
 		D2D1::RectF(
 		rc.left + 100.0f,
 		rc.top + 10.0f,

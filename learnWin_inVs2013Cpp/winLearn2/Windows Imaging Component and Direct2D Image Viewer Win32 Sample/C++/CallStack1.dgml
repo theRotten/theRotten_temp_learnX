@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DirectedGraph DataVirtualized="True" Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
   <Nodes>
-    <Node Id="(Name=DemoApp::OnPaint @1 @2 OverloadingParameters=[(Type=&quot;HWND__ *&quot; Name=hWnd)] @3)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="39.6466666666667,258.395,82.2066666666667,25.8366666666666" Label="OnPaint" SourceLocation="(Assembly=&quot;file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn2/windows imaging component and direct2d image viewer win32 sample/c++/wicviewerd2d.cpp&quot; StartLineNumber=409 StartCharacterOffset=0 EndLineNumber=409 EndCharacterOffset=0)">
+    <Node Id="(Name=DemoApp::OnPaint @1 @2 OverloadingParameters=[(Type=&quot;HWND__ *&quot; Name=hWnd)] @3)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="39.6466666666667,258.395,82.2066666666667,25.8366666666666" Label="OnPaint" SourceLocation="(Assembly=&quot;file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn2/windows imaging component and direct2d image viewer win32 sample/c++/wicviewerd2d.cpp&quot; StartLineNumber=463 StartCharacterOffset=0 EndLineNumber=463 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
     </Node>

@@ -450,6 +450,29 @@ LRESULT DemoApp::OnPaint(HWND hWnd)
                 m_pRT->DrawBitmap(m_pD2DBitmap, rectangle);
             }
 
+			//自定义代码，画矩形 开始---------------------------------------2018年12月19日21:59:32
+
+			//弄个笔
+			ID2D1SolidColorBrush* pRedBrush = NULL;
+			m_pRT->CreateSolidColorBrush(
+				D2D1::ColorF(D2D1::ColorF::Red),
+				&pRedBrush
+				);
+
+			static float leftAdd = 200.0;
+			leftAdd += 10.0;
+			//用笔画
+			m_pRT->DrawRectangle(
+				D2D1::RectF(
+				rectangle.left + leftAdd,
+				rectangle.top + 200.0f,
+				rectangle.right - 200.0f,
+				rectangle.bottom - 200.0f),
+				pRedBrush);
+
+
+			//自定义代码，画矩形 结束---------------------------------------2018年12月19日21:59:32
+
             hr = m_pRT->EndDraw();
 
             // In case of device loss, discard D2D render target and D2DBitmap
@@ -458,6 +481,11 @@ LRESULT DemoApp::OnPaint(HWND hWnd)
             {
                 SafeRelease(m_pD2DBitmap);
                 SafeRelease(m_pRT);
+
+				//自定义代码，释放笔 开始---------------------------------------2018年12月19日21:59:32
+				SafeRelease(pRedBrush);			
+				//自定义代码，释放笔 结束---------------------------------------2018年12月19日21:59:32
+
                 // Force a re-render
                 hr = InvalidateRect(hWnd, nullptr, TRUE)? S_OK : E_FAIL;
             }

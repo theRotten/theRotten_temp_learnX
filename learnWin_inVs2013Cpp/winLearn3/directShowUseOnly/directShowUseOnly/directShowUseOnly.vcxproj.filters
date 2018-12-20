@@ -13,5 +13,21 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\main">
+      <UniqueIdentifier>{6a69b26b-39b0-4e58-aa39-defaf5329e25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\main_include">
+      <UniqueIdentifier>{77ab9523-c433-486e-a3e9-720fed9449be}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main\main.cpp">
+      <Filter>源文件\main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main\main_include.hpp">
+      <Filter>头文件\main_include</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

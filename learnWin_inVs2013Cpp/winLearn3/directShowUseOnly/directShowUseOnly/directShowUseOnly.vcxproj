@@ -77,6 +77,7 @@
     <ClInclude Include="resource.h" />
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_include.hpp" />
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_include.hpp" />
+    <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_useThis.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

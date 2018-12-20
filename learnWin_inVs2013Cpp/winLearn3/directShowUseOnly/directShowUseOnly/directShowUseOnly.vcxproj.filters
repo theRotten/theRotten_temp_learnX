@@ -34,14 +34,20 @@
     <Filter Include="头文件\cppFileX_include.h">
       <UniqueIdentifier>{85f987c6-e85c-459f-88a8-41e3e3c33bb0}</UniqueIdentifier>
     </Filter>
-    <Filter Include="头文件\cppFileX_include.h\useDirectShow.c">
-      <UniqueIdentifier>{6f2686f2-7cbb-40e4-82d0-5c19d0944651}</UniqueIdentifier>
-    </Filter>
     <Filter Include="头文件\cppFileX_namespace_include.h">
       <UniqueIdentifier>{138885ae-a6a3-475c-9c37-12317185d5dd}</UniqueIdentifier>
     </Filter>
     <Filter Include="头文件\cppFileX_namespace_include.h\useDirectShow.cpp">
       <UniqueIdentifier>{e9057cf2-9a5e-483c-a19a-8b112e2a2e1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_useThis.h">
+      <UniqueIdentifier>{57e94da9-1681-4459-af36-0f059ac3fda4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_include.h\useDirectShow.cpp">
+      <UniqueIdentifier>{6f2686f2-7cbb-40e4-82d0-5c19d0944651}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_useThis.h\useDirectShow.cpp">
+      <UniqueIdentifier>{9c4e5b58-cba8-4c92-b723-130d2f12d510}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -60,13 +66,16 @@
       <Filter>头文件\thirdParty_useNeeds\useDirectShow</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_include.hpp">
-      <Filter>头文件\cppFileX_include.h\useDirectShow.c</Filter>
+      <Filter>头文件\cppFileX_include.h\useDirectShow.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_include.hpp">
       <Filter>头文件\cppFileX_namespace_include.h\useDirectShow.cpp</Filter>
     </ClInclude>
     <ClInclude Include="resource.h">
       <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_useThis.hpp">
+      <Filter>头文件\cppFileX_namespace_useThis.h\useDirectShow.cpp</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

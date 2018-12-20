@@ -57,6 +57,9 @@
     <ClCompile Include="source\sub\useDirectShow\useDirectShow.cpp">
       <Filter>源文件\sub\useDirectShow</Filter>
     </ClCompile>
+    <ClCompile Include="source\functionSets\playAFile\useDirectShow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main\main_include.hpp">
@@ -71,11 +74,20 @@
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_include.hpp">
       <Filter>头文件\cppFileX_namespace_include.h\useDirectShow.cpp</Filter>
     </ClInclude>
-    <ClInclude Include="resource.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_useThis.hpp">
       <Filter>头文件\cppFileX_namespace_useThis.h\useDirectShow.cpp</Filter>
     </ClInclude>
+    <ClInclude Include="source\functionSets\playAFile\useDirectShow_include.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="source\functionSets\playAFile\useDirectShow_namespace_include.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="source\functionSets\playAFile\useDirectShow_namespace_useThis.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
 </Project>

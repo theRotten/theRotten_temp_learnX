@@ -65,5 +65,8 @@
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_include.hpp">
       <Filter>头文件\cppFileX_namespace_include.h\useDirectShow.cpp</Filter>
     </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -74,6 +74,7 @@
   <ItemGroup>
     <ClInclude Include="header\thirdParty_useNeeds\useDirectShow\useDirectShow_needsInclude.hpp" />
     <ClInclude Include="main\main_include.hpp" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_include.hpp" />
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_include.hpp" />
   </ItemGroup>

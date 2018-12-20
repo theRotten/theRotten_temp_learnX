@@ -1,5 +1,5 @@
-#ifndef useDirectShow_namespace_include_hpp
-#define useDirectShow_namespace_include_hpp
+#ifndef __useDirectShow_namespace_include_hpp
+#define __useDirectShow_namespace_include_hpp
 
 
 

@@ -57,7 +57,7 @@
     <ClCompile Include="source\sub\useDirectShow\useDirectShow.cpp">
       <Filter>源文件\sub\useDirectShow</Filter>
     </ClCompile>
-    <ClCompile Include="source\functionSets\playAFile\useDirectShow.cpp">
+    <ClCompile Include="source\functionSets\persuade_playAFile\playAFile.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -77,13 +77,13 @@
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_useThis.hpp">
       <Filter>头文件\cppFileX_namespace_useThis.h\useDirectShow.cpp</Filter>
     </ClInclude>
-    <ClInclude Include="source\functionSets\playAFile\useDirectShow_include.hpp">
+    <ClInclude Include="source\functionSets\persuade_playAFile\playAFile_include.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="source\functionSets\playAFile\useDirectShow_namespace_include.hpp">
+    <ClInclude Include="source\functionSets\persuade_playAFile\playAFile_namespace_include.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="source\functionSets\playAFile\useDirectShow_namespace_useThis.hpp">
+    <ClInclude Include="source\functionSets\persuade_playAFile\playAFile_namespace_useThis.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

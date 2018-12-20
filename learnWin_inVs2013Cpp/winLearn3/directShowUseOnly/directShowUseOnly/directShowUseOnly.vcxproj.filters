@@ -19,15 +19,51 @@
     <Filter Include="头文件\main_include">
       <UniqueIdentifier>{77ab9523-c433-486e-a3e9-720fed9449be}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\thirdParty_useNeeds">
+      <UniqueIdentifier>{14662288-b293-411a-a0f9-ab01c068c6c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\thirdParty_useNeeds\useDirectShow">
+      <UniqueIdentifier>{15ff84eb-6c16-4e10-8590-7b44f2705fe7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sub">
+      <UniqueIdentifier>{471e2c5a-f31a-4422-b24c-1fccf8da9733}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sub\useDirectShow">
+      <UniqueIdentifier>{e668c994-7c0b-411b-ba57-c582afdfacf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_include.h">
+      <UniqueIdentifier>{85f987c6-e85c-459f-88a8-41e3e3c33bb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_include.h\useDirectShow.c">
+      <UniqueIdentifier>{6f2686f2-7cbb-40e4-82d0-5c19d0944651}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_include.h">
+      <UniqueIdentifier>{138885ae-a6a3-475c-9c37-12317185d5dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_include.h\useDirectShow.cpp">
+      <UniqueIdentifier>{e9057cf2-9a5e-483c-a19a-8b112e2a2e1e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main\main.cpp">
       <Filter>源文件\main</Filter>
     </ClCompile>
+    <ClCompile Include="source\sub\useDirectShow\useDirectShow.cpp">
+      <Filter>源文件\sub\useDirectShow</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main\main_include.hpp">
       <Filter>头文件\main_include</Filter>
+    </ClInclude>
+    <ClInclude Include="header\thirdParty_useNeeds\useDirectShow\useDirectShow_needsInclude.hpp">
+      <Filter>头文件\thirdParty_useNeeds\useDirectShow</Filter>
+    </ClInclude>
+    <ClInclude Include="source\sub\useDirectShow\useDirectShow_include.hpp">
+      <Filter>头文件\cppFileX_include.h\useDirectShow.c</Filter>
+    </ClInclude>
+    <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_include.hpp">
+      <Filter>头文件\cppFileX_namespace_include.h\useDirectShow.cpp</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

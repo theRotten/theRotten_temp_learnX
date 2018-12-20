@@ -219,7 +219,7 @@
     <Node Id="功能集" Bounds="60,467.994000231237,572.283000077079,257.994000231237" Group="Expanded" Label="内部组件 集" />
     <Node Id="功能集1" Bounds="60,120,576.971333410412,317.994000231237" Group="Expanded" Label="功能集" />
     <Node Id="外部组件调用提供集" Bounds="306.974833371873,775.988000462474,310.458000077079,145.998000077079" Group="Expanded" Label="外部组件调用提供 集" LayoutSettings="ForceDirected" />
-    <Node Id="流程功能" Bounds="80,160,536.971333410413,257.994000231237" Group="Expanded" Label="persuade" />
+    <Node Id="流程功能" Bounds="80,160,536.971333410413,257.994000231237" Group="Expanded" Label="persuade式" />
     <Node Id="自己写产出的代码" Bounds="20,40,884.407666820825,901.986000539553" Group="Expanded" Label="我们自己写产出的代码" />
   </Nodes>
   <Links>

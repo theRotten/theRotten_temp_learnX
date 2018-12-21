@@ -216,27 +216,31 @@
     <Node Id="@97" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\stdarg.h" Label="stdarg.h" />
     <Node Id="@99" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\wingdi.h" Label="wingdi.h" />
     <Node Id="C/C++ Standard Library 间接包含" Category="CodeSchema_PoundIncludeGroup" Group="Collapsed" IsHubContainer="True" Label="间接包含" />
-    <Node Id="COM组件" Bounds="585.710500077079,1029.98800046247,205.7,85.998000077079" Group="Expanded" Label="directShow对COM组件的调用" />
-    <Node Id="COM组件调用" Bounds="553.33150003854,1341.98400061663,232.551333410412,85.9980000770788" Group="Expanded" Label="COM组件调用" />
-    <Node Id="DirectShow调用" Bounds="553.33150003854,1225.98600053955,270.458000077079,85.998000077079" Group="Expanded" Label="directShow调用" />
+    <Node Id="COM组件" Category="Category2" Bounds="585.710500077079,1029.98800046247,205.7,85.998000077079" Group="Expanded" Label="directShow对COM组件的调用" />
+    <Node Id="COM组件调用" Category="Category2" Bounds="553.33150003854,1341.98400061663,232.551333410412,85.9980000770788" Group="Expanded" Label="COM组件调用" />
+    <Node Id="DirectShow调用" Category="Category2" Bounds="553.33150003854,1225.98600053955,270.458000077079,85.998000077079" Group="Expanded" Label="directShow调用" />
     <Node Id="G2" Category="CodeSchema_PoundIncludeGroup" ErrorMessage="找到的循环引用涉及:   C/C++ Standard Library (G2)" Group="Collapsed" IsHubContainer="True" IsStronglyConnected="True" Label="C/C++ Standard Library" />
     <Node Id="G4" Category="CodeSchema_PoundIncludeGroup" ErrorMessage="找到的循环引用涉及:   Windows SDK (G4)" Group="Collapsed" IsHubContainer="True" IsStronglyConnected="True" Label="Windows SDK" />
-    <Node Id="Main" Bounds="60,643.992000308316,202.124666743746,159.998000077079" Group="Expanded" Label="main" />
-    <Node Id="PlayAFile" Bounds="100,200,574.838000077079,373.992000308316" Group="Expanded" Label="playAFile" />
+    <Node Id="Main" Category="Category2" Bounds="60,643.992000308316,202.124666743746,159.998000077079" Group="Expanded" Label="main" />
+    <Node Id="PlayAFile" Category="Category3" Bounds="100,200,574.838000077079,373.992000308316" Group="Expanded" Label="playAFile" />
     <Node Id="PoundIncludeGraphExternalsGroup" Category="Externals" Bounds="656.560500077079,1537.98200069371,64,25" Group="Collapsed" IsHubContainer="True" Label="外部" />
     <Node Id="Windows SDK 间接包含" Category="CodeSchema_PoundIncludeGroup" ErrorMessage="找到的循环引用涉及:   间接包含 (Windows SDK 间接包含)" Group="Collapsed" IsHubContainer="True" IsStronglyConnected="True" Label="间接包含" />
-    <Node Id="使用COM" Bounds="764.838000077079,160,456.376333410412,197.994000231237" Group="Expanded" Label="使用COM" />
-    <Node Id="使用directShow" Bounds="764.838000077079,387.994000231237,532.283000077079,197.994000231237" Group="Expanded" Label="使用directShow" />
-    <Node Id="使用过程中协作调用" Category="Category2" Bounds="425.072166743746,893.990000385395,526.976666666667,261.996000154158" Group="Expanded" Label="使用过程中协作调用关系 （x用b组件时，b组件过程中需要对c组件有的协作调用包含关系）" />
+    <Node Id="使用COM" Category="Category2" Bounds="764.838000077079,160,456.376333410412,197.994000231237" Group="Expanded" Label="使用COM" />
+    <Node Id="使用directShow" Category="Category2" Bounds="764.838000077079,387.994000231237,532.283000077079,197.994000231237" Group="Expanded" Label="使用directShow" />
+    <Node Id="使用过程中协作调用" Category="Category2" Bounds="425.072166743746,893.990000385395,526.976666666667,261.996000154158" Group="Expanded" Label="使用过程中协作调用关系 （x用b组件时，b组件过程中需要对c组件有的协作调用包含关系）">
+      <Category Ref="Category6" />
+    </Node>
     <Node Id="内体系代码" Bounds="40,80,1297.12100015416,743.990000385395" Group="Expanded" Label="内体系代码" />
     <Node Id="功能集" Bounds="744.838000077079,120,572.283000077079,485.988000462474" Group="Expanded" Label="内部组件 集" />
     <Node Id="功能集1" Bounds="60,120,654.838000077079,493.992000308316" Group="Expanded" Label="功能集" />
     <Node Id="外部流程" Bounds="405.072166743746,853.990000385395,566.976666666667,613.992000308316" Group="Expanded" Label="外部流程" />
-    <Node Id="外部组件调用提供集" Category="Category2" Bounds="533.33150003854,1185.98600053955,310.458000077079,261.996000154158" Group="Expanded" Label="外部组件调用提供 集" LayoutSettings="ForceDirected" />
+    <Node Id="外部组件调用提供集" Category="Category2" Bounds="533.33150003854,1185.98600053955,310.458000077079,261.996000154158" Group="Expanded" Label="外部组件调用提供 集" LayoutSettings="ForceDirected">
+      <Category Ref="Category6" />
+    </Node>
     <Node Id="想使用directShow播放视频" Bounds="140,447.994000231237,262.048000077079,85.998000077079" Group="Expanded" Label="想使用directShow" />
     <Node Id="某过程流程包含的对第三方调用" Bounds="120,407.994000231237,302.048000077079,145.998000077079" Group="Expanded" Label="当前过程流程包含的对第三方调用" />
     <Node Id="流程功能" Bounds="80,160,614.838000077079,433.992000308316" Group="Expanded" Label="procedure式" />
-    <Node Id="用到DirectShow的调用过程包含" Bounds="531.669833371873,933.990000385395,313.781333410413,201.996000154158" Group="Expanded" Label=" directShow 的用到使用调用过程包含" />
+    <Node Id="用到DirectShow的调用过程包含" Category="Category2" Bounds="531.669833371873,933.990000385395,313.781333410413,201.996000154158" Group="Expanded" Label=" directShow 的用到使用调用过程包含" />
     <Node Id="自己写产出的代码" Bounds="20,40,1337.12100015416,1447.98200069371" Group="Expanded" Label="我们自己写产出的代码" />
   </Nodes>
   <Links>
@@ -719,14 +723,14 @@
     <Link Source="@41" Target="@371" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@41" Target="@65" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@411" Target="@21" Category="PoundInclude" />
-    <Link Source="@411" Target="@423" Category="PoundInclude" Bounds="156.890667404428,177.993598719737,7.15283391627963E-07,21.0001" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@411" Target="@423" Category="PoundInclude" Bounds="271.024002075195,377.993097689966,0,101.0003" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@413" Target="@421" Category="PoundInclude" Bounds="688.560492833278,999.987983192837,1.93917908291041E-05,61.0000773154993" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@415" Target="@399" Category="PoundInclude" Bounds="316.823223716244,345.987993365362,6.88905435950272,21.4318816590358" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@415" Target="@399" Category="PoundInclude" Bounds="673.382294397474,281.995483375652,188.365629196235,1091.1215051994" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@415" Target="@405" Category="PoundInclude" Bounds="915.757751464844,281.996002197266,110.739562988281,27.8080444335938" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@417" Target="@401" Category="PoundInclude" Bounds="133.310316731683,513.982043607352,88.9019903977544,27.3536593080113" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@419" Target="@401" Category="PoundInclude" Bounds="279.99488927036,513.982304906578,6.88905519678843,21.4318708512158" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@417" Target="@401" Category="PoundInclude" Bounds="183.509223769158,783.990197844125,485.360588277018,475.697646894818" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@419" Target="@401" Category="PoundInclude" Bounds="693.962825551322,509.989983606889,185.751285688841,747.263315093952" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@419" Target="@407" Category="PoundInclude" Bounds="943.532104492188,509.989990234375,131.026733398438,28.1119995117188" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@421" Target="@399" Category="PoundInclude" Bounds="670.942551033191,1095.98606058541,16.8282629138872,277.0145325803" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@421" Target="@399" Category="PoundInclude" Bounds="670.942547065122,1095.98690103069,16.8282692319483,277.015460956475" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@423" Target="@413" Category="PoundInclude" Bounds="156.890669311777,233.991804521183,7.15283391627963E-07,21.0001" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@425" Target="@403" Category="PoundInclude" Bounds="539.023986816406,321.996002197266,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@427" Target="@405" Category="PoundInclude" Bounds="1086.99194335938,281.996002197266,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
@@ -1098,6 +1102,8 @@
   </Links>
   <Categories>
     <Category Id="Category2" Label="类别 2" Background="#FF339933" IsTag="True" />
+    <Category Id="Category3" Label="类别 3" Background="#FF3EBCED" IsTag="True" />
+    <Category Id="Category6" Label="类别 6" Background="#FFA1260D" IsTag="True" />
     <Category Id="CodeSchema_PoundIncludeFile" Label="C++ 项目文件" BasedOn="File" Background="#FFEFEFEF" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="C++ 项目文件" />
     <Category Id="CodeSchema_PoundIncludeGroup" Label="#include 组" BasedOn="Group" Background="#FFEFEFEF" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="#include 组" />
     <Category Id="CodeSchema_ProjectItem" Label="项目项" BasedOn="File" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Type" Icon="File" NavigationActionLabel="项目项" />
@@ -1577,6 +1583,14 @@
     <Alias n="429" Id="(@1 @428)" />
   </IdentifierAliases>
   <Styles>
+    <Style TargetType="Node" GroupLabel="类别 6" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('Category6')" />
+      <Setter Property="Background" Value="#FFA1260D" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="类别 7" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('Category7')" />
+      <Setter Property="Background" Value="#FF347A30" />
+    </Style>
     <Style TargetType="Node" GroupLabel="C++ 项目文件" ValueLabel="具有类别">
       <Condition Expression="HasCategory('CodeSchema_PoundIncludeFile')" />
       <Setter Property="Background" Value="#FFEFEFEF" />

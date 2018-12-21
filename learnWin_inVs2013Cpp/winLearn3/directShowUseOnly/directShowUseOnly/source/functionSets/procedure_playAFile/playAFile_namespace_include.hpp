@@ -9,7 +9,7 @@ namespace aRottenGeneralNameThisX_thisNamespace
 	{
 		namespace persuade_playAFile
 		{
-
+			void playAFile_demo(void);
 		}
 	}
 	

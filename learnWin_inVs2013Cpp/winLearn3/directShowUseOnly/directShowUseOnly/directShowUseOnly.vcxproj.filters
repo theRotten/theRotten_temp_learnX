@@ -80,9 +80,6 @@
     <ClInclude Include="header\thirdParty_procedureNeedUses\directShowUse\directShowUseProcedure_all_include.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="source\functionSets\procedure_playAFile\thirdPartUse_include\directShow_use\playAFile_wantToUseDirectShow_playMovie.hpp">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_include.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -93,6 +90,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_thirdPartyUse_include.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="source\functionSets\procedure_playAFile\thirdPartyUse_include\directShow_use\playAFile_wantToUseDirectShow_playMo.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

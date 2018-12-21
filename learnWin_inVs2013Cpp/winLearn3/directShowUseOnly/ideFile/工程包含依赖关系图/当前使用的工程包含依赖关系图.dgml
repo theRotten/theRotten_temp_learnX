@@ -174,7 +174,9 @@
     <Node Id="@408" Category="CodeSchema_ProjectItem" Bounds="682.283000077079,739.990000385395,162.124666743746,44" FilePath="$(VsSolution)\directshowuseonly\main\main_include.hpp" Group="Expanded" Label="main_include.hpp" />
     <Node Id="@41" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\dsound.h" Label="dsound.h" />
     <Node Id="@410" Category="CodeSchema_ProjectItem" Bounds="100,779.990000385395,196.214666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow_include.hpp" Label="usedirectshow_include.hpp" />
-    <Node Id="@412" Category="CodeSchema_ProjectItem" Bounds="350.396666666667,487.994000231237,306.834666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\thirdpartuse_include\directshow_use\playafile_wanttousedirectshow_playmovie.hpp" Label="playafile_wanttousedirectshow_playmovie.hpp" />
+    <Node Id="@412" Category="CodeSchema_ProjectItem" Bounds="350.396666666667,487.994000231237,306.834666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\thirdpartuse_include\directshow_use\playafile_wanttousedirectshow_playmovie.hpp" Label="playafile_wanttousedirectshow_playmovie.hpp">
+      <Category Ref="Category1" />
+    </Node>
     <Node Id="@414" Category="CodeSchema_ProjectItem" Bounds="120.656666666667,295.998000077079,230.314666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile_namespace_usethis.hpp" Label="playafile_namespace_usethis.hpp" />
     <Node Id="@416" Category="CodeSchema_ProjectItem" Bounds="326.588333333333,779.990000385395,265.038000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow_namespace_usethis.hpp" Label="usedirectshow_namespace_usethis.hpp" />
     <Node Id="@43" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\audevcod.h" Label="audevcod.h" />
@@ -705,7 +707,7 @@
     <Link Source="@397" Target="@361" Category="PoundInclude" Bounds="298.883483886719,-119.524505615234,152.473785400391,465.663146972656" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@403" Target="@399" Category="PoundInclude" Bounds="297.011962890625,321.996002197266,112.339904785156,27.83544921875" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@403" Target="@405" Category="PoundInclude" Bounds="471.563598632813,321.996002197266,17.1006774902344,22.8000793457031" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@405" Target="@412" Category="PoundInclude" Bounds="106.426559448242,-494.667053222656,101.748626708984,591.817497253418" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@405" Target="@412" Category="PoundInclude" Bounds="503.813995361328,377.992824161748,0,101.0003" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@408" Target="@397" Category="PoundInclude" Bounds="659.248596191406,745.489440917969,326.26513671875,283.899963378906" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@41" Target="@177" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@41" Target="@317" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
@@ -1074,6 +1076,7 @@
     <Link Source="自己写产出的代码" Target="外部流程" Category="Contains" />
   </Links>
   <Categories>
+    <Category Id="Category1" Label="类别 1" Background="#FFE51400" IsTag="True" />
     <Category Id="Category2" Label="类别 2" Background="#FF339933" IsTag="True" />
     <Category Id="CodeSchema_PoundIncludeFile" Label="C++ 项目文件" BasedOn="File" Background="#FFEFEFEF" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="C++ 项目文件" />
     <Category Id="CodeSchema_PoundIncludeGroup" Label="#include 组" BasedOn="Group" Background="#FFEFEFEF" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="#include 组" />

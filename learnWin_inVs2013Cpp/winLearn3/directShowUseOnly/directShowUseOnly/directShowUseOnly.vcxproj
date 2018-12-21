@@ -77,7 +77,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header\thirdParty_procedureNeedUses\directShowUse\directShowUseProcedure_all_include.hpp" />
-    <ClInclude Include="header\thirdParty_procedureNeedUses\directShowUse\useCOM\initialCOM.h" />
+    <ClInclude Include="header\thirdParty_procedureNeedUses\directShowUse\useCOM\initialCOM.hpp" />
     <ClInclude Include="header\thirdParty_useNeeds\useDirectShow\useDirectShow_needsInclude.hpp" />
     <ClInclude Include="main\main_include.hpp" />
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_include.hpp" />

@@ -19,12 +19,6 @@
     <Filter Include="头文件\main_include">
       <UniqueIdentifier>{77ab9523-c433-486e-a3e9-720fed9449be}</UniqueIdentifier>
     </Filter>
-    <Filter Include="头文件\thirdParty_useNeeds">
-      <UniqueIdentifier>{14662288-b293-411a-a0f9-ab01c068c6c7}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\thirdParty_useNeeds\useDirectShow">
-      <UniqueIdentifier>{15ff84eb-6c16-4e10-8590-7b44f2705fe7}</UniqueIdentifier>
-    </Filter>
     <Filter Include="源文件\sub">
       <UniqueIdentifier>{471e2c5a-f31a-4422-b24c-1fccf8da9733}</UniqueIdentifier>
     </Filter>
@@ -37,17 +31,146 @@
     <Filter Include="头文件\cppFileX_namespace_include.h">
       <UniqueIdentifier>{138885ae-a6a3-475c-9c37-12317185d5dd}</UniqueIdentifier>
     </Filter>
-    <Filter Include="头文件\cppFileX_namespace_include.h\useDirectShow.cpp">
-      <UniqueIdentifier>{e9057cf2-9a5e-483c-a19a-8b112e2a2e1e}</UniqueIdentifier>
-    </Filter>
     <Filter Include="头文件\cppFileX_namespace_useThis.h">
       <UniqueIdentifier>{57e94da9-1681-4459-af36-0f059ac3fda4}</UniqueIdentifier>
     </Filter>
-    <Filter Include="头文件\cppFileX_include.h\useDirectShow.cpp">
+    <Filter Include="头文件\cppFileX_namespace_include.h\functions">
+      <UniqueIdentifier>{15aeecd4-054d-49dc-8bc5-2611dab94a1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_include.h\sub">
+      <UniqueIdentifier>{1bda6445-15d0-4a25-ae77-cc9b926a34b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_include.h\sub">
+      <UniqueIdentifier>{f06c921b-1f2e-45d8-ad3d-b3883d03fb25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_include.h\functions">
+      <UniqueIdentifier>{f3c293c5-dea6-4731-9361-de3f43b14b25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_include.h\sub\useDirectShow">
+      <UniqueIdentifier>{296196e9-5f99-4fed-80a7-b3b495aca7af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_include.h\sub\useDirectShow\useDirectShow.cpp">
       <UniqueIdentifier>{6f2686f2-7cbb-40e4-82d0-5c19d0944651}</UniqueIdentifier>
     </Filter>
-    <Filter Include="头文件\cppFileX_namespace_useThis.h\useDirectShow.cpp">
+    <Filter Include="头文件\cppFileX_namespace_include.h\functions\playAFile">
+      <UniqueIdentifier>{d946e35e-3a0c-4f05-8891-7e4ae079c5a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_include.h\functions\playAFile\playAFile.cpp">
+      <UniqueIdentifier>{d4993f00-5e33-4d95-ab96-2e82f7503fe3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_include.h\sub\useCOM">
+      <UniqueIdentifier>{9ce82659-e33e-4204-bac1-bb5914b45f61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_include.h\sub\useCOM\useCOM.cpp">
+      <UniqueIdentifier>{491286ac-cf1a-43d9-826c-8ad6412b0a08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_include.h\sub\useDirectShow">
+      <UniqueIdentifier>{419b6be1-4cd6-4a07-8c0e-b086f487191a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_include.h\sub\useDirectShow\useDirectShow.cpp">
+      <UniqueIdentifier>{e9057cf2-9a5e-483c-a19a-8b112e2a2e1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_useThis.h\sub">
+      <UniqueIdentifier>{be6fc7d7-aca4-42aa-8ace-90f42844d45c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_useThis.h\sub\useDirectShow">
+      <UniqueIdentifier>{79b84e3d-d880-4fa4-b855-9eca0ccac743}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_useThis.h\sub\useDirectShow\useDirectShow.cpp">
       <UniqueIdentifier>{9c4e5b58-cba8-4c92-b723-130d2f12d510}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_useThis.h\sub\useCOM">
+      <UniqueIdentifier>{fb58ae7c-bbed-45f2-8a0d-344f2a93f69e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_useThis.h\sub\useCOM\useCOM.cpp">
+      <UniqueIdentifier>{3b1fb74a-0406-47ac-8042-b1f8aee17179}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件">
+      <UniqueIdentifier>{5d6a235f-7961-4dfd-bd24-30645ed72911}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程">
+      <UniqueIdentifier>{502178c5-c4a6-4c53-92c6-da7c39bfdbed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系">
+      <UniqueIdentifier>{4325816d-442c-4dd7-b267-bc5dceff3033}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集">
+      <UniqueIdentifier>{54cdd17c-98f3-40cc-b216-a2dbf299515a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集\独立成分调用 式头文件">
+      <UniqueIdentifier>{5d7bb314-2531-4a89-bffc-d0fc849a2747}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集\独立成分调用 式头文件\COM">
+      <UniqueIdentifier>{50a1225f-f18b-4758-b020-f10670801a9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集\独立成分调用 式头文件\directShow">
+      <UniqueIdentifier>{b706b313-4b90-4e77-9eb2-3edc5e8df2f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\全包含 式头文件">
+      <UniqueIdentifier>{524b9e2a-99d3-4986-ab58-5db906e667d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\协作成分 式头文件">
+      <UniqueIdentifier>{18a245a7-030c-4c3d-ab73-1bcea976f54d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\协作成分 式头文件\directShow">
+      <UniqueIdentifier>{dc6c521c-32d8-4e98-bb89-bafb3d9b6b66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\协作成分 式头文件\directShow\COM">
+      <UniqueIdentifier>{a4049a53-40d6-455d-8b12-76c91b8fe042}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_include.h\functions\procedure_playAFile">
+      <UniqueIdentifier>{a411bbe3-3f8b-4752-ae3c-c8a9c7af8cff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_include.h\functions\procedure_playAFile\playAFile.cpp">
+      <UniqueIdentifier>{3616379c-54e0-4718-8257-44e3712c92cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_useThis.h\functions">
+      <UniqueIdentifier>{5a641d6b-5ce4-441e-9eef-06b110b47670}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_useThis.h\functions\procedure_playAFile">
+      <UniqueIdentifier>{86ca4143-6efa-45d8-847d-cd34ec20e641}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_useThis.h\functions\procedure_playAFile\playAFile.cpp">
+      <UniqueIdentifier>{04c0b7a3-0cbf-4a11-b27d-97fd27ba8570}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码">
+      <UniqueIdentifier>{ae8f6b04-c5bf-4a93-923c-f7ab55f7c9fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集">
+      <UniqueIdentifier>{7168a612-1bc6-4dae-aeaa-490a6cbb7b4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式">
+      <UniqueIdentifier>{9785b3eb-ffa6-404b-8f76-0786b5039fb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_include.h\sub\useCOM">
+      <UniqueIdentifier>{ed22b60a-95d3-4012-bfd1-0e0efe378876}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_include.h\sub\useCOM\useCOM.cpp">
+      <UniqueIdentifier>{75ccd14d-38cf-4d86-80df-154cf2547844}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程对第三方的使用 式头文件">
+      <UniqueIdentifier>{ac213605-5b0f-4b9a-8354-c09db29896f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件">
+      <UniqueIdentifier>{85b4fc9e-0dd2-4176-8604-cf102d4ecbf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件\playAFile">
+      <UniqueIdentifier>{72f45838-1764-4d4f-a411-90cf81709ebf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件\playAFile\directShow">
+      <UniqueIdentifier>{0f9f376d-1cac-48be-9968-381942fca3cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程对第三方的使用 式头文件\playAFile">
+      <UniqueIdentifier>{d77a94fa-0378-46f0-8892-74ac2e839c08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\functionSets">
+      <UniqueIdentifier>{97f912ef-ad81-45bf-b8be-08459c4b71c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\functionSets\playAFile">
+      <UniqueIdentifier>{6b388653-c20f-4550-bc79-4f504c01230a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sub\useCOM">
+      <UniqueIdentifier>{6aa2b29b-8eaf-44ac-a185-4cc861a018c3}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -58,60 +181,60 @@
       <Filter>源文件\sub\useDirectShow</Filter>
     </ClCompile>
     <ClCompile Include="source\functionSets\procedure_playAFile\playAFile.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\functionSets\playAFile</Filter>
     </ClCompile>
     <ClCompile Include="source\sub\useCOM\useCOM.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\sub\useCOM</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main\main_include.hpp">
       <Filter>头文件\main_include</Filter>
     </ClInclude>
-    <ClInclude Include="header\thirdParty_useNeeds\useDirectShow\useDirectShow_needsInclude.hpp">
-      <Filter>头文件\thirdParty_useNeeds\useDirectShow</Filter>
-    </ClInclude>
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_include.hpp">
-      <Filter>头文件\cppFileX_include.h\useDirectShow.cpp</Filter>
+      <Filter>头文件\cppFileX_include.h\sub\useDirectShow\useDirectShow.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_include.hpp">
-      <Filter>头文件\cppFileX_namespace_include.h\useDirectShow.cpp</Filter>
+      <Filter>头文件\cppFileX_namespace_include.h\sub\useDirectShow\useDirectShow.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_useThis.hpp">
-      <Filter>头文件\cppFileX_namespace_useThis.h\useDirectShow.cpp</Filter>
-    </ClInclude>
-    <ClInclude Include="header\thirdParty_procedureNeedUses\directShowUse\directShowUseProcedure_all_include.hpp">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_include.hpp">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_namespace_include.hpp">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_namespace_useThis.hpp">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_thirdPartyUse_include.hpp">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="source\functionSets\procedure_playAFile\thirdPartyUse_include\directShow_use\plAF_wTUseDirectShow_pMo.hpp">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="header\thirdParty_useNeeds\useCOM\useCOM_needsInclude.hpp">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="source\sub\useCOM\useCOM_include.hpp">
-      <Filter>头文件</Filter>
+      <Filter>头文件\cppFileX_namespace_useThis.h\sub\useDirectShow\useDirectShow.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\useCOM\useCOM_namespace_include.hpp">
-      <Filter>头文件</Filter>
+      <Filter>头文件\cppFileX_namespace_include.h\sub\useCOM\useCOM.cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_namespace_include.hpp">
+      <Filter>头文件\cppFileX_namespace_include.h\functions\playAFile\playAFile.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\useCOM\useCOM_namespace_useThis.hpp">
-      <Filter>头文件</Filter>
+      <Filter>头文件\cppFileX_namespace_useThis.h\sub\useCOM\useCOM.cpp</Filter>
     </ClInclude>
-    <ClInclude Include="header\thirdParty_procedureNeedUses\directShowUse\useCOM\initialCOM.h">
-      <Filter>头文件</Filter>
+    <ClInclude Include="source\functionSets\procedure_playAFile\thirdPartyUse_include\directShow_use\plAF_wTUseDirectShow_pMo.hpp">
+      <Filter>头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件\playAFile\directShow</Filter>
+    </ClInclude>
+    <ClInclude Include="header\thirdParty_procedureNeedUses\directShowUse\directShowUseProcedure_all_include.hpp">
+      <Filter>头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\全包含 式头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="header\thirdParty_procedureNeedUses\directShowUse\useCOM\initialCOM.hpp">
+      <Filter>头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\协作成分 式头文件\directShow\COM</Filter>
+    </ClInclude>
+    <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_include.hpp">
+      <Filter>头文件\cppFileX_include.h\functions\procedure_playAFile\playAFile.cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_namespace_useThis.hpp">
+      <Filter>头文件\cppFileX_namespace_useThis.h\functions\procedure_playAFile\playAFile.cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="header\thirdParty_useNeeds\useDirectShow\useDirectShow_needsInclude.hpp">
+      <Filter>头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集\独立成分调用 式头文件\directShow</Filter>
+    </ClInclude>
+    <ClInclude Include="source\sub\useCOM\useCOM_include.hpp">
+      <Filter>头文件\cppFileX_include.h\sub\useCOM\useCOM.cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="header\thirdParty_useNeeds\useCOM\useCOM_needsInclude.hpp">
+      <Filter>头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集\独立成分调用 式头文件\COM</Filter>
+    </ClInclude>
+    <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_thirdPartyUse_include.hpp">
+      <Filter>头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程对第三方的使用 式头文件\playAFile</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

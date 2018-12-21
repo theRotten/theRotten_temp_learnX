@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<DirectedGraph Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+<DirectedGraph GraphDirection="TopToBottom" Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
   <Nodes>
     <Node Id="@101" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\jobapi.h" Label="jobapi.h" />
     <Node Id="@103" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\codecapi.h" Label="codecapi.h" />
@@ -163,20 +163,20 @@
     <Node Id="@389" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\prsht.inl" Label="prsht.inl" />
     <Node Id="@39" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\lzexpand.h" Label="lzexpand.h" />
     <Node Id="@391" Category="CodeSchema_ProjectItem" Bounds="405.283333333333,240,113.061333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile.cpp" Label="playafile.cpp" />
-    <Node Id="@393" Category="CodeSchema_ProjectItem" Bounds="716.498000077079,683.992000308316,93.6946667437458,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\main.cpp" Label="main.cpp" />
-    <Node Id="@395" Category="CodeSchema_ProjectItem" Bounds="124.215,723.992000308316,147.784666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow.cpp" Label="usedirectshow.cpp" />
+    <Node Id="@393" Category="CodeSchema_ProjectItem" Bounds="716.498000077079,683.992000308317,93.6946667437458,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\main.cpp" Label="main.cpp" />
+    <Node Id="@395" Category="CodeSchema_ProjectItem" Bounds="124.215,723.992000308317,147.784666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow.cpp" Label="usedirectshow.cpp" />
     <Node Id="@397" Category="CodeSchema_ProjectItem" Bounds="238.715500077079,1071.98600053955,230.458000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_useneeds\usedirectshow\usedirectshow_needsinclude.hpp" Label="usedirectshow_needsinclude.hpp" />
-    <Node Id="@399" Category="CodeSchema_ProjectItem" Bounds="120,351.996000154158,231.628000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile_namespace_include.hpp" Label="playafile_namespace_include.hpp" />
-    <Node Id="@401" Category="CodeSchema_ProjectItem" Bounds="325.931666666667,835.988000462474,266.351333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow_namespace_include.hpp" Label="usedirectshow_namespace_include.hpp" />
+    <Node Id="@399" Category="CodeSchema_ProjectItem" Bounds="120,351.996000154159,231.628000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile_namespace_include.hpp" Label="playafile_namespace_include.hpp" />
+    <Node Id="@401" Category="CodeSchema_ProjectItem" Bounds="325.931666666667,835.988000462475,266.351333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow_namespace_include.hpp" Label="usedirectshow_namespace_include.hpp" />
     <Node Id="@403" Category="CodeSchema_ProjectItem" Bounds="381.068333333333,295.998000077079,161.491333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile_include.hpp" Label="playafile_include.hpp" />
-    <Node Id="@405" Category="CodeSchema_ProjectItem" Bounds="381.993333333333,351.996000154158,243.641333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile_thirdpartyuse_include.hpp" Label="playafile_thirdpartyuse_include.hpp" />
+    <Node Id="@405" Category="CodeSchema_ProjectItem" Bounds="381.993333333334,351.996000154159,243.641333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile_thirdpartyuse_include.hpp" Label="playafile_thirdpartyuse_include.hpp" />
     <Node Id="@407" Category="CodeSchema_ProjectItem" Bounds="325.313166705206,1321.98400061663,273.781333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_procedureneeduses\directshowuse\directshowuseprocedure_all_include.hpp" Label="directshowuseprocedure_all_include.hpp" />
-    <Node Id="@409" Category="CodeSchema_ProjectItem" Bounds="682.283000077079,739.990000385395,162.124666743746,44.0000000000001" FilePath="$(VsSolution)\directshowuseonly\main\main_include.hpp" Group="Expanded" Label="main_include.hpp" />
+    <Node Id="@409" Category="CodeSchema_ProjectItem" Bounds="682.283000077079,739.990000385396,162.124666743746,44" FilePath="$(VsSolution)\directshowuseonly\main\main_include.hpp" Group="Expanded" Label="main_include.hpp" />
     <Node Id="@41" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\dsound.h" Label="dsound.h" />
-    <Node Id="@411" Category="CodeSchema_ProjectItem" Bounds="100,779.990000385395,196.214666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow_include.hpp" Label="usedirectshow_include.hpp" />
-    <Node Id="@413" Category="CodeSchema_ProjectItem" Bounds="392.79,487.994000231237,222.048000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\thirdpartyuse_include\directshow_use\plaf_wtusedirectshow_pmo.hpp" Label="plaf_wtusedirectshow_pmo.hpp" />
+    <Node Id="@411" Category="CodeSchema_ProjectItem" Bounds="100,779.990000385396,196.214666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow_include.hpp" Label="usedirectshow_include.hpp" />
+    <Node Id="@413" Category="CodeSchema_ProjectItem" Bounds="392.79,487.994000231238,222.048000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\thirdpartyuse_include\directshow_use\plaf_wtusedirectshow_pmo.hpp" Label="plaf_wtusedirectshow_pmo.hpp" />
     <Node Id="@415" Category="CodeSchema_ProjectItem" Bounds="120.656666666667,295.998000077079,230.314666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile_namespace_usethis.hpp" Label="playafile_namespace_usethis.hpp" />
-    <Node Id="@417" Category="CodeSchema_ProjectItem" Bounds="326.588333333333,779.990000385395,265.038000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow_namespace_usethis.hpp" Label="usedirectshow_namespace_usethis.hpp" />
+    <Node Id="@417" Category="CodeSchema_ProjectItem" Bounds="326.588333333333,779.990000385396,265.038000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow_namespace_usethis.hpp" Label="usedirectshow_namespace_usethis.hpp" />
     <Node Id="@43" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\audevcod.h" Label="audevcod.h" />
     <Node Id="@45" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\dvdevcod.h" Label="dvdevcod.h" />
     <Node Id="@47" Category="CodeSchema_ProjectItem" ErrorMessage="找到的循环引用涉及:   winscard.h ((Assembly=&quot;&quot; File=&quot;file:///c:/program files (x86)/windows kits/8.1/include/um/winscard.h&quot;))" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\winscard.h" IsStronglyConnected="True" Label="winscard.h" />
@@ -215,20 +215,20 @@
     <Node Id="DirectShow调用" Bounds="218.715500077079,1031.98600053955,270.458000077079,85.998000077079" Group="Expanded" Label="directShow调用" />
     <Node Id="G2" Category="CodeSchema_PoundIncludeGroup" ErrorMessage="找到的循环引用涉及:   C/C++ Standard Library (G2)" Group="Collapsed" IsHubContainer="True" IsStronglyConnected="True" Label="C/C++ Standard Library" />
     <Node Id="G4" Category="CodeSchema_PoundIncludeGroup" ErrorMessage="找到的循环引用涉及:   Windows SDK (G4)" Group="Collapsed" IsHubContainer="True" IsStronglyConnected="True" Label="Windows SDK" />
-    <Node Id="Main" Bounds="662.283000077079,643.992000308316,202.124666743746,159.998000077079" Group="Expanded" Label="main" />
-    <Node Id="PlayAFile" Bounds="100,200,574.838000077079,373.992000308316" Group="Expanded" Label="playAFile" />
+    <Node Id="Main" Bounds="662.283000077079,643.992000308317,202.124666743746,159.998000077079" Group="Expanded" Label="main" />
+    <Node Id="PlayAFile" Bounds="100,200,574.838000077079,373.992000308317" Group="Expanded" Label="playAFile" />
     <Node Id="PoundIncludeGraphExternalsGroup" Category="Externals" Bounds="430.203833410413,1533.81866736038,64,25" Group="Collapsed" IsHubContainer="True" Label="外部" />
     <Node Id="Windows SDK 间接包含" Category="CodeSchema_PoundIncludeGroup" Group="Collapsed" IsHubContainer="True" Label="间接包含" />
-    <Node Id="使用directShow" Bounds="80,683.992000308316,532.283000077079,197.994000231237" Group="Expanded" Label="使用directShow" />
+    <Node Id="使用directShow" Bounds="80,683.992000308317,532.283000077079,197.994000231238" Group="Expanded" Label="使用directShow" />
     <Node Id="使用过程中协作调用" Bounds="198.715500077079,1241.98400061663,526.976666666667,201.834666743746" Group="Expanded" Label="使用过程中协作调用关系 （x用b组件时，b组件过程中需要对c组件有的协作调用包含关系）" />
-    <Node Id="内体系代码" Bounds="40,80,844.407666820825,841.986000539553" Group="Expanded" Label="内体系代码" />
-    <Node Id="功能集" Bounds="60,643.992000308316,572.283000077079,257.994000231237" Group="Expanded" Label="内部组件 集" />
-    <Node Id="功能集1" Bounds="60,120,654.838000077079,493.992000308316" Group="Expanded" Label="功能集" />
-    <Node Id="外部流程" Bounds="178.715500077079,951.986000539553,566.976666666667,511.832666820825" Group="Expanded" Label="外部流程" />
-    <Node Id="外部组件调用提供集" Bounds="198.715500077079,991.986000539553,310.458000077079,219.998000077079" Group="Expanded" Label="外部组件调用提供 集" LayoutSettings="ForceDirected" />
-    <Node Id="想使用directShow播放视频" Bounds="372.79,447.994000231237,262.048000077079,85.998000077079" Group="Expanded" Label="想使用directShow" />
-    <Node Id="某过程流程包含的对第三方调用" Category="Category2" Bounds="352.79,407.994000231237,302.048000077079,145.998000077079" Group="Expanded" Label="当前过程流程包含的对第三方调用" />
-    <Node Id="流程功能" Bounds="80,160,614.838000077079,433.992000308316" Group="Expanded" Label="procedure式" />
+    <Node Id="内体系代码" Bounds="40,80,844.407666820825,841.986000539555" Group="Expanded" Label="内体系代码" />
+    <Node Id="功能集" Bounds="60,643.992000308317,572.283000077079,257.994000231238" Group="Expanded" Label="内部组件 集" />
+    <Node Id="功能集1" Bounds="60,120,654.838000077079,493.992000308317" Group="Expanded" Label="功能集" />
+    <Node Id="外部流程" Bounds="178.715500077079,951.986000539554,566.976666666667,511.832666820825" Group="Expanded" Label="外部流程" />
+    <Node Id="外部组件调用提供集" Bounds="198.715500077079,991.986000539554,310.458000077079,219.998000077079" Group="Expanded" Label="外部组件调用提供 集" LayoutSettings="ForceDirected" />
+    <Node Id="想使用directShow播放视频" Bounds="372.79,447.994000231238,262.048000077079,85.998000077079" Group="Expanded" Label="想使用directShow" />
+    <Node Id="某过程流程包含的对第三方调用" Category="Category2" Bounds="352.79,407.994000231238,302.048000077079,145.998000077079" Group="Expanded" Label="当前过程流程包含的对第三方调用" />
+    <Node Id="流程功能" Bounds="80,160,614.838000077079,433.992000308317" Group="Expanded" Label="procedure式" />
     <Node Id="用到DirectShow的调用过程包含" Category="Category2" Bounds="305.313166705206,1281.98400061663,313.781333410412,141.834666743746" Group="Expanded" Label=" directShow 的用到使用调用过程包含" />
     <Node Id="自己写产出的代码" Bounds="20,40,884.407666820825,1443.81866736038" Group="Expanded" Label="我们自己写产出的代码" />
   </Nodes>
@@ -1095,6 +1095,7 @@
     <Property Id="ErrorMessage" Label="错误" Description="错误" DataType="System.String" />
     <Property Id="Expression" DataType="System.String" />
     <Property Id="FilePath" Label="文件路径" Description="文件路径" DataType="System.String" />
+    <Property Id="GraphDirection" DataType="Microsoft.VisualStudio.Diagrams.Layout.LayoutOrientation" />
     <Property Id="Group" Label="组" Description="将节点显示为组" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
     <Property Id="GroupLabel" DataType="System.String" />
     <Property Id="Hub" Label="中心" Description="节点位于连接数目在前 10% 的节点当中" DataType="System.Int32" />

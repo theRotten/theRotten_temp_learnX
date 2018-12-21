@@ -12,6 +12,24 @@ namespace theRotten_temp_learnX_cppLearn1_subCode_template
 			cout << endl << "ValueOfB=" << b << endl;
 			return a;
 		}
+
+		//建一个泛类型类
+		template <typename 泛类型>class 一个泛类
+		{
+			泛类型 一个泛类型的数据成员;
+			一个泛类() :一个泛类型的数据成员(泛类型 一个泛类入参)
+			{
+				//this = 一个泛类入参;//这句不对吧。。？。。this是指针好像。。
+			}
+		};
+
+		//定义并使用一个泛类
+		void 定义并使用一个泛类(void)
+		{
+			int 一个测试的整形数据;
+			//尚未完成，待续
+		}
+
 	}
 	
 	namespace templateLearn1//简单贴代码试验

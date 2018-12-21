@@ -92,7 +92,7 @@
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_thirdPartyUse_include.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="source\functionSets\procedure_playAFile\thirdPartyUse_include\directShow_use\playAFile_wantToUseDirectShow_playMo.hpp">
+    <ClInclude Include="source\functionSets\procedure_playAFile\thirdPartyUse_include\directShow_use\plAF_wTUseDirectShow_pMo.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

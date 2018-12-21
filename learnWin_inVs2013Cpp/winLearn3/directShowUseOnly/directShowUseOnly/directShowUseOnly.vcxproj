@@ -82,7 +82,7 @@
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_namespace_include.hpp" />
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_namespace_useThis.hpp" />
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_thirdPartyUse_include.hpp" />
-    <ClInclude Include="source\functionSets\procedure_playAFile\thirdPartyUse_include\directShow_use\playAFile_wantToUseDirectShow_playMo.hpp" />
+    <ClInclude Include="source\functionSets\procedure_playAFile\thirdPartyUse_include\directShow_use\plAF_wTUseDirectShow_pMo.hpp" />
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_include.hpp" />
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_include.hpp" />
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_useThis.hpp" />

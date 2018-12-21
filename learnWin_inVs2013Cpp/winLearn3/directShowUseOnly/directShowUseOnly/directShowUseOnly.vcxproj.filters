@@ -172,6 +172,39 @@
     <Filter Include="源文件\sub\useCOM">
       <UniqueIdentifier>{6aa2b29b-8eaf-44ac-a185-4cc861a018c3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\sub\templateLearn">
+      <UniqueIdentifier>{52b4346d-d2be-4963-b764-7baaef5b7d6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX.h">
+      <UniqueIdentifier>{e2592f76-137a-445e-87c6-591bf119f447}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX.h\sub">
+      <UniqueIdentifier>{e176b889-c4bd-4b2a-967f-8d218fc8ccd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX.h\sub\templateLearn">
+      <UniqueIdentifier>{22e1a0b0-223a-400a-b091-776a4c56c604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX.h\sub\templateLearn\templateLearn.cpp">
+      <UniqueIdentifier>{f5af7b94-2a91-4519-af60-d6b5c78cceab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_include.h\sub\templateLearn">
+      <UniqueIdentifier>{16cfa0fa-2093-4603-90fb-c5d75ee0a18a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_include.h\sub\templateLearn\templateLearn.cpp">
+      <UniqueIdentifier>{12c99f10-68f1-48df-8470-b557759cceb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_include.h\sub\templateLearn">
+      <UniqueIdentifier>{38071c6b-ccfa-45d1-800c-a669bb3e313b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_include.h\sub\templateLearn\templateLearn.cpp">
+      <UniqueIdentifier>{623a1e7d-0bb4-469b-95c6-cd36efe311cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_useThis.h\sub\templateLearn">
+      <UniqueIdentifier>{85a1a59b-a7ae-48c9-b62d-4355d6778085}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\cppFileX_namespace_useThis.h\sub\templateLearn\templateLearn.cpp">
+      <UniqueIdentifier>{408f6f24-7245-4e7d-9da6-b3d1eec6d475}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main\main.cpp">
@@ -187,7 +220,7 @@
       <Filter>源文件\sub\useCOM</Filter>
     </ClCompile>
     <ClCompile Include="source\sub\templateLearn\templateLearn.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\sub\templateLearn</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -239,17 +272,17 @@
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_thirdPartyUse_include.hpp">
       <Filter>头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程对第三方的使用 式头文件\playAFile</Filter>
     </ClInclude>
+    <ClInclude Include="source\sub\templateLearn\templateLearn.hpp">
+      <Filter>头文件\cppFileX.h\sub\templateLearn\templateLearn.cpp</Filter>
+    </ClInclude>
     <ClInclude Include="source\sub\templateLearn\templateLearn_include.hpp">
-      <Filter>头文件</Filter>
+      <Filter>头文件\cppFileX_include.h\sub\templateLearn\templateLearn.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\templateLearn\templateLearn_namespace_include.hpp">
-      <Filter>头文件</Filter>
+      <Filter>头文件\cppFileX_namespace_include.h\sub\templateLearn\templateLearn.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\templateLearn\templateLearn_namespace_useThis.hpp">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="source\sub\templateLearn\templateLearn.hpp">
-      <Filter>头文件</Filter>
+      <Filter>头文件\cppFileX_namespace_useThis.h\sub\templateLearn\templateLearn.cpp</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

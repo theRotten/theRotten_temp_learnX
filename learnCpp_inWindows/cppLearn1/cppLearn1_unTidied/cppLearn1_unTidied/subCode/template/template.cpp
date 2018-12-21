@@ -13,20 +13,43 @@ namespace theRotten_temp_learnX_cppLearn1_subCode_template
 			return a;
 		}
 
-		//建一个泛类型类
-		template <typename 泛类型>class 一个泛类
-		{
-			泛类型 一个泛类型的数据成员;
-			一个泛类() :一个泛类型的数据成员(泛类型 一个泛类入参)
-			{
-				//this = 一个泛类入参;//这句不对吧。。？。。this是指针好像。。
-			}
-		};
+		
+		
+
+		template <class T1, class T2>
+		Test<T1, T2>::Test() {}
+
+
+		template <class T1, class T2>
+		Test<T1, T2>::Test(T1 d1, T2 d2) :
+		data1(d1), data2(d2) {}
+
+
+		template <class T1, class T2> template <class U, class V>
+		Test<T1, T2>::Test(const Test<U, V> &t) :
+		data1(t.data1), data2(t.data2) {};
+
+
+		//template <typename T1, typename T2>	
+		//一个泛类<泛类型>::一个泛类(泛类型) :一个泛类型的数据成员(a){};
+		//template <typename 泛类型>class 一个泛类
+		//{
+		//	泛类型 一个泛类型的数据成员;
+		//	一个泛类(泛类型 一个泛类入参) :一个泛类型的数据成员(一个泛类入参);
+		//
+		//
+		//};
+
+		//template <typename 泛类型> 一个泛类<泛类型>::一个泛类(泛类型 一个泛类入参) : 一个泛类型的数据成员(一个泛类入参)
+		//{
+		//
+		//}
 
 		//定义并使用一个泛类
 		void 定义并使用一个泛类(void)
 		{
-			int 一个测试的整形数据;
+			//int 一个测试的整形数据=123456;
+			//一个泛类<int> 泛类实例(一个测试的整形数据);
 			//尚未完成，待续
 		}
 

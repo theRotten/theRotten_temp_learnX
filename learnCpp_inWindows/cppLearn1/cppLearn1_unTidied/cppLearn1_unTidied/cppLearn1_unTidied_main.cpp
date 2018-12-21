@@ -36,6 +36,13 @@ namespace theRotten_temp_learnX_cppLearn1_unTidied_main
 int main()
 {
 	
+	//::theRotten_temp_learnX_cppLearn1_subCode_template::templateLearn2::Test <int, double> t1(10, 5.4);
+	//cout << t1.GetData1() << "   " << t1.GetData2() << endl;
+	//::theRotten_temp_learnX_cppLearn1_subCode_template::templateLearn2::Test <int, double> t2(t1);
+	//cout << t2.GetData1() << "   " << t2.GetData2() << endl;
+	//int 一个测试的整形数据=123456;
+	//一个泛类<int> 泛类实例(一个测试的整形数据);
+
 	theRotten_temp_learnX_cppLearn1_unTidied_main::beforeMain();
 	system("pause");
 	{

@@ -154,3 +154,5 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/directShowUseOnly/test/testFile/functionSets_procedure_playAFile_test_testAviFile_input.avi
+learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/directShowUseOnly/test/testFile/functionSets_procedure_playAFile_test_testBigAviFileWithAudio_input.avi

@@ -110,6 +110,9 @@
     <ClInclude Include="source\sub\useCOM\useCOM_namespace_useThis.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="header\thirdParty_procedureNeedUses\directShowUse\useCOM\initialCOM.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />

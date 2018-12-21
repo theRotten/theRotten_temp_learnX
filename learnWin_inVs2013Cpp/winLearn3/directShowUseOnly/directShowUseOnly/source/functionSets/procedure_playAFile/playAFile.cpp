@@ -22,7 +22,7 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181220204
 	hr = pGraph->QueryInterface(IID_IMediaEvent, (void **)&pEvent);
 
 	//4.现在您可以构建过滤器图形了。对于文件回放，这是通过单个方法调用完成的：
-	hr = pGraph->RenderFile(L"G:\\files\\using\\classified\\githubLocalDir\\theRotten\\theRotten_temp_learnX\\learnWin_inVs2013Cpp\\winLearn3\\directShowUseOnly\\directShowUseOnly\\temp\\test.avi", NULL);
+	hr = pGraph->RenderFile(L"G:\\files\\using\\classified\\githubLocalDir\\theRotten\\theRotten_temp_learnX\\learnWin_inVs2013Cpp\\winLearn3\\directShowUseOnly\\directShowUseOnly\\test\\testFile\\functionSets_procedure_playAFile_test_testAviFile_input.avi", NULL);
 
 	//5.如果指定的文件不存在，或者无法识别文件格式，则此方法可能会失败。但是，假设该方法成功，则现在可以使用过滤器图表进行回放。要运行图形，请调用IMediaControl :: Run方法：
 	hr = pControl->Run();

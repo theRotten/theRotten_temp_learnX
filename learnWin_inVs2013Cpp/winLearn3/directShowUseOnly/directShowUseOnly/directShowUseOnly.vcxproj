@@ -73,6 +73,7 @@
     <ClCompile Include="main\main.cpp" />
     <ClCompile Include="source\functionSets\procedure_playAFile\playAFile.cpp" />
     <ClCompile Include="source\sub\useDirectShow\useDirectShow.cpp" />
+    <ClCompile Include="source\sub\useCOM\useCOM.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header\thirdParty_procedureNeedUses\directShowUse\directShowUseProcedure_all_include.hpp" />
@@ -86,6 +87,10 @@
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_include.hpp" />
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_include.hpp" />
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_useThis.hpp" />
+    <ClInclude Include="source\sub\useCOM\useCOM_include.hpp" />
+    <ClInclude Include="source\sub\useCOM\useCOM_namespace_include.hpp" />
+    <ClInclude Include="source\sub\useCOM\useCOM_namespace_useThis.hpp" />
+    <ClInclude Include="header\thirdParty_useNeeds\useCOM\useCOM_needsInclude.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />

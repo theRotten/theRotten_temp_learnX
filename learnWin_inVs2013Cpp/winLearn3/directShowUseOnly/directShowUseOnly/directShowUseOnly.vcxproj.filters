@@ -60,6 +60,9 @@
     <ClCompile Include="source\functionSets\procedure_playAFile\playAFile.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="source\sub\useCOM\useCOM.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main\main_include.hpp">
@@ -93,6 +96,18 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="source\functionSets\procedure_playAFile\thirdPartyUse_include\directShow_use\plAF_wTUseDirectShow_pMo.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="header\thirdParty_useNeeds\useCOM\useCOM_needsInclude.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="source\sub\useCOM\useCOM_include.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="source\sub\useCOM\useCOM_namespace_include.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="source\sub\useCOM\useCOM_namespace_useThis.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

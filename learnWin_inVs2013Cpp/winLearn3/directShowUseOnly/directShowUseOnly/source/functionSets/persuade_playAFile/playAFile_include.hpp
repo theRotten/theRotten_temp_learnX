@@ -4,6 +4,6 @@
 #include "./playAFile_namespace_include.hpp"
 
 
-#include "../../../header/thirdParty_useNeeds/useDirectShow/useDirectShow_needsInclude.hpp"
+#include "./playAFile_thirdPartyUse_include.hpp"
 
 #endif

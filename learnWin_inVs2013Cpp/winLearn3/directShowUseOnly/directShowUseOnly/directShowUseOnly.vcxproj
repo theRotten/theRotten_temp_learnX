@@ -73,11 +73,14 @@
     <ClCompile Include="source\sub\useDirectShow\useDirectShow.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="header\thirdParty_persuadeNeedUses\directShowUse\directShowUseProcedure_all_include.hpp" />
     <ClInclude Include="header\thirdParty_useNeeds\useDirectShow\useDirectShow_needsInclude.hpp" />
     <ClInclude Include="main\main_include.hpp" />
     <ClInclude Include="source\functionSets\persuade_playAFile\playAFile_include.hpp" />
     <ClInclude Include="source\functionSets\persuade_playAFile\playAFile_namespace_include.hpp" />
     <ClInclude Include="source\functionSets\persuade_playAFile\playAFile_namespace_useThis.hpp" />
+    <ClInclude Include="source\functionSets\persuade_playAFile\playAFile_thirdPartyUse_include.hpp" />
+    <ClInclude Include="source\functionSets\persuade_playAFile\thirdPartUse_include\directShow_use\playAFile_wantToUseDirectShow_playMovie.hpp" />
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_include.hpp" />
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_include.hpp" />
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_useThis.hpp" />

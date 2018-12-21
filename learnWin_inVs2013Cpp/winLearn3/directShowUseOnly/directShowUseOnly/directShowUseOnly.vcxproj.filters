@@ -205,6 +205,9 @@
     <Filter Include="头文件\cppFileX_namespace_useThis.h\sub\templateLearn\templateLearn.cpp">
       <UniqueIdentifier>{408f6f24-7245-4e7d-9da6-b3d1eec6d475}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\cppFileX_namespace.h">
+      <UniqueIdentifier>{5a2418dc-7fc6-4207-bde3-b889e1d869fa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main\main.cpp">

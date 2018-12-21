@@ -9,7 +9,10 @@ namespace aRottenGeneralNameThisX_thisNamespace
 	{
 		namespace templateLearn
 		{
+			class demoClass
+			{
 
+			};
 		}
 	}
 }

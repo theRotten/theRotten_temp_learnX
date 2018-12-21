@@ -218,19 +218,19 @@
     <Node Id="G2" Category="CodeSchema_PoundIncludeGroup" ErrorMessage="找到的循环引用涉及:   C/C++ Standard Library (G2)" Group="Collapsed" IsHubContainer="True" IsStronglyConnected="True" Label="C/C++ Standard Library" />
     <Node Id="G4" Category="CodeSchema_PoundIncludeGroup" ErrorMessage="找到的循环引用涉及:   Windows SDK (G4)" Group="Collapsed" IsHubContainer="True" IsStronglyConnected="True" Label="Windows SDK" />
     <Node Id="Main" Bounds="662.283000077079,643.992000308316,202.124666743746,159.998000077079" Group="Expanded" Label="main" />
-    <Node Id="PlayAFile" Bounds="100,200,617.231333410412,373.992000308316" Group="Expanded" Label="playAFile" />
+    <Node Id="PlayAFile" Bounds="99.9999953227893,199.998459575059,617.231338087623,373.992900308316" Group="Expanded" Label="playAFile" />
     <Node Id="PoundIncludeGraphExternalsGroup" Category="Externals" Bounds="430.203833410412,1533.81866736038,64,25" Group="Collapsed" IsHubContainer="True" Label="外部" />
     <Node Id="Windows SDK 间接包含" Category="CodeSchema_PoundIncludeGroup" Group="Collapsed" IsHubContainer="True" Label="间接包含" />
     <Node Id="使用directShow" Bounds="80,683.992000308316,532.283000077079,197.994000231237" Group="Expanded" Label="使用directShow" />
     <Node Id="使用过程中协作调用" Bounds="198.715500077079,1241.98400061663,526.976666666667,201.834666743746" Group="Expanded" Label="使用过程中协作调用关系 （x用b组件时，b组件过程中需要对c组件有的协作调用包含关系）" />
     <Node Id="内体系代码" Bounds="40,80,844.407666820825,841.986000539553" Group="Expanded" Label="内体系代码" />
     <Node Id="功能集" Bounds="60,643.992000308316,572.283000077079,257.994000231237" Group="Expanded" Label="内部组件 集" />
-    <Node Id="功能集1" Bounds="60,120,697.231333410412,493.992000308316" Group="Expanded" Label="功能集" />
+    <Node Id="功能集1" Bounds="59.9999953227893,119.998259575059,697.231338087623,493.993300308316" Group="Expanded" Label="功能集" />
     <Node Id="外部流程" Bounds="178.715500077079,951.986000539553,566.976666666667,511.832666820825" Group="Expanded" Label="外部流程" />
     <Node Id="外部组件调用提供集" Bounds="198.715500077079,991.986000539553,310.458000077079,219.998000077079" Group="Expanded" Label="外部组件调用提供 集" LayoutSettings="ForceDirected" />
-    <Node Id="想使用directShow播放视频" Bounds="330.396666666667,447.994000231237,346.834666743746,85.998000077079" Group="Expanded" Label="想使用directShow" />
-    <Node Id="某过程流程包含的对第三方调用" Category="Category2" Bounds="310.396666666667,407.994000231237,386.834666743746,145.998000077079" Group="Expanded" Label="当前过程流程包含的对第三方调用" />
-    <Node Id="流程功能" Bounds="80,160,657.231333410412,433.992000308316" Group="Expanded" Label="procedure式" />
+    <Node Id="想使用directShow播放视频" Bounds="330.396666666667,447.993024451318,346.834666743746,85.998200077079" Group="Expanded" Label="想使用directShow" />
+    <Node Id="某过程流程包含的对第三方调用" Category="Category2" Bounds="310.396666666667,407.992924451318,386.834666743746,145.998400077079" Group="Expanded" Label="当前过程流程包含的对第三方调用" />
+    <Node Id="流程功能" Bounds="79.9999953227893,159.998359575059,657.231338087623,433.993100308316" Group="Expanded" Label="procedure式" />
     <Node Id="用到DirectShow的调用过程包含" Category="Category2" Bounds="305.313166705206,1281.98400061663,313.781333410412,141.834666743746" Group="Expanded" Label=" directShow 的用到使用调用过程包含" />
     <Node Id="自己写产出的代码" Bounds="20,40,884.407666820825,1443.81866736038" Group="Expanded" Label="我们自己写产出的代码" />
   </Nodes>
@@ -701,13 +701,13 @@
     <Link Source="@37" Target="@371" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@383" Target="@293" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@39" Target="@371" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@391" Target="@403" Category="PoundInclude" Bounds="461.813995361328,265.997985839844,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@391" Target="@403" Category="PoundInclude" Bounds="461.813998903395,265.99662429716,5.72226736039738E-06,21.0001000000004" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@393" Target="@408" Category="PoundInclude" Bounds="763.345336914063,709.989990234375,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@395" Target="@410" Category="PoundInclude" Bounds="198.107330322266,749.989990234375,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@397" Target="@361" Category="PoundInclude" Bounds="298.883483886719,-119.524505615234,152.473785400391,465.663146972656" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@403" Target="@399" Category="PoundInclude" Bounds="297.011962890625,321.996002197266,112.339904785156,27.83544921875" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@403" Target="@405" Category="PoundInclude" Bounds="471.563598632813,321.996002197266,17.1006774902344,22.8000793457031" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@405" Target="@412" Category="PoundInclude" Bounds="503.813995361328,377.992824161748,0,101.0003" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@403" Target="@399" Category="PoundInclude" Bounds="297.011857213482,321.994724374239,112.340119819511,27.8355435733953" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@403" Target="@405" Category="PoundInclude" Bounds="471.563588968619,321.994724736774,17.1007163379131,22.8001872890988" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@405" Target="@412" Category="PoundInclude" Bounds="503.813995808386,377.992824451318,3.47357098462453E-06,101.0003" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@408" Target="@397" Category="PoundInclude" Bounds="659.248596191406,745.489440917969,326.26513671875,283.899963378906" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@41" Target="@177" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@41" Target="@317" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
@@ -715,7 +715,7 @@
     <Link Source="@41" Target="@65" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@410" Target="@397" Category="PoundInclude" Bounds="478.184906005859,767.487426757813,137.502288818359,257.881225585938" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@410" Target="@401" Category="PoundInclude" Bounds="258.694122314453,805.987976074219,131.026672363281,28.1119995117188" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@414" Target="@399" Category="PoundInclude" Bounds="235.813995361328,321.996002197266,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@414" Target="@399" Category="PoundInclude" Bounds="235.813999857165,321.994659729217,4.29170867732864E-06,21.0001646450222" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@416" Target="@401" Category="PoundInclude" Bounds="459.107330322266,805.987976074219,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@43" Target="@371" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@45" Target="@371" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />

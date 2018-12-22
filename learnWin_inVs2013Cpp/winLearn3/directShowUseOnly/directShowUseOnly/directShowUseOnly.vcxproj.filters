@@ -208,6 +208,9 @@
     <Filter Include="头文件\cppFileX_namespace.h">
       <UniqueIdentifier>{5a2418dc-7fc6-4207-bde3-b889e1d869fa}</UniqueIdentifier>
     </Filter>
+    <Filter Include="逻辑内容产生的架构">
+      <UniqueIdentifier>{999f83ad-ddab-4aaf-a791-6eb35e6962d4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main\main.cpp">

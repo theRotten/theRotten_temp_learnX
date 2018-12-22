@@ -214,17 +214,20 @@
     <Filter Include="架构demo结构（内容成分demo）">
       <UniqueIdentifier>{e9c512de-708e-4c9a-b448-578c0d5aa871}</UniqueIdentifier>
     </Filter>
-    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo">
+    <Filter Include="架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo">
       <UniqueIdentifier>{0e20813a-6eb2-4098-8887-06918478ffa7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.2.1.4">
+    <Filter Include="架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4">
       <UniqueIdentifier>{4ba4c4d2-3047-47fc-af70-4a9e99fe86f8}</UniqueIdentifier>
     </Filter>
-    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.2.1.4\源文件成分内容与结构位置">
+    <Filter Include="架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\源文件成分内容与结构位置">
       <UniqueIdentifier>{5b80cd55-39d5-45fb-ae16-7bd79bc9a7c6}</UniqueIdentifier>
     </Filter>
-    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置">
+    <Filter Include="架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置">
       <UniqueIdentifier>{47f2cefc-d4e7-4ac7-98f6-4b14199676ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo">
+      <UniqueIdentifier>{a5699d54-4a72-4c89-a038-62ccb697cd01}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -243,8 +246,8 @@
     <ClCompile Include="source\sub\templateLearn\templateLearn.cpp">
       <Filter>源文件\sub\templateLearn</Filter>
     </ClCompile>
-    <ClCompile Include="架构demo结构\功能集\demoNameXXX v0.2.1.4\demoNameXXX.cpp">
-      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.2.1.4\源文件成分内容与结构位置</Filter>
+    <ClCompile Include="架构demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX.cpp">
+      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\源文件成分内容与结构位置</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -308,23 +311,28 @@
     <ClInclude Include="source\sub\templateLearn\templateLearn_namespace_useThis.hpp">
       <Filter>头文件\cppFileX_namespace_useThis.h\sub\templateLearn\templateLearn.cpp</Filter>
     </ClInclude>
-    <ClInclude Include="架构demo结构\功能集\demoNameXXX v0.2.1.4\demoNameXXX.hpp">
-      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
+    <ClInclude Include="架构demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX.hpp">
+      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
     </ClInclude>
-    <ClInclude Include="架构demo结构\功能集\demoNameXXX v0.2.1.4\demoNameXXX_include.hpp">
-      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
+    <ClInclude Include="架构demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_include.hpp">
+      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
     </ClInclude>
-    <ClInclude Include="架构demo结构\功能集\demoNameXXX v0.2.1.4\demoNameXXX_namespace.hpp">
-      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
+    <ClInclude Include="架构demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace.hpp">
+      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
     </ClInclude>
-    <ClInclude Include="架构demo结构\功能集\demoNameXXX v0.2.1.4\demoNameXXX_namespace_include.hpp">
-      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
+    <ClInclude Include="架构demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace_include.hpp">
+      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
     </ClInclude>
-    <ClInclude Include="架构demo结构\功能集\demoNameXXX v0.2.1.4\demoNameXXX_namespace_useThis.hpp">
-      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
+    <ClInclude Include="架构demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace_useThis.hpp">
+      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="架构demo结构\架构概述说明.txt">
+      <Filter>架构demo结构（内容成分demo）</Filter>
+    </Text>
   </ItemGroup>
 </Project>

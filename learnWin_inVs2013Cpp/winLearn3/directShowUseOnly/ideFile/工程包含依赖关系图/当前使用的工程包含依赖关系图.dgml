@@ -249,7 +249,7 @@
     <Node Id="内体系代码" Bounds="40,80,1955.59700011562,1203.32466751454" Group="Expanded" Label="内体系代码" />
     <Node Id="功能集" Bounds="60,309.998000077079,1230.35600015416,953.326667437457" Group="Expanded" Label="内部组件 集" />
     <Node Id="功能集1" Bounds="1320.75900003854,539.66533364165,654.838000077079,493.992000308316" Group="Expanded" Label="功能集" />
-    <Node Id="功能集成分架构结构构件示例样例DemoNameXXXV0.2.1.4" Category="Category1" Bounds="80,421.671333410413,714.823000077079,309.828666974983" Group="Expanded" Label="功能集成分架构结构构件示例样例 demoNameXXX v0.2.1.4">
+    <Node Id="功能集成分架构结构构件示例样例DemoNameXXXV0.2.1.4" Category="Category1" Bounds="80,421.671333410413,714.823000077079,309.828666974983" Group="Expanded" Label="功能集成分架构结构构件示例样例 demoNameXXX （目前该成分构件结构内部架构成分版本：v0.2.1.4）">
       <Category Ref="Category3" />
     </Node>
     <Node Id="单线程阻塞延时提供" Bounds="778.359666743746,1045.3306672833,200,25.8366666666666" Label="单线程阻塞延时提供逻辑功能组件" />
@@ -262,7 +262,7 @@
     <Node Id="流程功能" Bounds="1340.75900003854,579.66533364165,614.838000077079,433.992000308316" Group="Expanded" Label="procedure式" />
     <Node Id="用到DirectShow的调用过程包含" Category="Category2" Bounds="860.907833352603,1393.32466751454,313.781333410412,201.996000154158" Group="Expanded" Label=" directShow 的用到使用调用过程包含" />
     <Node Id="组件ClassLearn" Bounds="642.283000077079,1045.3306672833,106.076666666667,25.8366666666666" Label="组件 classLearn" />
-    <Node Id="组件TemplateLearn" Category="Category2" Bounds="80,761.500000385395,703.979666743746,253.830666897904" Group="Expanded" Label="组件 templateLearn （当前集内架构样式版本 v0.2.1.3 目前最新）" />
+    <Node Id="组件TemplateLearn" Category="Category2" Bounds="80,761.500000385395,703.979666743746,253.830666897904" Group="Expanded" Label="组件 templateLearn （当前集内架构样式版本 v0.2.1.3 目前已经采用了的最新结构）" />
     <Node Id="自己写产出的代码" Bounds="20,40,1995.59700011562,1907.31666782285" Group="Expanded" Label="我们自己写产出的代码" />
     <Node Id="该成分所在架构内成分示例成分demo内容" Category="Comment" Bounds="314.731500038539,349.998000077079,245.36,41.6733333333332" Label="该成分所在同级架构内成分示例成分demo内容" />
   </Nodes>

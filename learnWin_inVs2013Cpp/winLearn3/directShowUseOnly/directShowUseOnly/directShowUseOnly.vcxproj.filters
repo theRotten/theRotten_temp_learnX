@@ -13,200 +13,8 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="源文件\main">
-      <UniqueIdentifier>{6a69b26b-39b0-4e58-aa39-defaf5329e25}</UniqueIdentifier>
-    </Filter>
     <Filter Include="头文件\main_include">
       <UniqueIdentifier>{77ab9523-c433-486e-a3e9-720fed9449be}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\sub">
-      <UniqueIdentifier>{471e2c5a-f31a-4422-b24c-1fccf8da9733}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\sub\useDirectShow">
-      <UniqueIdentifier>{e668c994-7c0b-411b-ba57-c582afdfacf4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_include.h">
-      <UniqueIdentifier>{85f987c6-e85c-459f-88a8-41e3e3c33bb0}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_include.h">
-      <UniqueIdentifier>{138885ae-a6a3-475c-9c37-12317185d5dd}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_useThis.h">
-      <UniqueIdentifier>{57e94da9-1681-4459-af36-0f059ac3fda4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_include.h\functions">
-      <UniqueIdentifier>{15aeecd4-054d-49dc-8bc5-2611dab94a1d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_include.h\sub">
-      <UniqueIdentifier>{1bda6445-15d0-4a25-ae77-cc9b926a34b1}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_include.h\sub">
-      <UniqueIdentifier>{f06c921b-1f2e-45d8-ad3d-b3883d03fb25}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_include.h\functions">
-      <UniqueIdentifier>{f3c293c5-dea6-4731-9361-de3f43b14b25}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_include.h\sub\useDirectShow">
-      <UniqueIdentifier>{296196e9-5f99-4fed-80a7-b3b495aca7af}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_include.h\sub\useDirectShow\useDirectShow.cpp">
-      <UniqueIdentifier>{6f2686f2-7cbb-40e4-82d0-5c19d0944651}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_include.h\functions\playAFile">
-      <UniqueIdentifier>{d946e35e-3a0c-4f05-8891-7e4ae079c5a2}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_include.h\functions\playAFile\playAFile.cpp">
-      <UniqueIdentifier>{d4993f00-5e33-4d95-ab96-2e82f7503fe3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_include.h\sub\useCOM">
-      <UniqueIdentifier>{9ce82659-e33e-4204-bac1-bb5914b45f61}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_include.h\sub\useCOM\useCOM.cpp">
-      <UniqueIdentifier>{491286ac-cf1a-43d9-826c-8ad6412b0a08}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_include.h\sub\useDirectShow">
-      <UniqueIdentifier>{419b6be1-4cd6-4a07-8c0e-b086f487191a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_include.h\sub\useDirectShow\useDirectShow.cpp">
-      <UniqueIdentifier>{e9057cf2-9a5e-483c-a19a-8b112e2a2e1e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_useThis.h\sub">
-      <UniqueIdentifier>{be6fc7d7-aca4-42aa-8ace-90f42844d45c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_useThis.h\sub\useDirectShow">
-      <UniqueIdentifier>{79b84e3d-d880-4fa4-b855-9eca0ccac743}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_useThis.h\sub\useDirectShow\useDirectShow.cpp">
-      <UniqueIdentifier>{9c4e5b58-cba8-4c92-b723-130d2f12d510}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_useThis.h\sub\useCOM">
-      <UniqueIdentifier>{fb58ae7c-bbed-45f2-8a0d-344f2a93f69e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_useThis.h\sub\useCOM\useCOM.cpp">
-      <UniqueIdentifier>{3b1fb74a-0406-47ac-8042-b1f8aee17179}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件">
-      <UniqueIdentifier>{5d6a235f-7961-4dfd-bd24-30645ed72911}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程">
-      <UniqueIdentifier>{502178c5-c4a6-4c53-92c6-da7c39bfdbed}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系">
-      <UniqueIdentifier>{4325816d-442c-4dd7-b267-bc5dceff3033}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集">
-      <UniqueIdentifier>{54cdd17c-98f3-40cc-b216-a2dbf299515a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集\独立成分调用 式头文件">
-      <UniqueIdentifier>{5d7bb314-2531-4a89-bffc-d0fc849a2747}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集\独立成分调用 式头文件\COM">
-      <UniqueIdentifier>{50a1225f-f18b-4758-b020-f10670801a9d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集\独立成分调用 式头文件\directShow">
-      <UniqueIdentifier>{b706b313-4b90-4e77-9eb2-3edc5e8df2f3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\全包含 式头文件">
-      <UniqueIdentifier>{524b9e2a-99d3-4986-ab58-5db906e667d7}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\协作成分 式头文件">
-      <UniqueIdentifier>{18a245a7-030c-4c3d-ab73-1bcea976f54d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\协作成分 式头文件\directShow">
-      <UniqueIdentifier>{dc6c521c-32d8-4e98-bb89-bafb3d9b6b66}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\协作成分 式头文件\directShow\COM">
-      <UniqueIdentifier>{a4049a53-40d6-455d-8b12-76c91b8fe042}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_include.h\functions\procedure_playAFile">
-      <UniqueIdentifier>{a411bbe3-3f8b-4752-ae3c-c8a9c7af8cff}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_include.h\functions\procedure_playAFile\playAFile.cpp">
-      <UniqueIdentifier>{3616379c-54e0-4718-8257-44e3712c92cb}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_useThis.h\functions">
-      <UniqueIdentifier>{5a641d6b-5ce4-441e-9eef-06b110b47670}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_useThis.h\functions\procedure_playAFile">
-      <UniqueIdentifier>{86ca4143-6efa-45d8-847d-cd34ec20e641}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_useThis.h\functions\procedure_playAFile\playAFile.cpp">
-      <UniqueIdentifier>{04c0b7a3-0cbf-4a11-b27d-97fd27ba8570}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码">
-      <UniqueIdentifier>{ae8f6b04-c5bf-4a93-923c-f7ab55f7c9fc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集">
-      <UniqueIdentifier>{7168a612-1bc6-4dae-aeaa-490a6cbb7b4d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式">
-      <UniqueIdentifier>{9785b3eb-ffa6-404b-8f76-0786b5039fb1}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_include.h\sub\useCOM">
-      <UniqueIdentifier>{ed22b60a-95d3-4012-bfd1-0e0efe378876}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_include.h\sub\useCOM\useCOM.cpp">
-      <UniqueIdentifier>{75ccd14d-38cf-4d86-80df-154cf2547844}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程对第三方的使用 式头文件">
-      <UniqueIdentifier>{ac213605-5b0f-4b9a-8354-c09db29896f1}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件">
-      <UniqueIdentifier>{85b4fc9e-0dd2-4176-8604-cf102d4ecbf2}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件\playAFile">
-      <UniqueIdentifier>{72f45838-1764-4d4f-a411-90cf81709ebf}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件\playAFile\directShow">
-      <UniqueIdentifier>{0f9f376d-1cac-48be-9968-381942fca3cf}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程对第三方的使用 式头文件\playAFile">
-      <UniqueIdentifier>{d77a94fa-0378-46f0-8892-74ac2e839c08}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\functionSets">
-      <UniqueIdentifier>{97f912ef-ad81-45bf-b8be-08459c4b71c7}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\functionSets\playAFile">
-      <UniqueIdentifier>{6b388653-c20f-4550-bc79-4f504c01230a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\sub\useCOM">
-      <UniqueIdentifier>{6aa2b29b-8eaf-44ac-a185-4cc861a018c3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\sub\templateLearn">
-      <UniqueIdentifier>{52b4346d-d2be-4963-b764-7baaef5b7d6b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX.h">
-      <UniqueIdentifier>{e2592f76-137a-445e-87c6-591bf119f447}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX.h\sub">
-      <UniqueIdentifier>{e176b889-c4bd-4b2a-967f-8d218fc8ccd4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX.h\sub\templateLearn">
-      <UniqueIdentifier>{22e1a0b0-223a-400a-b091-776a4c56c604}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX.h\sub\templateLearn\templateLearn.cpp">
-      <UniqueIdentifier>{f5af7b94-2a91-4519-af60-d6b5c78cceab}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_include.h\sub\templateLearn">
-      <UniqueIdentifier>{16cfa0fa-2093-4603-90fb-c5d75ee0a18a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_include.h\sub\templateLearn\templateLearn.cpp">
-      <UniqueIdentifier>{12c99f10-68f1-48df-8470-b557759cceb0}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_include.h\sub\templateLearn">
-      <UniqueIdentifier>{38071c6b-ccfa-45d1-800c-a669bb3e313b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_include.h\sub\templateLearn\templateLearn.cpp">
-      <UniqueIdentifier>{623a1e7d-0bb4-469b-95c6-cd36efe311cc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_useThis.h\sub\templateLearn">
-      <UniqueIdentifier>{85a1a59b-a7ae-48c9-b62d-4355d6778085}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace_useThis.h\sub\templateLearn\templateLearn.cpp">
-      <UniqueIdentifier>{408f6f24-7245-4e7d-9da6-b3d1eec6d475}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="头文件\cppFileX_namespace.h">
-      <UniqueIdentifier>{5a2418dc-7fc6-4207-bde3-b889e1d869fa}</UniqueIdentifier>
     </Filter>
     <Filter Include="逻辑内容产生的架构">
       <UniqueIdentifier>{999f83ad-ddab-4aaf-a791-6eb35e6962d4}</UniqueIdentifier>
@@ -217,6 +25,9 @@
     <Filter Include="架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo">
       <UniqueIdentifier>{0e20813a-6eb2-4098-8887-06918478ffa7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo">
+      <UniqueIdentifier>{a5699d54-4a72-4c89-a038-62ccb697cd01}</UniqueIdentifier>
+    </Filter>
     <Filter Include="架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4">
       <UniqueIdentifier>{4ba4c4d2-3047-47fc-af70-4a9e99fe86f8}</UniqueIdentifier>
     </Filter>
@@ -226,28 +37,289 @@
     <Filter Include="架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置">
       <UniqueIdentifier>{47f2cefc-d4e7-4ac7-98f6-4b14199676ee}</UniqueIdentifier>
     </Filter>
-    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo">
-      <UniqueIdentifier>{a5699d54-4a72-4c89-a038-62ccb697cd01}</UniqueIdentifier>
+    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2">
+      <UniqueIdentifier>{bd0be1db-e156-4178-9980-02a166bea94a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置">
+      <UniqueIdentifier>{c94cd7ae-0519-4a1e-af25-96d6c4378735}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\源文件成分内容与结构位置">
+      <UniqueIdentifier>{c423d3eb-29cd-4f61-afc9-6a1871ba8800}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置\thirdPartyUse_include">
+      <UniqueIdentifier>{c7f574ba-3512-458b-9267-d69a8484ee87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置\thirdPartyUse_include\xxxx_use">
+      <UniqueIdentifier>{fc71291f-a808-4566-9cea-5773d2d9aad8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法">
+      <UniqueIdentifier>{e33010ed-455b-4be5-889d-3a324f3f7dc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属">
+      <UniqueIdentifier>{2ea44374-3359-4787-a60c-ce9445e1d4a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source">
+      <UniqueIdentifier>{b2e79a6c-5889-4383-98d5-d18e3d64ad68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions">
+      <UniqueIdentifier>{ff904f0c-2b1d-48ef-a2b3-fbcf92a18196}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\sub">
+      <UniqueIdentifier>{6137d92e-9814-4b45-a0c4-18114a9a1a08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture">
+      <UniqueIdentifier>{62b883f1-e808-4408-8c0f-05566752c177}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类">
+      <UniqueIdentifier>{ba1dc1e5-652b-4be5-9f7e-bdbd3c33f444}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件">
+      <UniqueIdentifier>{a32a7672-a617-4f1f-847a-5e0a36009063}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX.h">
+      <UniqueIdentifier>{e2592f76-137a-445e-87c6-591bf119f447}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX.h\sub">
+      <UniqueIdentifier>{e176b889-c4bd-4b2a-967f-8d218fc8ccd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX.h\sub\templateLearn">
+      <UniqueIdentifier>{22e1a0b0-223a-400a-b091-776a4c56c604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX.h\sub\templateLearn\templateLearn.cpp">
+      <UniqueIdentifier>{f5af7b94-2a91-4519-af60-d6b5c78cceab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX.h\functions">
+      <UniqueIdentifier>{3ecf9f03-c026-4a2a-b61c-c46208a5f7e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX.h\functions\procedure_videoCapture">
+      <UniqueIdentifier>{5444bfa1-3dcb-41ab-84f0-a66e0c5eb1b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX.h\functions\procedure_videoCapture\videoCapture.cpp">
+      <UniqueIdentifier>{ac2d2396-1070-4986-9f31-1f0e22388844}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h">
+      <UniqueIdentifier>{85f987c6-e85c-459f-88a8-41e3e3c33bb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\sub">
+      <UniqueIdentifier>{f06c921b-1f2e-45d8-ad3d-b3883d03fb25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\sub\useDirectShow">
+      <UniqueIdentifier>{296196e9-5f99-4fed-80a7-b3b495aca7af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\sub\useDirectShow\useDirectShow.cpp">
+      <UniqueIdentifier>{6f2686f2-7cbb-40e4-82d0-5c19d0944651}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\sub\useCOM">
+      <UniqueIdentifier>{ed22b60a-95d3-4012-bfd1-0e0efe378876}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\sub\useCOM\useCOM.cpp">
+      <UniqueIdentifier>{75ccd14d-38cf-4d86-80df-154cf2547844}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\sub\templateLearn">
+      <UniqueIdentifier>{16cfa0fa-2093-4603-90fb-c5d75ee0a18a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\sub\templateLearn\templateLearn.cpp">
+      <UniqueIdentifier>{12c99f10-68f1-48df-8470-b557759cceb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\functions">
+      <UniqueIdentifier>{f3c293c5-dea6-4731-9361-de3f43b14b25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\functions\procedure_playAFile">
+      <UniqueIdentifier>{a411bbe3-3f8b-4752-ae3c-c8a9c7af8cff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\functions\procedure_playAFile\playAFile.cpp">
+      <UniqueIdentifier>{3616379c-54e0-4718-8257-44e3712c92cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\functions\procedure_videoCapture">
+      <UniqueIdentifier>{b0339994-2f5e-4ee3-b48b-339d3f071355}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\functions\procedure_videoCapture\videoCapture.cpp">
+      <UniqueIdentifier>{4ca3c330-9c98-435c-9aca-c765a1b44f37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace.h">
+      <UniqueIdentifier>{5a2418dc-7fc6-4207-bde3-b889e1d869fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_include.h">
+      <UniqueIdentifier>{138885ae-a6a3-475c-9c37-12317185d5dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_include.h\functions">
+      <UniqueIdentifier>{15aeecd4-054d-49dc-8bc5-2611dab94a1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_include.h\functions\playAFile">
+      <UniqueIdentifier>{d946e35e-3a0c-4f05-8891-7e4ae079c5a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_include.h\functions\playAFile\playAFile.cpp">
+      <UniqueIdentifier>{d4993f00-5e33-4d95-ab96-2e82f7503fe3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_include.h\sub">
+      <UniqueIdentifier>{1bda6445-15d0-4a25-ae77-cc9b926a34b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_include.h\sub\useCOM">
+      <UniqueIdentifier>{9ce82659-e33e-4204-bac1-bb5914b45f61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_include.h\sub\useCOM\useCOM.cpp">
+      <UniqueIdentifier>{491286ac-cf1a-43d9-826c-8ad6412b0a08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_include.h\sub\useDirectShow">
+      <UniqueIdentifier>{419b6be1-4cd6-4a07-8c0e-b086f487191a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_include.h\sub\useDirectShow\useDirectShow.cpp">
+      <UniqueIdentifier>{e9057cf2-9a5e-483c-a19a-8b112e2a2e1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_include.h\sub\templateLearn">
+      <UniqueIdentifier>{38071c6b-ccfa-45d1-800c-a669bb3e313b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_include.h\sub\templateLearn\templateLearn.cpp">
+      <UniqueIdentifier>{623a1e7d-0bb4-469b-95c6-cd36efe311cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h">
+      <UniqueIdentifier>{57e94da9-1681-4459-af36-0f059ac3fda4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h\sub">
+      <UniqueIdentifier>{be6fc7d7-aca4-42aa-8ace-90f42844d45c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h\sub\useDirectShow">
+      <UniqueIdentifier>{79b84e3d-d880-4fa4-b855-9eca0ccac743}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h\sub\useDirectShow\useDirectShow.cpp">
+      <UniqueIdentifier>{9c4e5b58-cba8-4c92-b723-130d2f12d510}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h\sub\useCOM">
+      <UniqueIdentifier>{fb58ae7c-bbed-45f2-8a0d-344f2a93f69e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h\sub\useCOM\useCOM.cpp">
+      <UniqueIdentifier>{3b1fb74a-0406-47ac-8042-b1f8aee17179}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h\sub\templateLearn">
+      <UniqueIdentifier>{85a1a59b-a7ae-48c9-b62d-4355d6778085}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h\sub\templateLearn\templateLearn.cpp">
+      <UniqueIdentifier>{408f6f24-7245-4e7d-9da6-b3d1eec6d475}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h\functions">
+      <UniqueIdentifier>{5a641d6b-5ce4-441e-9eef-06b110b47670}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h\functions\procedure_playAFile">
+      <UniqueIdentifier>{86ca4143-6efa-45d8-847d-cd34ec20e641}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h\functions\procedure_playAFile\playAFile.cpp">
+      <UniqueIdentifier>{04c0b7a3-0cbf-4a11-b27d-97fd27ba8570}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件">
+      <UniqueIdentifier>{5d6a235f-7961-4dfd-bd24-30645ed72911}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\外部流程">
+      <UniqueIdentifier>{502178c5-c4a6-4c53-92c6-da7c39bfdbed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系">
+      <UniqueIdentifier>{4325816d-442c-4dd7-b267-bc5dceff3033}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\全包含 式头文件">
+      <UniqueIdentifier>{524b9e2a-99d3-4986-ab58-5db906e667d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\协作成分 式头文件">
+      <UniqueIdentifier>{18a245a7-030c-4c3d-ab73-1bcea976f54d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\协作成分 式头文件\directShow">
+      <UniqueIdentifier>{dc6c521c-32d8-4e98-bb89-bafb3d9b6b66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\协作成分 式头文件\directShow\COM">
+      <UniqueIdentifier>{a4049a53-40d6-455d-8b12-76c91b8fe042}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集">
+      <UniqueIdentifier>{54cdd17c-98f3-40cc-b216-a2dbf299515a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集\独立成分调用 式头文件">
+      <UniqueIdentifier>{5d7bb314-2531-4a89-bffc-d0fc849a2747}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集\独立成分调用 式头文件\COM">
+      <UniqueIdentifier>{50a1225f-f18b-4758-b020-f10670801a9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集\独立成分调用 式头文件\directShow">
+      <UniqueIdentifier>{b706b313-4b90-4e77-9eb2-3edc5e8df2f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码">
+      <UniqueIdentifier>{ae8f6b04-c5bf-4a93-923c-f7ab55f7c9fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集">
+      <UniqueIdentifier>{7168a612-1bc6-4dae-aeaa-490a6cbb7b4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式">
+      <UniqueIdentifier>{9785b3eb-ffa6-404b-8f76-0786b5039fb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程对第三方的使用 式头文件">
+      <UniqueIdentifier>{ac213605-5b0f-4b9a-8354-c09db29896f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程对第三方的使用 式头文件\playAFile">
+      <UniqueIdentifier>{d77a94fa-0378-46f0-8892-74ac2e839c08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件">
+      <UniqueIdentifier>{85b4fc9e-0dd2-4176-8604-cf102d4ecbf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件\playAFile">
+      <UniqueIdentifier>{72f45838-1764-4d4f-a411-90cf81709ebf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件\playAFile\directShow">
+      <UniqueIdentifier>{0f9f376d-1cac-48be-9968-381942fca3cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件\videoCapture">
+      <UniqueIdentifier>{e55041ae-3f78-4eb1-873e-b9c35362b6e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件\videoCapture\xxxx">
+      <UniqueIdentifier>{81f42fc3-0814-4738-b42a-1caa5809309f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件">
+      <UniqueIdentifier>{ae40ffeb-8cc0-4341-b68c-9f634c9f7b05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件\functionSets">
+      <UniqueIdentifier>{97f912ef-ad81-45bf-b8be-08459c4b71c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件\functionSets\playAFile">
+      <UniqueIdentifier>{6b388653-c20f-4550-bc79-4f504c01230a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件\functionSets\procedure_videoCapture">
+      <UniqueIdentifier>{fd62b7e0-74ab-4017-9762-810503213903}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件\main">
+      <UniqueIdentifier>{6a69b26b-39b0-4e58-aa39-defaf5329e25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件\sub">
+      <UniqueIdentifier>{471e2c5a-f31a-4422-b24c-1fccf8da9733}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件\sub\useDirectShow">
+      <UniqueIdentifier>{e668c994-7c0b-411b-ba57-c582afdfacf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件\sub\useCOM">
+      <UniqueIdentifier>{6aa2b29b-8eaf-44ac-a185-4cc861a018c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件\sub\templateLearn">
+      <UniqueIdentifier>{52b4346d-d2be-4963-b764-7baaef5b7d6b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main\main.cpp">
-      <Filter>源文件\main</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件\main</Filter>
     </ClCompile>
     <ClCompile Include="source\sub\useDirectShow\useDirectShow.cpp">
-      <Filter>源文件\sub\useDirectShow</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件\sub\useDirectShow</Filter>
     </ClCompile>
     <ClCompile Include="source\functionSets\procedure_playAFile\playAFile.cpp">
-      <Filter>源文件\functionSets\playAFile</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件\functionSets\playAFile</Filter>
     </ClCompile>
     <ClCompile Include="source\sub\useCOM\useCOM.cpp">
-      <Filter>源文件\sub\useCOM</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件\sub\useCOM</Filter>
     </ClCompile>
     <ClCompile Include="source\sub\templateLearn\templateLearn.cpp">
-      <Filter>源文件\sub\templateLearn</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件\sub\templateLearn</Filter>
     </ClCompile>
-    <ClCompile Include="架构demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX.cpp">
+    <ClCompile Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX.cpp">
       <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\源文件成分内容与结构位置</Filter>
+    </ClCompile>
+    <ClCompile Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX.cpp">
+      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\源文件成分内容与结构位置</Filter>
+    </ClCompile>
+    <ClCompile Include="source\functionSets\procedure_videoCapture\videoCapture.cpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -255,83 +327,125 @@
       <Filter>头文件\main_include</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_include.hpp">
-      <Filter>头文件\cppFileX_include.h\sub\useDirectShow\useDirectShow.cpp</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\sub\useDirectShow\useDirectShow.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_include.hpp">
-      <Filter>头文件\cppFileX_namespace_include.h\sub\useDirectShow\useDirectShow.cpp</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_include.h\sub\useDirectShow\useDirectShow.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\useDirectShow\useDirectShow_namespace_useThis.hpp">
-      <Filter>头文件\cppFileX_namespace_useThis.h\sub\useDirectShow\useDirectShow.cpp</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h\sub\useDirectShow\useDirectShow.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\useCOM\useCOM_namespace_include.hpp">
-      <Filter>头文件\cppFileX_namespace_include.h\sub\useCOM\useCOM.cpp</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_include.h\sub\useCOM\useCOM.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_namespace_include.hpp">
-      <Filter>头文件\cppFileX_namespace_include.h\functions\playAFile\playAFile.cpp</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_include.h\functions\playAFile\playAFile.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\useCOM\useCOM_namespace_useThis.hpp">
-      <Filter>头文件\cppFileX_namespace_useThis.h\sub\useCOM\useCOM.cpp</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h\sub\useCOM\useCOM.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\functionSets\procedure_playAFile\thirdPartyUse_include\directShow_use\plAF_wTUseDirectShow_pMo.hpp">
-      <Filter>头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件\playAFile\directShow</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件\playAFile\directShow</Filter>
     </ClInclude>
     <ClInclude Include="header\thirdParty_procedureNeedUses\directShowUse\directShowUseProcedure_all_include.hpp">
-      <Filter>头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\全包含 式头文件</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\全包含 式头文件</Filter>
     </ClInclude>
     <ClInclude Include="header\thirdParty_procedureNeedUses\directShowUse\useCOM\initialCOM.hpp">
-      <Filter>头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\协作成分 式头文件\directShow\COM</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\外部流程\协作调用关系\协作成分 式头文件\directShow\COM</Filter>
     </ClInclude>
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_include.hpp">
-      <Filter>头文件\cppFileX_include.h\functions\procedure_playAFile\playAFile.cpp</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\functions\procedure_playAFile\playAFile.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_namespace_useThis.hpp">
-      <Filter>头文件\cppFileX_namespace_useThis.h\functions\procedure_playAFile\playAFile.cpp</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h\functions\procedure_playAFile\playAFile.cpp</Filter>
     </ClInclude>
     <ClInclude Include="header\thirdParty_useNeeds\useDirectShow\useDirectShow_needsInclude.hpp">
-      <Filter>头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集\独立成分调用 式头文件\directShow</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集\独立成分调用 式头文件\directShow</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\useCOM\useCOM_include.hpp">
-      <Filter>头文件\cppFileX_include.h\sub\useCOM\useCOM.cpp</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\sub\useCOM\useCOM.cpp</Filter>
     </ClInclude>
     <ClInclude Include="header\thirdParty_useNeeds\useCOM\useCOM_needsInclude.hpp">
-      <Filter>头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集\独立成分调用 式头文件\COM</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\外部流程\外部组件独立成分调用集\独立成分调用 式头文件\COM</Filter>
     </ClInclude>
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_thirdPartyUse_include.hpp">
-      <Filter>头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程对第三方的使用 式头文件\playAFile</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程对第三方的使用 式头文件\playAFile</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\templateLearn\templateLearn.hpp">
-      <Filter>头文件\cppFileX.h\sub\templateLearn\templateLearn.cpp</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX.h\sub\templateLearn\templateLearn.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\templateLearn\templateLearn_include.hpp">
-      <Filter>头文件\cppFileX_include.h\sub\templateLearn\templateLearn.cpp</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_include.h\sub\templateLearn\templateLearn.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\templateLearn\templateLearn_namespace_include.hpp">
-      <Filter>头文件\cppFileX_namespace_include.h\sub\templateLearn\templateLearn.cpp</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_include.h\sub\templateLearn\templateLearn.cpp</Filter>
     </ClInclude>
     <ClInclude Include="source\sub\templateLearn\templateLearn_namespace_useThis.hpp">
-      <Filter>头文件\cppFileX_namespace_useThis.h\sub\templateLearn\templateLearn.cpp</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h\sub\templateLearn\templateLearn.cpp</Filter>
     </ClInclude>
-    <ClInclude Include="架构demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX.hpp">
+    <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX.hpp">
       <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
     </ClInclude>
-    <ClInclude Include="架构demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_include.hpp">
+    <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_include.hpp">
       <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
     </ClInclude>
-    <ClInclude Include="架构demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace.hpp">
+    <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace.hpp">
       <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
     </ClInclude>
-    <ClInclude Include="架构demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace_include.hpp">
+    <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace_include.hpp">
       <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
     </ClInclude>
-    <ClInclude Include="架构demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace_useThis.hpp">
+    <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace_useThis.hpp">
       <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX.hpp">
+      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_include.hpp">
+      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_namespace.hpp">
+      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_namespace_include.hpp">
+      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_namespace_useThis.hpp">
+      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_thirdPartyUse_include.hpp">
+      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="source\functionSets\procedure_videoCapture\thirdPartyUse_include\xxxx_use\dNX_wTUX_tDS.hpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件\videoCapture\xxxx</Filter>
+    </ClInclude>
+    <ClInclude Include="source\functionSets\procedure_videoCapture\videoCapture_thirdPartyUse_include.hpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture</Filter>
+    </ClInclude>
+    <ClInclude Include="source\functionSets\procedure_videoCapture\videoCapture_namespace.hpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture</Filter>
+    </ClInclude>
+    <ClInclude Include="source\functionSets\procedure_videoCapture\videoCapture_namespace_include.hpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture</Filter>
+    </ClInclude>
+    <ClInclude Include="source\functionSets\procedure_videoCapture\videoCapture_namespace_useThis.hpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture</Filter>
+    </ClInclude>
+    <ClInclude Include="source\functionSets\procedure_videoCapture\videoCapture_include.hpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture</Filter>
+    </ClInclude>
+    <ClInclude Include="source\functionSets\procedure_videoCapture\videoCapture.hpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\thirdPartyUse_include\xxxx_use\dNX_wTUX_tDS.hpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="架构demo结构\架构概述说明.txt">
+    <Text Include="架构Demo结构\架构概述说明.txt">
       <Filter>架构demo结构（内容成分demo）</Filter>
     </Text>
   </ItemGroup>

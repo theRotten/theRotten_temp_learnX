@@ -3,6 +3,7 @@
 //本函数参照：https://docs.microsoft.com/zh-cn/windows/desktop/directshow/how-to-play-a-file
 void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812202044_adoifbnpadnfbabisdufvbao::playAFile_demo(void)
 {
+	
 	//1.首先调用CoInitialize或CoInitializeEx来初始化COM库：
 	HRESULT hr = CoInitialize(NULL);
 	if (FAILED(hr))

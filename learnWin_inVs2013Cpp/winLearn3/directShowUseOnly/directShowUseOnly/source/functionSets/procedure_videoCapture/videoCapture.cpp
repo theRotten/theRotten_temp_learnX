@@ -106,6 +106,18 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 	}
 }
 
+//要为设备创建DirectShow捕获筛选器，请调用IMoniker :: BindToObject方法以获取IBaseFilter指针。然后调用IFilterGraph :: AddFilter将过滤器添加到过滤器图形中：
+void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::createADirectShowCaptureFilterForTheDevice(IMoniker *pMoniker)
+{
+	IBaseFilter *pCap = NULL;
+
+	HRESULT hr = pMoniker->BindToObject(0, 0, IID_IBaseFilter, (void**)&pCap);
+	if (SUCCEEDED(hr))
+	{
+		//hr = m_pGraph->AddFilter(pCap, L"Capture Filter");
+	}
+}
+
 //目前，该模块主函数功能：流程，像微软样例中给出的一套枚举摄像头和麦克风的流程
 void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::videoCapture_main(void)
 {
@@ -129,3 +141,4 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 		CoUninitialize();
 	}
 }
+

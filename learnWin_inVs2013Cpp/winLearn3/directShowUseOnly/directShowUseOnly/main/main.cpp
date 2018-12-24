@@ -22,9 +22,11 @@ int mainTest(void)
 
 void mainTestX(void)
 {
-	//²âÊÔvideoCaptureÄ£¿évideoCapture_main();
-	::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::videoCapture_main();
+	//²âÊÔprocedure_videoCaptureÄ£¿évideoCapture_main();
+	//::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::videoCapture_main();
 
+	//²âÊÔprocedure_playAFileÄ£¿éplayAFile_main();
+	::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_playAFile::playAFile_main();
 }
 
 void mainStopHere(void)

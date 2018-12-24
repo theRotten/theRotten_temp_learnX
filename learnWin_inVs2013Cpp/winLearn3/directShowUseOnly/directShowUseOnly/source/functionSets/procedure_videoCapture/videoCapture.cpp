@@ -31,10 +31,12 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 //以下代码为指定的设备类别创建枚举器。
 HRESULT ____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum)//。。。。。。。。。。“难道。。混合命名空间？？？？。。。。WTF？？？？。。。。。。。。。。”
 {
+	//1.系统设备枚举器
+	//System Device Enumerator枚举系统上安装的过滤器和硬件设备。应用程序可以使用此组件来定位给定类别中的过滤器和设备。通过调用CoCreateInstance创建此对象
 	// Create the System Device Enumerator.
 	ICreateDevEnum *pDevEnum;
 	HRESULT hr = CoCreateInstance(CLSID_SystemDeviceEnum, NULL,
-		CLSCTX_INPROC_SERVER, IID_PPV_ARGS(&pDevEnum));
+		CLSCTX_INPROC_SERVER, IID_PPV_ARGS(&pDevEnum));//实例化一个设备枚举器
 
 	if (SUCCEEDED(hr))
 	{

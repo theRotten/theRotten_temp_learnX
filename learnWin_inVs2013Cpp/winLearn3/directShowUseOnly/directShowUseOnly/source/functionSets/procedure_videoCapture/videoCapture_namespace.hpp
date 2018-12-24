@@ -19,12 +19,22 @@ namespace aRottenGeneralNameThisX_thisNamespace
 			void test(void);
 			void testX(void);
 			
+			//功能函数或类等内容 contents：
 			void previewTheCapture(void);//预览视频
 			void createADirectShowCaptureFilterForTheDevice(IMoniker *pMoniker, IGraphBuilder *m_pGraph);//为一个设备创建一个Filter
 			void SelectingACaptureDevice(void);//选择一个捕获设备（初始尝试尝试试图）
 			HRESULT EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum);//进行【枚举】这个动词行为，进行这个行为的目标是【设备】
 			void DisplayDeviceInformation(IEnumMoniker *pEnum);//显示设备信息
 
+			//助手函数或助手类等内容 helperFunctions:
+
+			//关于Capture Graph Builder
+			HRESULT InitCaptureGraphBuilder(
+				IGraphBuilder **ppGraph,  // Receives the pointer.
+				ICaptureGraphBuilder2 **ppBuild  // Receives the pointer.
+				);
+
+			//记录内容 recordsOrRecordingThings:
 			HRESULT test_errorExample_201812241032(REFGUID category, IEnumMoniker **ppEnum);
 
 		}

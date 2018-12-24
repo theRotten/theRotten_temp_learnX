@@ -1,6 +1,6 @@
 #ifndef __demoNameXXX_namespace_hpp
 #define __demoNameXXX_namespace_hpp
-//该成分在该架构成分内当前结构版本 v0.3.1.2
+//该成分在该架构成分内当前（目前（正在）所采用）结构版本 v0.3.1.2
 //该成分在该结构成分所属架构位置描述：该独立[“功能集set成分”]构件的（实际实质）内容的命名空间。
 
 #include "./demoNameXXX_namespace_include.hpp"
@@ -11,6 +11,12 @@ namespace aRottenGeneralNameThisX_thisNamespace
 {
 	namespace functionSets
 	{
+		
+		//功能函数或类等内容 contents：
+
+		//助手函数或助手类等内容 helperFunctions:
+
+		//记录内容 recordsOrRecordingThings:
 
 	}
 }

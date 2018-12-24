@@ -351,6 +351,9 @@
     <ClCompile Include="架构Demo结构\source\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX.cpp">
       <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\源文件成分内容与结构位置</Filter>
     </ClCompile>
+    <ClCompile Include="source\functionSets\procedure_videoCapture\videoCapture_helperFunction.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main\main_include.hpp">

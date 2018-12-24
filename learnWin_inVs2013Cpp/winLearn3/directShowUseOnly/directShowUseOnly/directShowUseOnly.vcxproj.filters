@@ -352,7 +352,7 @@
       <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\源文件成分内容与结构位置</Filter>
     </ClCompile>
     <ClCompile Include="source\functionSets\procedure_videoCapture\videoCapture_helperFunction.cpp">
-      <Filter>源文件</Filter>
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

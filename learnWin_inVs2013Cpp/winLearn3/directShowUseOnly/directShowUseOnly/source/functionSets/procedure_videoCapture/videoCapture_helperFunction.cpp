@@ -1,8 +1,9 @@
 #include "./videoCapture_include.hpp"
+//#include "./videoCapture_helperFunction_include.hpp"//。。。。。。。。。。某个子模块，你能说它是某部分用某个，还是全部（或者说在流程中）都用到了某个吗？。。。。。。。。。。
 
 
 //参照：https://docs.microsoft.com/zh-cn/windows/desktop/directshow/about-the-capture-graph-builderpBuild
-HRESULT InitCaptureGraphBuilder(
+HRESULT ____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::InitCaptureGraphBuilder(
 	IGraphBuilder **ppGraph,  // Receives the pointer.
 	ICaptureGraphBuilder2 **ppBuild  // Receives the pointer.
 	)

@@ -3,6 +3,7 @@
 
 
 //参照：https://docs.microsoft.com/zh-cn/windows/desktop/directshow/about-the-capture-graph-builderpBuild
+//用于协助完成Capture Graph Builder和Manager的“关系建立”
 HRESULT ____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::InitCaptureGraphBuilder(
 	IGraphBuilder **ppGraph,  // Receives the pointer.
 	ICaptureGraphBuilder2 **ppBuild  // Receives the pointer.

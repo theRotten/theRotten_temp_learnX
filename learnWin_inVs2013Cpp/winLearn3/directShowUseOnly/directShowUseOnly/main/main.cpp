@@ -15,9 +15,10 @@ void mainTemp(void)
 	wcout << "w¶à×Ö½Ú±àÂë" << endl;
 }
 
-int mainTest(void)
+void mainTest(void)
 {
-	return 0;
+	::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::test();
+
 }
 
 void mainTestX(void)
@@ -26,7 +27,7 @@ void mainTestX(void)
 	//::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::videoCapture_main();
 
 	//²âÊÔprocedure_playAFileÄ£¿éplayAFile_main();
-	::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_playAFile::playAFile_main();
+	//::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_playAFile::playAFile_main();
 }
 
 void mainStopHere(void)
@@ -63,6 +64,7 @@ void mainPauseWait(void)
 int main()
 {
 	mainTemp();
+	mainTest();
 	mainTestX();
 	
 	mainStopWait();

@@ -83,7 +83,11 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::getCaptureMoniker(IMoniker *&pMoniker)//获取设备昵称
 {
 	
+	//枚举设备 开始-------------------------------------2018年12月24日22:47:09
 	IEnumMoniker *pEnum=NULL;
+	EnumerateDevices(CLSID_VideoInputDeviceCategory, &pEnum);
+	//枚举设备 结束-------------------------------------2018年12月24日22:47:09
+
 	while (pEnum->Next(1, &pMoniker, NULL) == S_OK)
 	{
 		IPropertyBag *pPropBag;

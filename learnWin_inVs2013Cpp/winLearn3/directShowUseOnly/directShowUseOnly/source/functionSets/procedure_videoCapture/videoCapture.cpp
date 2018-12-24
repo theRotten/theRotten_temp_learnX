@@ -17,13 +17,15 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 //
 //}
 
-void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::test(void)
+void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::test(void)//类似试验尝试测试（这个，还不一定能达到结果，（。。尚未看到或确定结果的。。未知测试。。））
 {
-
+	//EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum);//枚举出指定类型的设备
+	//createADirectShowCaptureFilterForTheDevice(IMoniker *pMoniker, IGraphBuilder *m_pGraph);//添加摄像头的captureFilter到graph
+	//previewTheCapture(IGraphBuilder **&ppGraph, IBaseFilter* &pCap);//在某个【ppGraph】上preview 【pCap】
 
 }
 
-void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::testX(void)
+void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::testX(void)//测试某个作出的成分
 {
 
 

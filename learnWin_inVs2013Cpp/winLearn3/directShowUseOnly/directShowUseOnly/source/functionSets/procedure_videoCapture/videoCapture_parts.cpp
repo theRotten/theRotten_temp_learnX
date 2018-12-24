@@ -4,7 +4,7 @@
 
 //3.该CreateClassEnumerator方法返回一个指针IEnumMoniker接口。要枚举这些标记，请调用IEnumMoniker :: Next。
 //以下代码为指定的设备类别创建枚举器。
-HRESULT ____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum)//。。。。。。。。。。“难道。。混合命名空间？？？？。。。。WTF？？？？。。。。。。。。。。”
+HRESULT ____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum)//枚举出指定类型的设备//。。。。。。。。。。“难道。。混合命名空间？？？？。。。。WTF？？？？。。。。。。。。。。”
 {
 	//1.系统设备枚举器
 	//System Device Enumerator枚举系统上安装的过滤器和硬件设备。应用程序可以使用此组件来定位给定类别中的过滤器和设备。通过调用CoCreateInstance创建此对象
@@ -27,7 +27,7 @@ HRESULT ____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_2018122413
 }
 
 //以下代码示例演示如何枚举设备标记列表并获取属性。
-void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::DisplayDeviceInformation(IEnumMoniker *pEnum)
+void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::DisplayDeviceInformation(IEnumMoniker *pEnum)//显示设备信息
 {
 	IMoniker *pMoniker = NULL;
 

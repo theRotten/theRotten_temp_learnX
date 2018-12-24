@@ -17,6 +17,7 @@ void mainTemp(void)
 
 void mainTest(void)
 {
+	//procedure_videoCaptureµÄÊÔÑé
 	::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::test();
 
 }

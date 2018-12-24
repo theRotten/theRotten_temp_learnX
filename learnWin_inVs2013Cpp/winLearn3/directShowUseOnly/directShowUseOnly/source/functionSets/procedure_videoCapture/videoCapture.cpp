@@ -123,9 +123,19 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 
 //预览视频
 //参照：https://docs.microsoft.com/zh-cn/windows/desktop/directshow/previewing-video
+//要构建视频预览图，请按如下方式调用ICaptureGraphBuilder2 :: RenderStream方法：
 void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::previewTheCapture(void)
 {
+	HRESULT hr;
+	ICaptureGraphBuilder2 *pBuild; // Capture Graph Builder
+	// Initialize pBuild (not shown).
 
+	IBaseFilter *pCap; // Video capture filter.
+
+	/* Initialize pCap and add it to the filter graph (not shown). */
+
+	//hr = pBuild->RenderStream(&PIN_CATEGORY_PREVIEW, &MEDIATYPE_Video,
+	//	pCap, NULL, NULL);
 }
 
 //目前，该模块主函数功能：流程，像微软样例中给出的一套枚举摄像头和麦克风的流程

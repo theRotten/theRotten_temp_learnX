@@ -15,13 +15,13 @@ void ::aRottenGeneralNameThisX_thisNamespace::functionSets::videoCapture::Select
 //
 //}
 
-void aRottenGeneralNameThisX_thisNamespace::functionSets::videoCapture::test(void)
+void ::aRottenGeneralNameThisX_thisNamespace::functionSets::videoCapture::test(void)
 {
 
 
 }
 
-void aRottenGeneralNameThisX_thisNamespace::functionSets::videoCapture::testX(void)
+void ::aRottenGeneralNameThisX_thisNamespace::functionSets::videoCapture::testX(void)
 {
 
 
@@ -29,7 +29,7 @@ void aRottenGeneralNameThisX_thisNamespace::functionSets::videoCapture::testX(vo
 
 //3.该CreateClassEnumerator方法返回一个指针IEnumMoniker接口。要枚举这些标记，请调用IEnumMoniker :: Next。
 //以下代码为指定的设备类别创建枚举器。
-HRESULT aRottenGeneralNameThisX_thisNamespace::functionSets::videoCapture::EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum)
+HRESULT aRottenGeneralNameThisX_thisNamespace::functionSets::videoCapture::EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum)//。。。。。。。。。。“难道。。混合命名空间？？？？。。。。WTF？？？？。。。。。。。。。。”
 {
 	// Create the System Device Enumerator.
 	ICreateDevEnum *pDevEnum;
@@ -47,4 +47,57 @@ HRESULT aRottenGeneralNameThisX_thisNamespace::functionSets::videoCapture::Enume
 		pDevEnum->Release();
 	}
 	return hr;
+}
+
+//以下代码示例演示如何枚举设备标记列表并获取属性。
+void ::aRottenGeneralNameThisX_thisNamespace::functionSets::videoCapture::DisplayDeviceInformation(IEnumMoniker *pEnum)
+{
+	IMoniker *pMoniker = NULL;
+
+	while (pEnum->Next(1, &pMoniker, NULL) == S_OK)
+	{
+		IPropertyBag *pPropBag;
+		HRESULT hr = pMoniker->BindToStorage(0, 0, IID_PPV_ARGS(&pPropBag));
+		if (FAILED(hr))
+		{
+			pMoniker->Release();
+			continue;
+		}
+
+		VARIANT var;
+		VariantInit(&var);
+
+		// Get description or friendly name.
+		hr = pPropBag->Read(L"Description", &var, 0);
+		if (FAILED(hr))
+		{
+			hr = pPropBag->Read(L"FriendlyName", &var, 0);
+		}
+		if (SUCCEEDED(hr))
+		{
+			printf("%S\n", var.bstrVal);
+			VariantClear(&var);
+		}
+
+		hr = pPropBag->Write(L"FriendlyName", &var);
+
+		// WaveInID applies only to audio capture devices.
+		hr = pPropBag->Read(L"WaveInID", &var, 0);
+		if (SUCCEEDED(hr))
+		{
+			printf("WaveIn ID: %d\n", var.lVal);
+			VariantClear(&var);
+		}
+
+		hr = pPropBag->Read(L"DevicePath", &var, 0);
+		if (SUCCEEDED(hr))
+		{
+			// The device path is not intended for display.
+			printf("Device path: %S\n", var.bstrVal);
+			VariantClear(&var);
+		}
+
+		pPropBag->Release();
+		pMoniker->Release();
+	}
 }

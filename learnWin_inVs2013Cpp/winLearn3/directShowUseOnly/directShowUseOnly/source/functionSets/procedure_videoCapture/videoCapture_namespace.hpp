@@ -19,6 +19,7 @@ namespace aRottenGeneralNameThisX_thisNamespace
 			void testX(void);
 
 			HRESULT EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum);
+			void DisplayDeviceInformation(IEnumMoniker *pEnum);
 
 			HRESULT test_errorExample_201812241032(REFGUID category, IEnumMoniker **ppEnum);
 

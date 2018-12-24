@@ -40,6 +40,7 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <IncludePath>G:\files\using\classified\githubLocalDir\theRotten\theRotten_temp_learnX\learnWin_inVs2013Cpp\winLearn3\directShowUseOnly\directShowUseOnly;$(IncludePath)</IncludePath>
+    <LibraryPath>G:\files\using\classified\githubLocalDir\theRotten\theRotten_temp_learnX\learnWin_inVs2013Cpp\winLearn3\directShowUseOnly\directShowUseOnly\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -82,7 +83,10 @@
   <ItemGroup>
     <ClInclude Include="header\thirdParty_procedureNeedUses\directShowUse\directShowUseProcedure_all_include.hpp" />
     <ClInclude Include="header\thirdParty_procedureNeedUses\directShowUse\useCOM\initialCOM.hpp" />
+    <ClInclude Include="header\thirdParty_procedureNeedUses\xxxxUse\XXXXUseProcedure_all_include.hpp" />
+    <ClInclude Include="header\thirdParty_procedureNeedUses\xxxxUse\useXX\demoXX.hpp" />
     <ClInclude Include="header\thirdParty_useNeeds\useDirectShow\useDirectShow_needsInclude.hpp" />
+    <ClInclude Include="header\thirdParty_useNeeds\useXX\useXX_needsInclude.hpp" />
     <ClInclude Include="main\main_include.hpp" />
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_include.hpp" />
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_namespace_include.hpp" />
@@ -107,6 +111,9 @@
     <ClInclude Include="source\functionSets\procedure_videoCapture\videoCapture_namespace_useThis.hpp" />
     <ClInclude Include="source\functionSets\procedure_videoCapture\videoCapture_thirdPartyUse_include.hpp" />
     <ClInclude Include="source\functionSets\procedure_videoCapture\thirdPartyUse_include\xxxx_use\dNX_wTUX_tDS.hpp" />
+    <ClInclude Include="架构Demo结构\header\thirdParty_procedureNeedUses\xxxxUse\useXX\demoXX.hpp" />
+    <ClInclude Include="架构Demo结构\header\thirdParty_procedureNeedUses\xxxxUse\XXXXUseProcedure_all_include.hpp" />
+    <ClInclude Include="架构Demo结构\header\thirdParty_useNeeds\useXX\useXX_needsInclude.hpp" />
     <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX.hpp" />
     <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_include.hpp" />
     <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace_include.hpp" />

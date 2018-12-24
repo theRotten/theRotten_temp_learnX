@@ -22,36 +22,6 @@
     <Filter Include="架构demo结构（内容成分demo）">
       <UniqueIdentifier>{e9c512de-708e-4c9a-b448-578c0d5aa871}</UniqueIdentifier>
     </Filter>
-    <Filter Include="架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo">
-      <UniqueIdentifier>{0e20813a-6eb2-4098-8887-06918478ffa7}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo">
-      <UniqueIdentifier>{a5699d54-4a72-4c89-a038-62ccb697cd01}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4">
-      <UniqueIdentifier>{4ba4c4d2-3047-47fc-af70-4a9e99fe86f8}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\源文件成分内容与结构位置">
-      <UniqueIdentifier>{5b80cd55-39d5-45fb-ae16-7bd79bc9a7c6}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置">
-      <UniqueIdentifier>{47f2cefc-d4e7-4ac7-98f6-4b14199676ee}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2">
-      <UniqueIdentifier>{bd0be1db-e156-4178-9980-02a166bea94a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置">
-      <UniqueIdentifier>{c94cd7ae-0519-4a1e-af25-96d6c4378735}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\源文件成分内容与结构位置">
-      <UniqueIdentifier>{c423d3eb-29cd-4f61-afc9-6a1871ba8800}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置\thirdPartyUse_include">
-      <UniqueIdentifier>{c7f574ba-3512-458b-9267-d69a8484ee87}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置\thirdPartyUse_include\xxxx_use">
-      <UniqueIdentifier>{fc71291f-a808-4566-9cea-5773d2d9aad8}</UniqueIdentifier>
-    </Filter>
     <Filter Include="筛选器式管理方法">
       <UniqueIdentifier>{e33010ed-455b-4be5-889d-3a324f3f7dc9}</UniqueIdentifier>
     </Filter>
@@ -295,6 +265,66 @@
     <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件\sub\templateLearn">
       <UniqueIdentifier>{52b4346d-d2be-4963-b764-7baaef5b7d6b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\header">
+      <UniqueIdentifier>{78c79373-dff3-483d-a0d0-4d7a7843adce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\header\thirdParty_procedureNeedUses">
+      <UniqueIdentifier>{da46c755-2b96-43a3-b207-607a765c67f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\header\thirdParty_useNeeds">
+      <UniqueIdentifier>{9b39dd5e-cd10-444e-8d54-a4e2e2c8e78b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\header\thirdParty_procedureNeedUses\xxxxUse">
+      <UniqueIdentifier>{645efaf5-180a-4f37-91b4-ef8e63d9eb95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\header\thirdParty_useNeeds\useXX">
+      <UniqueIdentifier>{21e89e77-f14e-4822-b7a6-bc5d7113919c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo">
+      <UniqueIdentifier>{a5699d54-4a72-4c89-a038-62ccb697cd01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2">
+      <UniqueIdentifier>{bd0be1db-e156-4178-9980-02a166bea94a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置">
+      <UniqueIdentifier>{c94cd7ae-0519-4a1e-af25-96d6c4378735}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置\thirdPartyUse_include">
+      <UniqueIdentifier>{c7f574ba-3512-458b-9267-d69a8484ee87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置\thirdPartyUse_include\xxxx_use">
+      <UniqueIdentifier>{fc71291f-a808-4566-9cea-5773d2d9aad8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\源文件成分内容与结构位置">
+      <UniqueIdentifier>{c423d3eb-29cd-4f61-afc9-6a1871ba8800}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo">
+      <UniqueIdentifier>{0e20813a-6eb2-4098-8887-06918478ffa7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4">
+      <UniqueIdentifier>{4ba4c4d2-3047-47fc-af70-4a9e99fe86f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\源文件成分内容与结构位置">
+      <UniqueIdentifier>{5b80cd55-39d5-45fb-ae16-7bd79bc9a7c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置">
+      <UniqueIdentifier>{47f2cefc-d4e7-4ac7-98f6-4b14199676ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\外部组件调用提供 集 成分架构结构构件demo">
+      <UniqueIdentifier>{fbef3900-3320-4562-ab2e-2056f70d79d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\外部组件调用提供 集 成分架构结构构件demo\XX v0.4.1.2">
+      <UniqueIdentifier>{7de6b991-d1a6-4801-9579-621bb7a0404e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\使用过程中协作调用关系 成分架构结构构件demo">
+      <UniqueIdentifier>{02dafaeb-8326-4257-8a19-8df05b9e5278}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\使用过程中协作调用关系 成分架构结构构件demo\XXXX v5.1.2">
+      <UniqueIdentifier>{c36c1c1a-290e-4a7b-9999-cb3e0d004c11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="架构demo结构（内容成分demo）\使用过程中协作调用关系 成分架构结构构件demo\XXXX v5.1.2\thirdParty_procedureNeedUses">
+      <UniqueIdentifier>{a43e36e0-ffb2-4038-bf82-3a257dc03825}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main\main.cpp">
@@ -312,14 +342,14 @@
     <ClCompile Include="source\sub\templateLearn\templateLearn.cpp">
       <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\源文件\sub\templateLearn</Filter>
     </ClCompile>
-    <ClCompile Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX.cpp">
-      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\源文件成分内容与结构位置</Filter>
+    <ClCompile Include="source\functionSets\procedure_videoCapture\videoCapture.cpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture</Filter>
     </ClCompile>
     <ClCompile Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX.cpp">
       <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\源文件成分内容与结构位置</Filter>
     </ClCompile>
-    <ClCompile Include="source\functionSets\procedure_videoCapture\videoCapture.cpp">
-      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture</Filter>
+    <ClCompile Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX.cpp">
+      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\源文件成分内容与结构位置</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -383,39 +413,6 @@
     <ClInclude Include="source\sub\templateLearn\templateLearn_namespace_useThis.hpp">
       <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\cppFileX_namespace_useThis.h\sub\templateLearn\templateLearn.cpp</Filter>
     </ClInclude>
-    <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX.hpp">
-      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
-    </ClInclude>
-    <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_include.hpp">
-      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
-    </ClInclude>
-    <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace.hpp">
-      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
-    </ClInclude>
-    <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace_include.hpp">
-      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
-    </ClInclude>
-    <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace_useThis.hpp">
-      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
-    </ClInclude>
-    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX.hpp">
-      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
-    </ClInclude>
-    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_include.hpp">
-      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
-    </ClInclude>
-    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_namespace.hpp">
-      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
-    </ClInclude>
-    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_namespace_include.hpp">
-      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
-    </ClInclude>
-    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_namespace_useThis.hpp">
-      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
-    </ClInclude>
-    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_thirdPartyUse_include.hpp">
-      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
-    </ClInclude>
     <ClInclude Include="source\functionSets\procedure_videoCapture\thirdPartyUse_include\xxxx_use\dNX_wTUX_tDS.hpp">
       <Filter>筛选器式管理方法\筛选器管理方法版本 v0.1.1.1 方式描述：用于管理与分类\头文件\产生性样式套路 相同架构中位置类型文件\体系掌握代码\功能集\procedure式\流程调用第三方欲望的活动 式头文件\videoCapture\xxxx</Filter>
     </ClInclude>
@@ -437,8 +434,59 @@
     <ClInclude Include="source\functionSets\procedure_videoCapture\videoCapture.hpp">
       <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture</Filter>
     </ClInclude>
+    <ClInclude Include="header\thirdParty_useNeeds\useXX\useXX_needsInclude.hpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\header\thirdParty_useNeeds\useXX</Filter>
+    </ClInclude>
+    <ClInclude Include="header\thirdParty_procedureNeedUses\xxxxUse\useXX\demoXX.hpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\header\thirdParty_procedureNeedUses\xxxxUse</Filter>
+    </ClInclude>
+    <ClInclude Include="header\thirdParty_procedureNeedUses\xxxxUse\XXXXUseProcedure_all_include.hpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\header\thirdParty_procedureNeedUses\xxxxUse</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\header\thirdParty_useNeeds\useXX\useXX_needsInclude.hpp">
+      <Filter>架构demo结构（内容成分demo）\外部组件调用提供 集 成分架构结构构件demo\XX v0.4.1.2</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\header\thirdParty_procedureNeedUses\xxxxUse\XXXXUseProcedure_all_include.hpp">
+      <Filter>架构demo结构（内容成分demo）\使用过程中协作调用关系 成分架构结构构件demo\XXXX v5.1.2</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\header\thirdParty_procedureNeedUses\xxxxUse\useXX\demoXX.hpp">
+      <Filter>架构demo结构（内容成分demo）\使用过程中协作调用关系 成分架构结构构件demo\XXXX v5.1.2\thirdParty_procedureNeedUses</Filter>
+    </ClInclude>
     <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\thirdPartyUse_include\xxxx_use\dNX_wTUX_tDS.hpp">
       <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX.hpp">
+      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_include.hpp">
+      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_namespace.hpp">
+      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_namespace_include.hpp">
+      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_namespace_useThis.hpp">
+      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_thirdPartyUse_include.hpp">
+      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX.hpp">
+      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_include.hpp">
+      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace.hpp">
+      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace_include.hpp">
+      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace_useThis.hpp">
+      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\头文件成分内容与结构位置</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

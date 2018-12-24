@@ -42,7 +42,7 @@ int main()
 	//cout << t2.GetData1() << "   " << t2.GetData2() << endl;
 	//int 一个测试的整形数据=123456;
 	//一个泛类<int> 泛类实例(一个测试的整形数据);
-
+	
 	theRotten_temp_learnX_cppLearn1_unTidied_main::beforeMain();
 	system("pause");
 	{

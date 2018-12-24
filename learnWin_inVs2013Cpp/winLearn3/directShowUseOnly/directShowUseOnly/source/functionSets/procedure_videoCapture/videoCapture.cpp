@@ -2,6 +2,8 @@
 //该成分在该架构成分内当前结构版本 v0.3.1.2
 //该成分在该结构成分所属架构位置描述：该独立[“功能集set成分”]构件的（实际实质）内容。
 
+
+//目的要提供的内容：
 //参照：https://docs.microsoft.com/zh-cn/windows/desktop/directshow/selecting-a-capture-device
 void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::SelectingACaptureDevice(void)//这样没毛病
 {
@@ -41,12 +43,12 @@ HRESULT ____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_2018122413
 	if (SUCCEEDED(hr))
 	{
 		// Create an enumerator for the category.
-		hr = pDevEnum->CreateClassEnumerator(category, ppEnum, 0);
+		hr = pDevEnum->CreateClassEnumerator(category, ppEnum, 0);//返回一个枚举绰号，IEnumMoniker接口，在绰号表中列举绰号或绰号的组件
 		if (hr == S_FALSE)
 		{
 			hr = VFW_E_NOT_FOUND;  // The category is empty. Treat as an error.
 		}
-		pDevEnum->Release();
+		pDevEnum->Release();//释放枚举器
 	}
 	return hr;
 }

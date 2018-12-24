@@ -13,8 +13,8 @@ void mainTestX(void)
 
 int main()
 {
+	::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::videoCapture_main();
 	
-	::aRottenGeneralNameThisX_thisNamespace::functionSets::persuade_playAFile::playAFile_demo();
 	return 0;
 
 }

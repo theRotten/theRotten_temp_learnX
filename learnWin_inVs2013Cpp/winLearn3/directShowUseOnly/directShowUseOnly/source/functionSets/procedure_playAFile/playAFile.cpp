@@ -41,3 +41,8 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181220204
 	pGraph->Release();
 	CoUninitialize();
 }
+
+void ::aRottenGeneralNameThisX_thisNamespace::functionSets::persuade_playAFile::playAFile_main(void)
+{
+	::aRottenGeneralNameThisX_thisNamespace::functionSets::persuade_playAFile::playAFile_demo();
+}

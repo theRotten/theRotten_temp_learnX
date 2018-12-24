@@ -6,18 +6,20 @@
 #include "./videoCapture_namespace_include.hpp"
 
 //！@注意：改这个头文件命名空间声明结构的时候，一定要下面这一行宏定义的值，这个宏定义本身不能和其它宏定义重复，这个宏定义的值要和实际命名空间匹配
-#define ____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812230007_faasdfanopaen aRottenGeneralNameThisX_thisNamespace::functionSets
+#define ____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture
 namespace aRottenGeneralNameThisX_thisNamespace
 {
 	namespace functionSets
 	{
-		namespace videoCapture
+		namespace procedure_videoCapture
 		{
-			void SelectingACaptureDevice(void);
+			
+			void videoCapture_main(void);
 
 			void test(void);
 			void testX(void);
 
+			void SelectingACaptureDevice(void);
 			HRESULT EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum);
 			void DisplayDeviceInformation(IEnumMoniker *pEnum);
 

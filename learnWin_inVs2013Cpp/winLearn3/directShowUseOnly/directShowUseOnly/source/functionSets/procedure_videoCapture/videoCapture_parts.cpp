@@ -97,7 +97,7 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 //预览视频
 //参照：https://docs.microsoft.com/zh-cn/windows/desktop/directshow/previewing-video
 //要构建视频预览图，请按如下方式调用ICaptureGraphBuilder2 :: RenderStream方法：
-void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::previewTheCapture(IGraphBuilder **ppGraph, IBaseFilter* &pCap)//在某个【ppGraph】上preview 【pCap】
+void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::previewTheCapture(IGraphBuilder **&ppGraph, IBaseFilter* &pCap)//在某个【ppGraph】上preview 【pCap】
 {
 	HRESULT hr;
 	ICaptureGraphBuilder2 *pBuild; // Capture Graph Builder

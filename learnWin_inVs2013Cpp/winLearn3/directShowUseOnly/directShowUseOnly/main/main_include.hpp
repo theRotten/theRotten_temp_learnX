@@ -5,4 +5,6 @@
 #include "../source/functionSets/procedure_videoCapture/videoCapture.hpp"
 #include "../source/sub/templateLearn/templateLearn.hpp"
 
+#include <iostream>
+
 #endif

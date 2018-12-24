@@ -43,7 +43,7 @@ HRESULT ____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_2018122413
 	if (SUCCEEDED(hr))
 	{
 		// Create an enumerator for the category.
-		hr = pDevEnum->CreateClassEnumerator(category, ppEnum, 0);//返回一个枚举绰号，IEnumMoniker接口，在绰号表中列举绰号或绰号的组件
+		hr = pDevEnum->CreateClassEnumerator(category, ppEnum, 0);//返回一个枚举绰号（传递给ppEnum），IEnumMoniker接口，在绰号表中列举绰号或绰号的组件
 		if (hr == S_FALSE)
 		{
 			hr = VFW_E_NOT_FOUND;  // The category is empty. Treat as an error.
@@ -106,6 +106,7 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 	}
 }
 
+//目前，该模块主函数功能：流程，像微软样例中给出的一套枚举摄像头和麦克风的流程
 void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::videoCapture_main(void)
 {
 	HRESULT hr = CoInitializeEx(NULL, COINIT_MULTITHREADED);

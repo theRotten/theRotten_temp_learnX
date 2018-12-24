@@ -23,9 +23,23 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 
 	IMoniker *pMoniker;//用于接收摄像头设备的昵称
 	IGraphBuilder *m_pGraph;//用于接收画布
+	HRESULT hr;//用于接收返回结果
+
+	//创建一个Graph 代码段 开始--------------------------------------------------------2018年12月24日21:49:42
+	//2.接下来，调用CoCreateInstance以创建Filter Graph Manager：
+	//IGraphBuilder *pGraph;
+	hr = CoCreateInstance(CLSID_FilterGraph, NULL,
+		CLSCTX_INPROC_SERVER, IID_IGraphBuilder, (void **)&m_pGraph);//这条执行之后，出现了1个新线程：quartz.dll!ObjectThread
+	//如图所示，类标识符（CLSID）是CLSID_FilterGraph。Filter Graph Manager由进程内DLL提供，因此执行上下文为CLSCTX_INPROC_SERVER。DirectShow支持自由线程模型，因此您也可以使用COINIT_MULTITHREADED标志调用CoInitializeEx。
+
+
+	//创建一个Graph 代码段 结束--------------------------------------------------------2018年12月24日21:49:42
+
 
 	getCaptureMoniker(pMoniker);
 	createADirectShowCaptureFilterForTheDevice(pMoniker,m_pGraph);//添加摄像头的captureFilter到graph
+
+	
 
 	//EnumerateDevices(CLSID_VideoInputDeviceCategory, IEnumMoniker **ppEnum);//枚举出指定类型的设备
 	//createADirectShowCaptureFilterForTheDevice(IMoniker *pMoniker, IGraphBuilder *m_pGraph);//添加摄像头的captureFilter到graph

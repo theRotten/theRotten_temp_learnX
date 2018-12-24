@@ -3,7 +3,7 @@
 //该成分在该结构成分所属架构位置描述：该独立[“功能集set成分”]构件的（实际实质）内容。
 
 //参照：https://docs.microsoft.com/zh-cn/windows/desktop/directshow/selecting-a-capture-device
-void ::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::SelectingACaptureDevice(void)//这样没毛病
+void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::SelectingACaptureDevice(void)//这样没毛病
 {
 	
 	
@@ -15,13 +15,13 @@ void ::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCaptu
 //
 //}
 
-void ::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::test(void)
+void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::test(void)
 {
 
 
 }
 
-void ::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::testX(void)
+void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::testX(void)
 {
 
 
@@ -29,7 +29,7 @@ void ::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCaptu
 
 //3.该CreateClassEnumerator方法返回一个指针IEnumMoniker接口。要枚举这些标记，请调用IEnumMoniker :: Next。
 //以下代码为指定的设备类别创建枚举器。
-HRESULT aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum)//。。。。。。。。。。“难道。。混合命名空间？？？？。。。。WTF？？？？。。。。。。。。。。”
+HRESULT ____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum)//。。。。。。。。。。“难道。。混合命名空间？？？？。。。。WTF？？？？。。。。。。。。。。”
 {
 	// Create the System Device Enumerator.
 	ICreateDevEnum *pDevEnum;
@@ -50,7 +50,7 @@ HRESULT aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapt
 }
 
 //以下代码示例演示如何枚举设备标记列表并获取属性。
-void ::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::DisplayDeviceInformation(IEnumMoniker *pEnum)
+void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::DisplayDeviceInformation(IEnumMoniker *pEnum)
 {
 	IMoniker *pMoniker = NULL;
 
@@ -102,7 +102,7 @@ void ::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCaptu
 	}
 }
 
-void ::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::videoCapture_main(void)
+void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::videoCapture_main(void)
 {
 	HRESULT hr = CoInitializeEx(NULL, COINIT_MULTITHREADED);
 	if (SUCCEEDED(hr))

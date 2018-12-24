@@ -1,5 +1,15 @@
 #include "./main_include.hpp"
 
+//int ::mainTest(void)
+//{
+//
+//}
+
+void mainTestX(void)
+{
+
+}
+
 int main()
 {
 	

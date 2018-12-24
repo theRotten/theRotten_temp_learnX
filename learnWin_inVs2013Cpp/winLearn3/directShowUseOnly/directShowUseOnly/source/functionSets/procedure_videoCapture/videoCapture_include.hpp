@@ -7,4 +7,10 @@
 
 #include "./videoCapture_thirdPartyUse_include.hpp"
 
+
+#include <windows.h>
+#include <dshow.h>
+
+#pragma comment(lib, "strmiids")
+
 #endif

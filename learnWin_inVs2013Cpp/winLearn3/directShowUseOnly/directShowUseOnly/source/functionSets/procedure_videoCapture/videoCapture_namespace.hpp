@@ -14,6 +14,14 @@ namespace aRottenGeneralNameThisX_thisNamespace
 		namespace videoCapture
 		{
 			void SelectingACaptureDevice(void);
+
+			void test(void);
+			void testX(void);
+
+			HRESULT EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum);
+
+			HRESULT test_errorExample_201812241032(REFGUID category, IEnumMoniker **ppEnum);
+
 		}
 		
 	}

@@ -354,6 +354,21 @@
     <ClCompile Include="source\functionSets\procedure_videoCapture\videoCapture_helperFunction.cpp">
       <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture</Filter>
     </ClCompile>
+    <ClCompile Include="source\functionSets\procedure_videoCapture\videoCapture_parts.cpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\source\functions\procedure_videoCapture</Filter>
+    </ClCompile>
+    <ClCompile Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helperFunction.cpp">
+      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\源文件成分内容与结构位置</Filter>
+    </ClCompile>
+    <ClCompile Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_parts.cpp">
+      <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\源文件成分内容与结构位置</Filter>
+    </ClCompile>
+    <ClCompile Include="架构Demo结构\source\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_helperFunction.cpp">
+      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\源文件成分内容与结构位置</Filter>
+    </ClCompile>
+    <ClCompile Include="架构Demo结构\source\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_parts.cpp">
+      <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\源文件成分内容与结构位置</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main\main_include.hpp">

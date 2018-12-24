@@ -74,12 +74,17 @@
     <ClCompile Include="main\main.cpp" />
     <ClCompile Include="source\functionSets\procedure_playAFile\playAFile.cpp" />
     <ClCompile Include="source\functionSets\procedure_videoCapture\videoCapture_helperFunction.cpp" />
+    <ClCompile Include="source\functionSets\procedure_videoCapture\videoCapture_parts.cpp" />
     <ClCompile Include="source\sub\useDirectShow\useDirectShow.cpp" />
     <ClCompile Include="source\sub\useCOM\useCOM.cpp" />
     <ClCompile Include="source\sub\templateLearn\templateLearn.cpp" />
     <ClCompile Include="source\functionSets\procedure_videoCapture\videoCapture.cpp" />
     <ClCompile Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX.cpp" />
+    <ClCompile Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helperFunction.cpp" />
+    <ClCompile Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_parts.cpp" />
     <ClCompile Include="架构Demo结构\source\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX.cpp" />
+    <ClCompile Include="架构Demo结构\source\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_helperFunction.cpp" />
+    <ClCompile Include="架构Demo结构\source\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_parts.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header\thirdParty_procedureNeedUses\directShowUse\directShowUseProcedure_all_include.hpp" />

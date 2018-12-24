@@ -21,8 +21,8 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 {
 	//测试试验 目的：去实现一个让摄像头在屏幕上预览
 
-	IMoniker *pMoniker;
-	IGraphBuilder *m_pGraph;
+	IMoniker *pMoniker;//用于接收摄像头设备的昵称
+	IGraphBuilder *m_pGraph;//用于接收画布
 
 	getCaptureMoniker(pMoniker);
 	createADirectShowCaptureFilterForTheDevice(pMoniker,m_pGraph);//添加摄像头的captureFilter到graph

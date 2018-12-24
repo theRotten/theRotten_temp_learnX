@@ -20,8 +20,9 @@ namespace aRottenGeneralNameThisX_thisNamespace
 			void testX(void);
 			
 			//功能函数或类等内容 contents：
+			void getCaptureMoniker(IMoniker *&pMoniker );//得到摄像头的昵称
 			void previewTheCapture(IGraphBuilder **&ppGraph, IBaseFilter* &pCap);//预览视频
-			void createADirectShowCaptureFilterForTheDevice(IMoniker *pMoniker, IGraphBuilder *m_pGraph);//为一个设备创建一个Filter
+			void createADirectShowCaptureFilterForTheDevice(IMoniker *&pMoniker, IGraphBuilder * &m_pGraph);//为一个设备创建一个Filter
 			void SelectingACaptureDevice(void);//选择一个捕获设备（初始尝试尝试试图）
 			HRESULT EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum);//进行【枚举】这个动词行为，进行这个行为的目标是【设备】
 			void DisplayDeviceInformation(IEnumMoniker *pEnum);//显示设备信息

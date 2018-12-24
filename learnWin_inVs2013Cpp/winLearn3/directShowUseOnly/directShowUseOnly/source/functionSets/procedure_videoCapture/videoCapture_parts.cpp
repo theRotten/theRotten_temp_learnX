@@ -79,8 +79,61 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 	}
 }
 
+//以下代码示例演示如何枚举设备标记列表并获取属性。
+void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::getCaptureMoniker(IMoniker *&pMoniker)//获取设备昵称
+{
+	
+	IEnumMoniker *pEnum=NULL;
+	while (pEnum->Next(1, &pMoniker, NULL) == S_OK)
+	{
+		IPropertyBag *pPropBag;
+		HRESULT hr = pMoniker->BindToStorage(0, 0, IID_PPV_ARGS(&pPropBag));
+		if (FAILED(hr))
+		{
+			pMoniker->Release();
+			continue;
+		}
+
+		VARIANT var;
+		VariantInit(&var);
+
+		// Get description or friendly name.
+		hr = pPropBag->Read(L"Description", &var, 0);
+		if (FAILED(hr))
+		{
+			hr = pPropBag->Read(L"FriendlyName", &var, 0);
+		}
+		if (SUCCEEDED(hr))
+		{
+			printf("%S\n", var.bstrVal);//打印出摄像头的名字
+			VariantClear(&var);
+		}
+
+		hr = pPropBag->Write(L"FriendlyName", &var);
+
+		// WaveInID applies only to audio capture devices.
+		hr = pPropBag->Read(L"WaveInID", &var, 0);
+		if (SUCCEEDED(hr))
+		{
+			printf("WaveIn ID: %d\n", var.lVal);
+			VariantClear(&var);
+		}
+
+		hr = pPropBag->Read(L"DevicePath", &var, 0);
+		if (SUCCEEDED(hr))
+		{
+			// The device path is not intended for display.
+			printf("Device path: %S\n", var.bstrVal);
+			VariantClear(&var);
+		}
+
+		pPropBag->Release();
+		pMoniker->Release();
+	}
+}
+
 //要为设备创建DirectShow捕获筛选器，请调用IMoniker :: BindToObject方法以获取IBaseFilter指针。然后调用IFilterGraph :: AddFilter将过滤器添加到过滤器图形中：
-void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::createADirectShowCaptureFilterForTheDevice(IMoniker *pMoniker, IGraphBuilder *m_pGraph)//添加摄像头的captureFilter
+void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::createADirectShowCaptureFilterForTheDevice(IMoniker *&pMoniker, IGraphBuilder * &m_pGraph)//添加摄像头的captureFilter
 //参数表列：
 //pMoniker:摄像头昵称
 //m_pGraph:“过滤器Graph”

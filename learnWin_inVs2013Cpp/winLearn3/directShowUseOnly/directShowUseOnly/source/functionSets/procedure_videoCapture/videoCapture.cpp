@@ -79,7 +79,7 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 		}
 		if (SUCCEEDED(hr))
 		{
-			printf("%S\n", var.bstrVal);
+			printf("%S\n", var.bstrVal);//打印出摄像头的名字
 			VariantClear(&var);
 		}
 
@@ -107,14 +107,17 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 }
 
 //要为设备创建DirectShow捕获筛选器，请调用IMoniker :: BindToObject方法以获取IBaseFilter指针。然后调用IFilterGraph :: AddFilter将过滤器添加到过滤器图形中：
-void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::createADirectShowCaptureFilterForTheDevice(IMoniker *pMoniker)
+void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::createADirectShowCaptureFilterForTheDevice(IMoniker *pMoniker, IGraphBuilder *m_pGraph)//添加摄像头的captureFilter
+//参数表列：
+//pMoniker:摄像头昵称
+//m_pGraph:“过滤器Graph”
 {
 	IBaseFilter *pCap = NULL;
 
 	HRESULT hr = pMoniker->BindToObject(0, 0, IID_IBaseFilter, (void**)&pCap);
 	if (SUCCEEDED(hr))
 	{
-		//hr = m_pGraph->AddFilter(pCap, L"Capture Filter");
+		hr = m_pGraph->AddFilter(pCap, L"Capture Filter");
 	}
 }
 
@@ -126,13 +129,13 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 	{
 		IEnumMoniker *pEnum;
 
-		hr = EnumerateDevices(CLSID_VideoInputDeviceCategory, &pEnum);
+		hr = EnumerateDevices(CLSID_VideoInputDeviceCategory, &pEnum);//CLSID_VideoInputDeviceCategory是摄像头（视频输入设备）类的GUID
 		if (SUCCEEDED(hr))
 		{
 			DisplayDeviceInformation(pEnum);
 			pEnum->Release();
 		}
-		hr = EnumerateDevices(CLSID_AudioInputDeviceCategory, &pEnum);
+		hr = EnumerateDevices(CLSID_AudioInputDeviceCategory, &pEnum);//CLSID_VideoInputDeviceCategory是麦克风（音频输入设备）类的GUID
 		if (SUCCEEDED(hr))
 		{
 			DisplayDeviceInformation(pEnum);

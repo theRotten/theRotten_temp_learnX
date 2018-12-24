@@ -62,6 +62,7 @@ void mainPauseWait(void)
 
 int main()
 {
+	mainTemp();
 	mainTestX();
 	
 	mainStopWait();

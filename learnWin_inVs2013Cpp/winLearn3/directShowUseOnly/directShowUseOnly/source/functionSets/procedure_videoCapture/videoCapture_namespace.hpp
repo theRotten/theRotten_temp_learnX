@@ -19,7 +19,7 @@ namespace aRottenGeneralNameThisX_thisNamespace
 			void test(void);
 			void testX(void);
 
-			void createADirectShowCaptureFilterForTheDevice(IMoniker *pMoniker);
+			void createADirectShowCaptureFilterForTheDevice(IMoniker *pMoniker, IGraphBuilder *m_pGraph);
 			void SelectingACaptureDevice(void);
 			HRESULT EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum);
 			void DisplayDeviceInformation(IEnumMoniker *pEnum);

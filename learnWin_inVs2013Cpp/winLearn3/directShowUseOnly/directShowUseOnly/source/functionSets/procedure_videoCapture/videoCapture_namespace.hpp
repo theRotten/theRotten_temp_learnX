@@ -18,11 +18,12 @@ namespace aRottenGeneralNameThisX_thisNamespace
 
 			void test(void);
 			void testX(void);
-
-			void createADirectShowCaptureFilterForTheDevice(IMoniker *pMoniker, IGraphBuilder *m_pGraph);
-			void SelectingACaptureDevice(void);
-			HRESULT EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum);
-			void DisplayDeviceInformation(IEnumMoniker *pEnum);
+			
+			void previewTheCapture(void);//预览视频
+			void createADirectShowCaptureFilterForTheDevice(IMoniker *pMoniker, IGraphBuilder *m_pGraph);//为一个设备创建一个Filter
+			void SelectingACaptureDevice(void);//选择一个捕获设备（初始尝试尝试试图）
+			HRESULT EnumerateDevices(REFGUID category, IEnumMoniker **ppEnum);//进行【枚举】这个动词行为，进行这个行为的目标是【设备】
+			void DisplayDeviceInformation(IEnumMoniker *pEnum);//显示设备信息
 
 			HRESULT test_errorExample_201812241032(REFGUID category, IEnumMoniker **ppEnum);
 

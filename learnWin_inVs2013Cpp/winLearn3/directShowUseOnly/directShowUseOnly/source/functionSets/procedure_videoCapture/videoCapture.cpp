@@ -121,6 +121,13 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 	}
 }
 
+//预览视频
+//参照：https://docs.microsoft.com/zh-cn/windows/desktop/directshow/previewing-video
+void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::previewTheCapture(void)
+{
+
+}
+
 //目前，该模块主函数功能：流程，像微软样例中给出的一套枚举摄像头和麦克风的流程
 void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::videoCapture_main(void)
 {

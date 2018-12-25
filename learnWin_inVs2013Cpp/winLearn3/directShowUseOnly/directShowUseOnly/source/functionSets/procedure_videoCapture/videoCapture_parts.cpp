@@ -94,7 +94,7 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 		HRESULT hr = pMoniker->BindToStorage(0, 0, IID_PPV_ARGS(&pPropBag));
 		if (FAILED(hr))
 		{
-			pMoniker->Release();
+		//	pMoniker->Release();
 			continue;
 		}
 
@@ -132,7 +132,7 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 		}
 
 		pPropBag->Release();
-		pMoniker->Release();
+		//pMoniker->Release();
 	}
 }
 

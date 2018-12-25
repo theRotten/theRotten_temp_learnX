@@ -24,12 +24,12 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 	IMoniker *pMoniker;//用于接收摄像头设备的昵称
 	
 	//创建GraphBuilder类指针 GraphBuilder周期_创建指针 开始----------------------------------2018年12月25日14:10:05
-	IGraphBuilder **m_pGraph=NULL;//用于接收FilterGraph
+	IGraphBuilder *m_pGraph=NULL;//用于接收FilterGraph
 	//创建GraphBuilder类指针 GraphBuilder周期_创建指针 结束----------------------------------2018年12月25日14:10:05
 
-	//创建设备枚举类指针 设备枚举周期_创建指针 开始----------------------------------2018年12月25日11:25 : 26
-	IEnumMoniker *pEnum;//用于接收枚举
-	//创建设备枚举类指针 设备枚举周期_创建指针 结束----------------------------------2018年12月25日11:25 : 26
+	////创建设备枚举类指针 设备枚举周期_创建指针 开始----------------------------------2018年12月25日11:25 : 26
+	//IEnumMoniker *pEnum;//用于接收枚举
+	////创建设备枚举类指针 设备枚举周期_创建指针 结束----------------------------------2018年12月25日11:25 : 26
 
 	IBaseFilter *pCap = NULL;
 
@@ -44,22 +44,35 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 	//2.接下来，调用CoCreateInstance以创建Filter Graph Manager：
 	//IGraphBuilder *pGraph;
 	hr = CoCreateInstance(CLSID_FilterGraph, NULL,
-		CLSCTX_INPROC_SERVER, IID_IGraphBuilder, (void **)m_pGraph);//创建CLSID_FilterGraph种类的实例，非聚合COM对象，线程内运行上下文，通讯接口（和IID_IGraphBuilder进行），用m_pGraph接收创建出来的实例//这条执行之后，出现了1个新线程：quartz.dll!ObjectThread
+		CLSCTX_INPROC_SERVER, IID_IGraphBuilder, (void **)&m_pGraph);//创建CLSID_FilterGraph种类的实例，非聚合COM对象，线程内运行上下文，通讯接口（和IID_IGraphBuilder进行），用m_pGraph接收创建出来的实例//这条执行之后，出现了1个新线程：quartz.dll!ObjectThread
 	//如图所示，类标识符（CLSID）是CLSID_FilterGraph。Filter Graph Manager由进程内DLL提供，因此执行上下文为CLSCTX_INPROC_SERVER。DirectShow支持自由线程模型，因此您也可以使用COINIT_MULTITHREADED标志调用CoInitializeEx。
 	//创建一个Graph 代码段 结束--------------------------------------------------------2018年12月24日21:49:42
 	//创建GraphBuilder类实例 GraphBuilder周期_实例化 结束----------------------------------2018年12月25日14:12:03
 
-	//对摄像头类型设备进行枚举 代码段内部段 开始----------------------------------2018年12月25日09:59:56
-	hr = EnumerateDevices(CLSID_VideoInputDeviceCategory, &pEnum);//CLSID_VideoInputDeviceCategory是摄像头（视频输入设备）类的GUID
-	//对摄像头类型设备进行枚举 代码段内部段 结束----------------------------------2018年12月25日09:59:56
+	////对摄像头类型设备进行枚举 代码段内部段 开始----------------------------------2018年12月25日09:59:56
+	//hr = EnumerateDevices(CLSID_VideoInputDeviceCategory, &pEnum);//CLSID_VideoInputDeviceCategory是摄像头（视频输入设备）类的GUID
+	////对摄像头类型设备进行枚举 代码段内部段 结束----------------------------------2018年12月25日09:59:56
 
-	//显示枚举出设备的信息 代码段 开始----------------------------------2018年12月25日14:04:54
-	DisplayDeviceInformation(pEnum);
-	//显示枚举出设备的信息 代码段 结束----------------------------------2018年12月25日14:04:54
+	////显示枚举出设备的信息 代码段 开始----------------------------------2018年12月25日14:04:54
+	//DisplayDeviceInformation(pEnum);
+	////显示枚举出设备的信息 代码段 结束----------------------------------2018年12月25日14:04:54
 
-	//用于释放‘设备的枚举’ 设备枚举周期_释放 开始----------------------------------2018年12月25日11:25:26
-	pEnum->Release();
-	//用于释放‘设备的枚举’ 设备枚举周期_释放 结束----------------------------------2018年12月25日11:25:26
+	
+	//获取设备昵称 代码段 开始----------------------------------------2018年12月25日15:05:52
+	getCaptureMoniker(pMoniker);
+	//获取设备昵称 代码段 结束----------------------------------------2018年12月25日15:05:52
+
+	//添加摄像头的captureFilter到graph 代码段 开始----------------------------------2018年12月25日15:10:51
+	createADirectShowCaptureFilterForTheDevice(pMoniker,m_pGraph);//把指定昵称的摄像头添加到指定的FilterGraph里
+	//添加摄像头的captureFilter到graph 代码段 结束----------------------------------2018年12月25日15:10:51
+	
+	//
+	//previewTheCapture(IGraphBuilder **&ppGraph, IBaseFilter* &pCap);//在某个【ppGraph】上preview 【pCap】
+	//
+
+	////用于释放‘设备的枚举’ 设备枚举周期_释放 开始----------------------------------2018年12月25日11:25:26
+	//pEnum->Release();
+	////用于释放‘设备的枚举’ 设备枚举周期_释放 结束----------------------------------2018年12月25日11:25:26
 
 	//COM组件Un初始化流程 代码段 开始--------------------------------------------------------2018年12月25日09:52:11
 	CoUninitialize();

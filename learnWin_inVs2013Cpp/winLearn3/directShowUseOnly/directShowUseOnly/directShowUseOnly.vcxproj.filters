@@ -518,9 +518,6 @@
     <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helper_namespace.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helper_namespace_include.hpp">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helperF_include.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -531,6 +528,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_hp_inc.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_hp_namespace_inc.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

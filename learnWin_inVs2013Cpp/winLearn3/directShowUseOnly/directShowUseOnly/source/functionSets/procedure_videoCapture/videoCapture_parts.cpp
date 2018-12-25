@@ -172,3 +172,62 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 		pCap, NULL, NULL);
 
 }
+
+
+//代码记录2018年12月25日09:29:41
+//以下代码示例演示如何枚举设备标记列表并获取属性。
+//void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_201812241356_faasdfanopaen::getCaptureMoniker(IMoniker *&pMoniker)//获取设备昵称
+//{
+//
+//	//枚举设备 开始-------------------------------------2018年12月24日22:47:09
+//	IEnumMoniker *pEnum = NULL;
+//	EnumerateDevices(CLSID_VideoInputDeviceCategory, &pEnum);
+//	//枚举设备 结束-------------------------------------2018年12月24日22:47:09
+//
+//	while (pEnum->Next(1, &pMoniker, NULL) == S_OK)
+//	{
+//		IPropertyBag *pPropBag;
+//		HRESULT hr = pMoniker->BindToStorage(0, 0, IID_PPV_ARGS(&pPropBag));
+//		if (FAILED(hr))
+//		{
+//			pMoniker->Release();
+//			continue;
+//		}
+//
+//		VARIANT var;
+//		VariantInit(&var);
+//
+//		// Get description or friendly name.
+//		hr = pPropBag->Read(L"Description", &var, 0);
+//		if (FAILED(hr))
+//		{
+//			hr = pPropBag->Read(L"FriendlyName", &var, 0);
+//		}
+//		if (SUCCEEDED(hr))
+//		{
+//			printf("%S\n", var.bstrVal);//打印出摄像头的名字
+//			VariantClear(&var);
+//		}
+//
+//		hr = pPropBag->Write(L"FriendlyName", &var);
+//
+//		// WaveInID applies only to audio capture devices.
+//		hr = pPropBag->Read(L"WaveInID", &var, 0);
+//		if (SUCCEEDED(hr))
+//		{
+//			printf("WaveIn ID: %d\n", var.lVal);
+//			VariantClear(&var);
+//		}
+//
+//		hr = pPropBag->Read(L"DevicePath", &var, 0);
+//		if (SUCCEEDED(hr))
+//		{
+//			// The device path is not intended for display.
+//			printf("Device path: %S\n", var.bstrVal);
+//			VariantClear(&var);
+//		}
+//
+//		pPropBag->Release();
+//		pMoniker->Release();
+//	}
+//}

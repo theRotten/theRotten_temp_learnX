@@ -1,275 +1,314 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DirectedGraph DataVirtualized="True" Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
   <Nodes>
-    <Node Id="(@1 Namespace=:: Member=main)" Category="CodeSchema_Method" Bounds="1191.65807933055,80.0000000000002,64.4338413388971,25.8220143010945" DelayedCrossGroupLinksState="Fetched" Label="main" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
-    <Node Id="(Name=&quot;__RtlUserThreadStart@8&quot; @26 @5)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="691.891666666666,0,174.63,25.8366666666667" Label="__RtlUserThreadStart@8">
+    <Node Id="(@1 @3 Member=mainPauseWait)" Category="CodeSchema_Method" Bounds="1365.88812467333,191.657871074428,124.643391546667,25.8358567733334" DelayedCrossGroupLinksState="Fetched" Label="mainPauseWait" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 @3 Member=mainPauseWith)" Category="CodeSchema_Method" Bounds="1520.53151622,191.657871074428,125.39932576,25.8358567733334" DelayedCrossGroupLinksState="Fetched" Label="mainPauseWith" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 @3 Member=mainStopHere)" Category="CodeSchema_Method" Bounds="1379.49161040667,247.493727847761,118.582597413333,25.8358567733333" DelayedCrossGroupLinksState="Fetched" Label="mainStopHere" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 @3 Member=mainStopWith)" Category="CodeSchema_Method" Bounds="1231.12880003333,247.493727847761,118.362810373333,25.8358567733333" DelayedCrossGroupLinksState="Fetched" Label="mainStopWith" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 @3 Member=mainTempX)" Category="CodeSchema_Method" Bounds="1231.12880003333,191.657871074428,104.75932464,25.8358567733334" DelayedCrossGroupLinksState="Fetched" Label="mainTempX" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 @5 Member=(Name=test_errorExample_201812241032 OverloadingParameters=[(Type=&quot;_GUID const &amp;&quot;),(Type=&quot;IEnumMoniker * *&quot;)]))" Category="CodeSchema_Method" Bounds="1338.89,530.839584621094,228.916666666667,25.8366666666668" CodeSchemaProperty_IsExternal="True" DelayedCrossGroupLinksState="Fetched" Label="test_errorExample_201812241032" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 @5 Member=SelectingACaptureDevice)" Category="CodeSchema_Method" Bounds="1133.15333333333,642.512917954428,180.783333333333,25.8366666666668" DelayedCrossGroupLinksState="Fetched" Label="SelectingACaptureDevice" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 @5 Member=testX)" Category="CodeSchema_Method" Bounds="1597.80666666667,530.839584621094,65.0433333333331,25.8366666666668" DelayedCrossGroupLinksState="Fetched" Label="testX" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 Namespace=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_playAFile)" Category="CodeSchema_Namespace" Bounds="1589.18,718.349584621094,504.263333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="aRottenGeneralNameThisX_thisNamespace‎::functionSets‎::procedure_playAFile" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 Namespace=aRottenGeneralNameThisX_thisNamespace::sub::templateLearn)" Category="CodeSchema_Namespace" Bounds="1869.85,40,419.933333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="aRottenGeneralNameThisX_thisNamespace‎::sub‎::templateLearn" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 Namespace=aRottenGeneralNameThisX_thisNamespace::sub::templateLearn::abc)" Category="CodeSchema_Namespace" Bounds="1113.15333333333,718.349584621094,446.026666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="aRottenGeneralNameThisX_thisNamespace‎::sub‎::templateLearn‎::abc" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(Name=&quot;__RtlUserThreadStart@8&quot; @29 @8)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="198.951666666666,0,174.63,25.8366666666667" Label="__RtlUserThreadStart@8">
       <Category Ref="CallStackEntry" />
       <Category Ref="CurrentCallStackEntry" />
     </Node>
-    <Node Id="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::DisplayDeviceInformation @49 @54 OverloadingParameters=[(Type=&quot;IEnumMoniker *&quot; Name=pEnum)] @5)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="400.28,781.713333333332,183.853333333333,25.8366666666667" Label="DisplayDeviceInformation" SourceLocation="(Assembly=file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn3/directshowuseonly/directshowuseonly/source/functionsets/procedure_videocapture/videocapture.cpp StartLineNumber=54 StartCharacterOffset=0 EndLineNumber=54 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::EnumerateDevices @49 Type=HRESULT OverloadingParameters=[(Type=&quot;const _GUID &amp;&quot; Name=category),(Type=&quot;IEnumMoniker * *&quot; Name=ppEnum)] @5)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="614.328333333333,781.713333333332,141.756666666667,25.8366666666667" Label="EnumerateDevices" SourceLocation="(Assembly=file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn3/directshowuseonly/directshowuseonly/source/functionsets/procedure_videocapture/videocapture.cpp StartLineNumber=35 StartCharacterOffset=0 EndLineNumber=35 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@10" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="-1.13686837721616E-13,1005.06,290.413333333333,25.8366666666666" Label="_WaitForSingleObjectExImplementation@12">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CurrentCallStackEntry" />
-    </Node>
-    <Node Id="@12" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="640.296666666667,335.02,173.82,25.8366666666667" Label="_DispatchMessageW@4">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@13" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="641.226666666666,390.856666666666,203.96,25.8366666666667" Label="_DispatchMessageWorker@8">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@14" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="660.583333333333,502.529999999999,181.246666666667,25.8366666666666" Label="_InternalCallWinProc@20">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@15" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="539.7,893.386666666665,229.013333333333,25.8366666666666" Label="_MsgWaitForMultipleObjects@20">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@16" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="480.125,949.223333333332,266.163333333333,25.8366666666666" ErrorMessage="节点“_RealMsgWaitForMultipleObjectsEx@20”具有中心值 5。" Hub="5" Label="_RealMsgWaitForMultipleObjectsEx@20">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@17" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="637.586666666666,446.693333333333,227.24,25.8366666666667" Label="_UserCallWinProcCheckWow@32">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@19" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="680.836666666667,1060.89666666667,216.74,25.836666666667" Label="_WaitForMultipleObjectsEx@20">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@2" Category="CodeSchema_Assembly" Bounds="1126.47333333333,2.27373675443232E-13,194.803333333333,145.822014301094" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="1" Group="Expanded" Label="directShowUseOnly.exe" />
-    <Node Id="@21" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="880.191666666667,670.039999999999,76.03,25.8366666666666" Label="Deliver">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@22" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="876.951666666667,502.529999999999,104.51,25.8366666666666" Label="NewSample">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@23" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="832.95,558.366666666666,148.513333333333,25.8366666666666" Label="NewSampleInternal">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@24" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="855.365,614.203333333332,125.683333333333,25.8366666666666" Label="SuckOutOutput">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@25" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="895.32,446.693333333333,79.7733333333333,25.8366666666667" Label="Receive">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@27" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="689.201666666667,55.8366666666666,180.01,25.8366666666667" Label="___RtlUserThreadStart@8">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CurrentCallStackEntry" />
-    </Node>
-    <Node Id="@28" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="45.0633333333332,1116.73333333333,200.286666666667,25.8366666666666" Label="_NtWaitForSingleObject@12">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CurrentCallStackEntry" />
-    </Node>
-    <Node Id="@29" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="927.94,1060.89666666667,168.533333333333,25.8366666666666" Label="_TppWaiterpThread@4">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@3" Category="CodeSchema_Namespace" Bounds="1171.65807933055,40.0000000000002,104.433841338897,85.8220143010944" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="1" Group="Expanded" Label="‎::" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
-    <Node Id="@30" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="502.72,1116.73333333333,220.973333333333,25.8366666666666" ErrorMessage="节点“_ZwWaitForMultipleObjects@20”具有中心值 5。" Hub="5" Label="_ZwWaitForMultipleObjects@20">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@32" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="716.508333333333,725.876666666666,133.396666666667,25.8366666666666" Label="CAutoMsgMutex">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@33" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="860.971666666666,223.346666666666,104.47,25.8366666666667" Label="DoRunLoop">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@34" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="866.826666666666,279.183333333333,92.7600000000002,25.8366666666667" Label="PushLoop">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@35" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="810.433333333333,167.51,101.546666666667,25.8366666666666" Label="ThreadProc">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@36" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="845.05,335.02,136.313333333333,25.8366666666667" Label="TryDeliverSample">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@37" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="875.191666666667,390.856666666666,76.03,25.8366666666667" Label="Deliver">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@38" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="677.353333333333,614.203333333332,147.706666666667,25.8366666666666" Label="OnReceiveMessage">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@39" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="720.863333333333,670.039999999999,124.686666666667,25.8366666666666" Label="WorkerActivate">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@40" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="880.32,781.713333333332,79.7733333333333,25.8366666666666" Label="Receive">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@41" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="859.145,837.549999999999,122.123333333333,25.8366666666666" Label="ReceiveWorker">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@42" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="221.033333333333,781.713333333332,148.346666666667,25.8366666666666" Label="WaitForCompletion">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@43" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="787.038333333333,781.713333333332,62.3366666666668,25.8366666666666" Label="Lock">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@44" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="880.32,725.876666666666,79.7733333333333,25.8366666666666" Label="Receive">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@45" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="722.246666666666,279.183333333333,113.92,25.8366666666666" Label="ObjectThread">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@46" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="831.043333333333,893.386666666665,150.326666666667,25.8366666666666" Label="WaitForRenderTime">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@47" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="641.635,837.549999999999,187.143333333333,25.8366666666666" ErrorMessage="节点“WaitDispatchingMessages”具有中心值 7。" Hub="7" Label="WaitDispatchingMessages">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@48" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="706.78,558.366666666666,88.8533333333335,25.8366666666666" Label="WndProc">
-      <Category Ref="CallStackEntry" />
-    </Node>
-    <Node Id="@51" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="501.92,614.203333333332,144.573333333333,25.8366666666666" Label="__tmainCRTStartup" SourceLocation="(Assembly=file:///f:/dd/vctools/crt/crtw32/dllstuff/crtexe.c StartLineNumber=625 StartCharacterOffset=0 EndLineNumber=625 EndCharacterOffset=0)">
+    <Node Id="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::DisplayDeviceInformation @65 @70 OverloadingParameters=[(Type=&quot;IEnumMoniker *&quot; Name=pEnum)] @8)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="769.34,781.713333333332,183.853333333333,25.8366666666666" Label="DisplayDeviceInformation" SourceLocation="(Assembly=file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn3/directshowuseonly/directshowuseonly/source/functionsets/procedure_videocapture/videocapture_parts.cpp StartLineNumber=32 StartCharacterOffset=0 EndLineNumber=32 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
       <Category Ref="CurrentCallStackEntry" />
     </Node>
-    <Node Id="@52" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="459.975,670.039999999999,64.4633333333334,25.8366666666666" ErrorMessage="节点“main”具有中心值 7。" Hub="7" Label="main" SourceLocation="(Assembly=file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn3/directshowuseonly/directshowuseonly/main/main.cpp StartLineNumber=19 StartCharacterOffset=0 EndLineNumber=19 EndCharacterOffset=0)">
+    <Node Id="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::EnumerateDevices @65 Type=HRESULT OverloadingParameters=[(Type=&quot;const _GUID &amp;&quot; Name=category),(Type=&quot;IEnumMoniker * *&quot; Name=ppEnum)] @8)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="597.388333333333,781.713333333332,141.756666666667,25.8366666666666" Label="EnumerateDevices" SourceLocation="(Assembly=file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn3/directshowuseonly/directshowuseonly/source/functionsets/procedure_videocapture/videocapture.cpp StartLineNumber=35 StartCharacterOffset=0 EndLineNumber=35 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@10" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="412.236666666667,949.223333333332,204.06,25.8366666666666" ErrorMessage="节点“_WaitForMultipleObjects@16”具有中心值 3。" Hub="3" Label="_WaitForMultipleObjects@16">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@11" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="279.06,1005.06,308.413333333333,25.8366666666668" ErrorMessage="节点“_WaitForMultipleObjectsExImplementation@20”具有中心值 3。" Hub="3" Label="_WaitForMultipleObjectsExImplementation@20">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@12" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="646.755,949.223333333332,179.023333333333,25.8366666666666" Label="_WaitForSingleObject@8">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@13" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="618.06,1005.06,290.413333333333,25.8366666666666" Label="_WaitForSingleObjectExImplementation@12">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@15" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="169.356666666666,335.02,173.82,25.8366666666667" Label="_DispatchMessageW@4">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@16" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="127.286666666667,390.856666666666,203.96,25.8366666666667" Label="_DispatchMessageWorker@8">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@17" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="138.643333333333,502.529999999999,181.246666666667,25.8366666666666" Label="_InternalCallWinProc@20">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@18" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="217.76,893.386666666666,229.013333333333,25.8366666666666" Label="_MsgWaitForMultipleObjects@20">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@19" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="115.185,949.223333333332,266.163333333333,25.8366666666666" ErrorMessage="节点“_RealMsgWaitForMultipleObjectsEx@20”具有中心值 3。" Hub="3" Label="_RealMsgWaitForMultipleObjectsEx@20">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@2" Category="CodeSchema_Assembly" Bounds="1093.15333333333,0,1216.63,763.349584621094" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="5" FilePath="$(98d840e8-ca45-4fca-858a-224fa7036600.OutputPath)" Group="Expanded" IsHubContainer="True" Label="directShowUseOnly.exe" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}">
+      <Category Ref="FileSystem.Category.FileOfType.exe" />
+    </Node>
+    <Node Id="@20" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="115.646666666666,446.693333333333,227.24,25.8366666666667" Label="_UserCallWinProcCheckWow@32">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@22" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="324.896666666667,1060.89666666667,216.74,25.836666666667" Label="_WaitForMultipleObjectsEx@20">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@24" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="985.251666666666,670.039999999999,76.0299999999999,25.8366666666666" Label="Deliver">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@25" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="421.011666666667,502.529999999999,104.51,25.8366666666666" Label="NewSample">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@26" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="469.01,558.366666666666,148.513333333333,25.8366666666666" Label="NewSampleInternal">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@27" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="509.425,614.203333333332,125.683333333333,25.8366666666666" Label="SuckOutOutput">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@28" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="433.38,446.693333333333,79.7733333333333,25.8366666666667" Label="Receive">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@30" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="196.261666666666,55.8366666666666,180.01,25.8366666666667" Label="___RtlUserThreadStart@8">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CurrentCallStackEntry" />
+    </Node>
+    <Node Id="@31" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="663.123333333333,1116.73333333333,200.286666666667,25.8366666666666" Label="_NtWaitForSingleObject@12">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@32" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="0,1060.89666666667,168.533333333333,25.8366666666666" Label="_TppWaiterpThread@4">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@33" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="137.78,1116.73333333333,220.973333333333,25.8366666666666" ErrorMessage="节点“_ZwWaitForMultipleObjects@20”具有中心值 3。" Hub="3" Label="_ZwWaitForMultipleObjects@20">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@35" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="162.568333333333,725.876666666666,133.396666666667,25.8366666666666" Label="CAutoMsgMutex">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@36" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="405.031666666666,223.346666666666,104.47,25.8366666666667" Label="DoRunLoop">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@37" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="410.886666666666,279.183333333333,92.7600000000002,25.8366666666667" Label="PushLoop">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@38" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="405.493333333333,167.51,101.546666666667,25.8366666666666" Label="ThreadProc">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@39" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="405.11,335.02,136.313333333333,25.8366666666667" Label="TryDeliverSample">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@4" Category="CodeSchema_Namespace" Bounds="1211.12880003333,40,530.745733266667,253.329584621095" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="10" Group="Expanded" IsHubContainer="True" Label="‎::" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@40" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="435.251666666666,390.856666666666,76.03,25.8366666666667" Label="Deliver">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@41" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="155.413333333333,614.203333333332,147.706666666667,25.8366666666666" Label="OnReceiveMessage">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@42" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="166.923333333333,670.039999999999,124.686666666667,25.8366666666666" Label="WorkerActivate">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@43" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="983.38,781.713333333332,79.7733333333334,25.8366666666666" Label="Receive">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@44" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="738.205,837.549999999999,122.123333333333,25.8366666666666" Label="ReceiveWorker">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@45" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="297.093333333333,781.713333333332,148.346666666667,25.8366666666666" Label="WaitForCompletion">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@46" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="204.098333333333,781.713333333332,62.3366666666668,25.8366666666666" Label="Lock">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@47" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="983.38,725.876666666666,79.7733333333334,25.8366666666666" Label="Receive">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@48" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="229.306666666667,279.183333333333,113.92,25.8366666666666" Label="ObjectThread">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@49" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="509.103333333333,893.386666666665,150.326666666667,25.8366666666666" Label="WaitForRenderTime">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@50" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="384.695,837.549999999999,187.143333333333,25.8366666666666" ErrorMessage="节点“WaitDispatchingMessages”具有中心值 5。" Hub="5" Label="WaitDispatchingMessages">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@51" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="184.84,558.366666666666,88.8533333333335,25.8366666666666" Label="WndProc">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@52" Category="CodeSchema_Method" Bounds="1133.15333333333,475.002917954428,183.853333333333,25.8366666666667" DelayedCrossGroupLinksState="Fetched" Label="DisplayDeviceInformation" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@53" Category="CodeSchema_Method" Bounds="1343.87833333333,419.166251287761,148.403333333333,25.8366666666667" DelayedCrossGroupLinksState="Fetched" Label="getCaptureMoniker" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@54" Category="CodeSchema_Method" Bounds="1147.275,530.839584621094,147.493333333333,25.8366666666668" DelayedCrossGroupLinksState="Fetched" Label="previewTheCapture" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@55" Category="CodeSchema_Method" Bounds="1133.15333333333,586.676251287761,175.736666666667,25.8366666666668" DelayedCrossGroupLinksState="Fetched" Label="InitCaptureGraphBuilder" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@56" Category="CodeSchema_Method" Bounds="1347.20166666667,475.002917954428,141.756666666667,25.8366666666667" DelayedCrossGroupLinksState="Fetched" Label="EnumerateDevices" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@57" Category="CodeSchema_Method" Bounds="1522.31,419.166251287761,297.54,25.8366666666667" DelayedCrossGroupLinksState="Fetched" Label="createADirectShowCaptureFilterForTheDevice" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@58" Category="CodeSchema_Method" Bounds="1492.85417455055,80,64.4338413388969,25.8220143010945" DelayedCrossGroupLinksState="Fetched" ErrorMessage="节点“main”具有中心值 5。" Hub="5" Label="main" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@59" Category="CodeSchema_Method" Bounds="1604.26765714,135.822014301094,117.60687616,25.8358567733335" DelayedCrossGroupLinksState="Fetched" Label="mainStopWait" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@6" Category="CodeSchema_Namespace" Bounds="1113.15333333333,323.329584621095,726.696666666666,365.02" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="11" Group="Expanded" IsHubContainer="True" Label="aRottenGeneralNameThisX_thisNamespace‎::functionSets‎::procedure_videoCapture" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@60" Category="CodeSchema_Method" Bounds="1476.55768674,135.822014301094,97.0268169599999,25.8358567733335" DelayedCrossGroupLinksState="Fetched" Label="mainTemp" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@61" Category="CodeSchema_Method" Bounds="1357.99505387333,135.822014301094,88.1520826933333,25.8358567733335" DelayedCrossGroupLinksState="Fetched" Label="mainTest" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@62" Category="CodeSchema_Method" Bounds="1231.12880003333,135.822014301094,95.8845903733336,25.8358567733335" DelayedCrossGroupLinksState="Fetched" Label="mainTestX" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@63" Category="CodeSchema_Method" Bounds="1642.42833333333,363.329584621095,57.3033333333333,25.8366666666666" DelayedCrossGroupLinksState="Fetched" Label="test" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@64" Category="CodeSchema_Method" Bounds="1166.56333333333,419.166251287761,147.033333333333,25.8366666666667" DelayedCrossGroupLinksState="Fetched" ErrorMessage="节点“videoCapture_main”具有中心值 3。" Hub="3" Label="videoCapture_main" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@67" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="333.98,614.203333333332,144.573333333333,25.8366666666666" Label="__tmainCRTStartup" SourceLocation="(Assembly=file:///f:/dd/vctools/crt/crtw32/dllstuff/crtexe.c StartLineNumber=625 StartCharacterOffset=0 EndLineNumber=625 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
       <Category Ref="CurrentCallStackEntry" />
     </Node>
-    <Node Id="@53" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="541.535,558.366666666666,129.343333333333,25.8366666666666" Label="mainCRTStartup" SourceLocation="(Assembly=file:///f:/dd/vctools/crt/crtw32/dllstuff/crtexe.c StartLineNumber=465 StartCharacterOffset=0 EndLineNumber=465 EndCharacterOffset=0)">
+    <Node Id="@68" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="489.035,670.039999999999,64.4633333333334,25.8366666666666" ErrorMessage="节点“main”具有中心值 5。" Hub="5" Label="main" SourceLocation="(Assembly=file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn3/directshowuseonly/directshowuseonly/main/main.cpp StartLineNumber=69 StartCharacterOffset=0 EndLineNumber=69 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
       <Category Ref="CurrentCallStackEntry" />
     </Node>
-    <Node Id="@55" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="261.91,725.876666666666,126.593333333333,25.8366666666666" Label="playAFile_demo" SourceLocation="(Assembly=file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn3/directshowuseonly/directshowuseonly/source/functionsets/procedure_playafile/playafile.cpp StartLineNumber=31 StartCharacterOffset=0 EndLineNumber=31 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@56" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="418.69,725.876666666666,147.033333333333,25.8366666666666" ErrorMessage="节点“videoCapture_main”具有中心值 5。" Hub="5" Label="videoCapture_main" SourceLocation="(Assembly=file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn3/directshowuseonly/directshowuseonly/source/functionsets/procedure_videocapture/videocapture.cpp StartLineNumber=118 StartCharacterOffset=0 EndLineNumber=118 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@58" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="155.216666666666,725.876666666666,75.98,25.8366666666667" Label="system" SourceLocation="(Assembly=file:///f:/dd/vctools/crt/crtw32/exec/system.c StartLineNumber=85 StartCharacterOffset=0 EndLineNumber=85 EndCharacterOffset=0)">
+    <Node Id="@69" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="309.595,558.366666666666,129.343333333333,25.8366666666666" Label="mainCRTStartup" SourceLocation="(Assembly=file:///f:/dd/vctools/crt/crtw32/dllstuff/crtexe.c StartLineNumber=465 StartCharacterOffset=0 EndLineNumber=465 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
       <Category Ref="CurrentCallStackEntry" />
     </Node>
-    <Node Id="@59" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="105.436666666666,1060.89666666667,79.54,25.8366666666666" Label="_unlock" SourceLocation="(Assembly=file:///f:/dd/vctools/crt/crtw32/startup/mlock.c StartLineNumber=367 StartCharacterOffset=0 EndLineNumber=367 EndCharacterOffset=0)">
+    <Node Id="@71" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="325.97,725.876666666666,126.593333333333,25.8366666666666" Label="playAFile_demo" SourceLocation="(Assembly=file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn3/directshowuseonly/directshowuseonly/source/functionsets/procedure_playafile/playafile.cpp StartLineNumber=31 StartCharacterOffset=0 EndLineNumber=31 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@72" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="594.75,725.876666666666,147.033333333333,25.8366666666666" ErrorMessage="节点“videoCapture_main”具有中心值 3。" Hub="3" Label="videoCapture_main" SourceLocation="(Assembly=file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn3/directshowuseonly/directshowuseonly/source/functionsets/procedure_videocapture/videocapture.cpp StartLineNumber=66 StartCharacterOffset=0 EndLineNumber=66 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
       <Category Ref="CurrentCallStackEntry" />
     </Node>
-    <Node Id="@6" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="681.46,111.673333333333,195.493333333333,25.8366666666667" ErrorMessage="节点“@BaseThreadInitThunk@12”具有中心值 9。" Hub="9" Label="@BaseThreadInitThunk@12">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CurrentCallStackEntry" />
-    </Node>
-    <Node Id="@60" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="98.505,893.386666666666,93.4033333333333,25.8366666666667" Label="_dospawn" SourceLocation="(Assembly=file:///f:/dd/vctools/crt/crtw32/exec/dospawn.c StartLineNumber=211 StartCharacterOffset=0 EndLineNumber=211 EndCharacterOffset=0)">
+    <Node Id="@74" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="483.276666666667,725.876666666666,75.9800000000001,25.8366666666666" Label="system" SourceLocation="(Assembly=file:///f:/dd/vctools/crt/crtw32/exec/system.c StartLineNumber=85 StartCharacterOffset=0 EndLineNumber=85 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
-      <Category Ref="CurrentCallStackEntry" />
     </Node>
-    <Node Id="@61" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="99.6033333333331,781.713333333332,91.2066666666667,25.8366666666667" Label="_spawnve" SourceLocation="(Assembly=file:///f:/dd/vctools/crt/crtw32/exec/spawnve.c StartLineNumber=266 StartCharacterOffset=0 EndLineNumber=266 EndCharacterOffset=0)">
+    <Node Id="@75" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="723.496666666667,1060.89666666667,79.54,25.8366666666666" Label="_unlock" SourceLocation="(Assembly=file:///f:/dd/vctools/crt/crtw32/startup/mlock.c StartLineNumber=367 StartCharacterOffset=0 EndLineNumber=367 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
-      <Category Ref="CurrentCallStackEntry" />
     </Node>
-    <Node Id="@62" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="92.4416666666665,837.549999999999,105.53,25.8366666666667" Label="comexecmd" SourceLocation="(Assembly=file:///f:/dd/vctools/crt/crtw32/exec/spawnve.c StartLineNumber=120 StartCharacterOffset=0 EndLineNumber=120 EndCharacterOffset=0)">
+    <Node Id="@76" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="689.565,893.386666666665,93.4033333333333,25.8366666666666" Label="_dospawn" SourceLocation="(Assembly=file:///f:/dd/vctools/crt/crtw32/exec/dospawn.c StartLineNumber=211 StartCharacterOffset=0 EndLineNumber=211 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
-      <Category Ref="CurrentCallStackEntry" />
     </Node>
-    <Node Id="@7" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="777.176666666667,949.223333333332,204.06,25.8366666666666" ErrorMessage="节点“_WaitForMultipleObjects@16”具有中心值 5。" Hub="5" Label="_WaitForMultipleObjects@16">
+    <Node Id="@77" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="475.663333333333,781.713333333332,91.2066666666667,25.8366666666666" Label="_spawnve" SourceLocation="(Assembly=file:///f:/dd/vctools/crt/crtw32/exec/spawnve.c StartLineNumber=266 StartCharacterOffset=0 EndLineNumber=266 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
     </Node>
-    <Node Id="@8" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="644,1005.06,308.413333333333,25.8366666666669" ErrorMessage="节点“_WaitForMultipleObjectsExImplementation@20”具有中心值 5。" Hub="5" Label="_WaitForMultipleObjectsExImplementation@20">
+    <Node Id="@78" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="602.501666666666,837.549999999999,105.53,25.8366666666666" Label="comexecmd" SourceLocation="(Assembly=file:///f:/dd/vctools/crt/crtw32/exec/spawnve.c StartLineNumber=120 StartCharacterOffset=0 EndLineNumber=120 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
     </Node>
-    <Node Id="@9" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="55.6949999999998,949.223333333332,179.023333333333,25.8366666666667" Label="_WaitForSingleObject@8">
+    <Node Id="@9" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="188.52,111.673333333333,195.493333333333,25.8366666666667" ErrorMessage="节点“@BaseThreadInitThunk@12”具有中心值 6。" Hub="6" Label="@BaseThreadInitThunk@12">
       <Category Ref="CallStackEntry" />
       <Category Ref="CurrentCallStackEntry" />
     </Node>
   </Nodes>
   <Links>
-    <Link Source="(Name=&quot;__RtlUserThreadStart@8&quot; @26 @5)" Target="@27" Category="CallStackDirectCall" Bounds="779.206665039063,25.8366661071777,0,21">
+    <Link Source="(Name=&quot;__RtlUserThreadStart@8&quot; @29 @8)" Target="@30" Category="CallStackDirectCall" Bounds="286.266662597656,25.8366661071777,0,21">
       <Category Ref="CurrentCallStackCall" />
     </Link>
-    <Link Source="@10" Target="@59" Category="CallStackDirectCall" Bounds="145.206665039063,1030.89660644531,0,21">
+    <Link Source="@10" Target="@11" Category="CallStackDirectCall" Bounds="459.416778564453,975.059997558594,36.1097717285156,24.8919677734375" />
+    <Link Source="@11" Target="@22" Category="CallStackDirectCall" Bounds="433.266662597656,1030.89660644531,0,21" />
+    <Link Source="@12" Target="@13" Category="CallStackDirectCall" Bounds="742.513366699219,975.059997558594,10.588623046875,21.8975830078125" />
+    <Link Source="@13" Target="@75" Category="CallStackDirectCall" Bounds="763.266662597656,1030.89660644531,0,21" />
+    <Link Source="@15" Target="@16" Category="CallStackDirectCall" Bounds="239.431335449219,360.856658935547,10.588623046875,21.8975524902344" />
+    <Link Source="@16" Target="@20" Category="CallStackDirectCall" Bounds="229.266662597656,416.693328857422,0,21" />
+    <Link Source="@17" Target="@51" Category="CallStackDirectCall" Bounds="229.266662597656,528.366638183594,0,21" />
+    <Link Source="@18" Target="@19" Category="CallStackDirectCall" Bounds="275.196014404297,919.223327636719,37.636474609375,25.017822265625" />
+    <Link Source="@19" Target="@11" Category="CallStackDirectCall" Bounds="291.068145751953,975.059997558594,90.7809448242188,27.3994750976563" />
+    <Link Source="@19" Target="@33" Category="CallStackDirectCall" Bounds="248.266662597656,975.059997558594,0,132.673278808594" />
+    <Link Source="@2" Target="(@1 Namespace=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_playAFile)" Category="Contains" FetchingParent="@2" />
+    <Link Source="@2" Target="(@1 Namespace=aRottenGeneralNameThisX_thisNamespace::sub::templateLearn)" Category="Contains" FetchingParent="@2" />
+    <Link Source="@2" Target="(@1 Namespace=aRottenGeneralNameThisX_thisNamespace::sub::templateLearn::abc)" Category="Contains" FetchingParent="@2" />
+    <Link Source="@2" Target="@4" Category="Contains" FetchingParent="@2" />
+    <Link Source="@2" Target="@6" Category="Contains" FetchingParent="@2" />
+    <Link Source="@20" Target="@17" Category="CallStackDirectCall" Bounds="229.266662597656,472.529998779297,0,21" />
+    <Link Source="@22" Target="@33" Category="CallStackDirectCall" Bounds="299.684265136719,1086.73327636719,90.7809143066406,27.3995361328125" />
+    <Link Source="@24" Target="@47" Category="CallStackDirectCall" Bounds="1023.26666259766,695.876647949219,0,21" />
+    <Link Source="@25" Target="@26" Category="CallStackDirectCall" Bounds="489.461822509766,528.366638183594,30.5738830566406,24.3878173828125" />
+    <Link Source="@26" Target="@27" Category="CallStackDirectCall" Bounds="549.97607421875,584.203308105469,11.4329223632813,22.0130004882813" />
+    <Link Source="@27" Target="@24" Category="CallStackDirectCall" Bounds="635.108337402344,634.90185546875,341.211547851563,42.244140625" />
+    <Link Source="@28" Target="@25" Category="CallStackDirectCall" Bounds="473.266662597656,472.529998779297,0,21" />
+    <Link Source="@30" Target="@9" Category="CallStackDirectCall" Bounds="286.266662597656,81.6733322143555,0,21">
       <Category Ref="CurrentCallStackCall" />
     </Link>
-    <Link Source="@12" Target="@13" Category="CallStackDirectCall" Bounds="730.908386230469,360.856658935547,6.11737060546875,21.3482055664063" />
-    <Link Source="@13" Target="@17" Category="CallStackDirectCall" Bounds="745.057556152344,416.693328857422,3.02178955078125,21.0909729003906" />
-    <Link Source="@14" Target="@48" Category="CallStackDirectCall" Bounds="751.206665039063,528.366638183594,0,21" />
-    <Link Source="@15" Target="@16" Category="CallStackDirectCall" Bounds="628.019165039063,919.223327636719,16.7017822265625,22.7456665039063" />
-    <Link Source="@16" Target="@30" Category="CallStackDirectCall" Bounds="613.206665039063,975.059997558594,0,132.673278808594" />
-    <Link Source="@16" Target="@8" Category="CallStackDirectCall" Bounds="656.008117675781,975.059997558594,90.7809448242188,27.3994750976563" />
-    <Link Source="@17" Target="@14" Category="CallStackDirectCall" Bounds="751.206665039063,472.529998779297,0,21" />
-    <Link Source="@19" Target="@30" Category="CallStackDirectCall" Bounds="662.504516601563,1086.73327636719,85.98291015625,27.2784423828125" />
-    <Link Source="@2" Target="@3" Category="Contains" FetchingParent="@2" />
-    <Link Source="@21" Target="@44" Category="CallStackDirectCall" Bounds="918.669372558594,695.876647949219,0.75244140625,21.0057983398438" />
-    <Link Source="@22" Target="@23" Category="CallStackDirectCall" Bounds="915.595764160156,528.366638183594,8.52099609375,21.6265258789063" />
-    <Link Source="@23" Target="@24" Category="CallStackDirectCall" Bounds="909.751647949219,584.203308105469,4.17047119140625,21.1697387695313" />
-    <Link Source="@24" Target="@21" Category="CallStackDirectCall" Bounds="918.206665039063,640.039978027344,0,21" />
-    <Link Source="@25" Target="@22" Category="CallStackDirectCall" Bounds="931.556396484375,472.529998779297,2.2620849609375,21.051513671875" />
-    <Link Source="@27" Target="@6" Category="CallStackDirectCall" Bounds="779.206665039063,81.6733322143555,0,21">
+    <Link Source="@31" Target="@31" Category="CallStackDirectCall" Bounds="619.623352050781,1123.51013183594,43.5,11.992431640625" />
+    <Link Source="@32" Target="@33" Category="CallStackDirectCall" Bounds="122.209594726563,1086.73327636719,79.5944061279297,27.099365234375" />
+    <Link Source="@33" Target="@33" Category="CallStackDirectCall" Bounds="94.2799987792969,1123.5908203125,43.5,11.814208984375" />
+    <Link Source="@35" Target="@46" Category="CallStackDirectCall" Bounds="230.654815673828,751.713317871094,2.26213073730469,21.051513671875" />
+    <Link Source="@36" Target="@37" Category="CallStackDirectCall" Bounds="457.266662597656,249.183334350586,0,20.9999847412109" />
+    <Link Source="@37" Target="@39" Category="CallStackDirectCall" Bounds="460.968414306641,305.019989013672,6.11734008789063,21.3482055664063" />
+    <Link Source="@38" Target="@36" Category="CallStackDirectCall" Bounds="456.498016357422,193.346664428711,0.376129150390625,21.0014495849609" />
+    <Link Source="@39" Target="@40" Category="CallStackDirectCall" Bounds="473.266662597656,360.856658935547,0,21" />
+    <Link Source="@4" Target="(@1 @3 Member=mainPauseWait)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Member=mainPauseWith)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Member=mainStopHere)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Member=mainStopWith)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Member=mainTempX)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@58" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@59" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@60" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@61" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="@62" Category="Contains" FetchingParent="@4" />
+    <Link Source="@40" Target="@28" Category="CallStackDirectCall" Bounds="473.266662597656,416.693328857422,0,21" />
+    <Link Source="@41" Target="@42" Category="CallStackDirectCall" Bounds="229.266662597656,640.039978027344,0,21" />
+    <Link Source="@42" Target="@35" Category="CallStackDirectCall" Bounds="229.266662597656,695.876647949219,0,21" />
+    <Link Source="@43" Target="@44" Category="CallStackDirectCall" Bounds="859.823913574219,804.57421875,123.556213378906,30.7989501953125" />
+    <Link Source="@44" Target="@49" Category="CallStackDirectCall" Bounds="642.719970703125,863.386657714844,106.804443359375,27.7377319335938" />
+    <Link Source="@45" Target="@50" Category="CallStackDirectCall" Bounds="396.022125244141,807.549987792969,49.5101623535156,25.8363037109375" />
+    <Link Source="@46" Target="@50" Category="CallStackDirectCall" Bounds="266.434997558594,801.793518066406,146.839935302734,33.740966796875" />
+    <Link Source="@47" Target="@43" Category="CallStackDirectCall" Bounds="1023.26666259766,751.713317871094,0,21" />
+    <Link Source="@48" Target="@15" Category="CallStackDirectCall" Bounds="267.467102050781,305.019989013672,11.8587951660156,22.0718688964844" />
+    <Link Source="@49" Target="@10" Category="CallStackDirectCall" Bounds="537.497619628906,919.223327636719,30.5739135742188,24.3877563476563" />
+    <Link Source="@50" Target="@10" Category="CallStackDirectCall" Bounds="478.266662597656,863.386657714844,22.794189453125,78.2725219726563" />
+    <Link Source="@50" Target="@18" Category="CallStackDirectCall" Bounds="374.451354980469,863.386657714844,70.036865234375,26.7850952148438" />
+    <Link Source="@51" Target="@41" Category="CallStackDirectCall" Bounds="229.266662597656,584.203308105469,0,21" />
+    <Link Source="@53" Target="@56" Category="CodeSchema_Calls" Bounds="1418.07995605469,445.0029296875,0,21" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
+    <Link Source="@54" Target="@55" Category="CodeSchema_Calls" Bounds="1221.02160644531,556.67626953125,0,21" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
+    <Link Source="@58" Target="@59" Category="CodeSchema_Calls" Bounds="1555.8701171875,105.370964050293,66.9268798828125,27.0757827758789" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
+    <Link Source="@58" Target="@60" Category="CodeSchema_Calls" Bounds="1525.07104492188,105.82201385498,0,21" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
+    <Link Source="@58" Target="@61" Category="CodeSchema_Calls" Bounds="1438.72668457031,105.82201385498,57.8994140625,26.2802047729492" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
+    <Link Source="@58" Target="@62" Category="CodeSchema_Calls" Bounds="1335.64270019531,100.222534179688,157.21142578125,35.6786499023438" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
+    <Link Source="@6" Target="(@1 @5 Member=(Name=test_errorExample_201812241032 OverloadingParameters=[(Type=&quot;_GUID const &amp;&quot;),(Type=&quot;IEnumMoniker * *&quot;)]))" Category="Contains" FetchingParent="@6" />
+    <Link Source="@6" Target="(@1 @5 Member=SelectingACaptureDevice)" Category="Contains" FetchingParent="@6" />
+    <Link Source="@6" Target="(@1 @5 Member=testX)" Category="Contains" FetchingParent="@6" />
+    <Link Source="@6" Target="@52" Category="Contains" FetchingParent="@6" />
+    <Link Source="@6" Target="@53" Category="Contains" FetchingParent="@6" />
+    <Link Source="@6" Target="@54" Category="Contains" FetchingParent="@6" />
+    <Link Source="@6" Target="@55" Category="Contains" FetchingParent="@6" />
+    <Link Source="@6" Target="@56" Category="Contains" FetchingParent="@6" />
+    <Link Source="@6" Target="@57" Category="Contains" FetchingParent="@6" />
+    <Link Source="@6" Target="@63" Category="Contains" FetchingParent="@6" />
+    <Link Source="@6" Target="@64" Category="Contains" FetchingParent="@6" />
+    <Link Source="@62" Target="@64" Category="CodeSchema_Calls" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
+    <Link Source="@63" Target="@53" Category="CodeSchema_Calls" Bounds="1485.40246582031,382.5712890625,157.02587890625,34.6553649902344" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
+    <Link Source="@63" Target="@57" Category="CodeSchema_Calls" Bounds="1671.07995605469,389.166259765625,0,21" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
+    <Link Source="@64" Target="@52" Category="CodeSchema_Calls" Bounds="1230.88537597656,445.0029296875,5.7242431640625,21.3081665039063" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
+    <Link Source="@64" Target="@56" Category="CodeSchema_Calls" Bounds="1281.26196289063,445.0029296875,87.0487060546875,27.3062133789063" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
+    <Link Source="@67" Target="@68" Category="CallStackDirectCall" Bounds="432.872985839844,640.039978027344,53.6912231445313,26.0690307617188">
       <Category Ref="CurrentCallStackCall" />
     </Link>
-    <Link Source="@28" Target="@28" Category="CallStackDirectCall" Bounds="1.56333339214325,1123.51013183594,43.4999982118607,11.992431640625">
+    <Link Source="@68" Target="@71" Category="CallStackDirectCall" Bounds="428.095001220703,695.7236328125,62.9940490722656,26.6467895507813" />
+    <Link Source="@68" Target="@72" Category="CallStackDirectCall" Bounds="552.711242675781,694.902282714844,73.132080078125,27.778564453125" />
+    <Link Source="@68" Target="@74" Category="CallStackDirectCall" Bounds="521.266662597656,695.876647949219,0,21" />
+    <Link Source="@69" Target="@67" Category="CallStackDirectCall" Bounds="381.670166015625,584.203308105469,12.7179260253906,22.1914672851563">
       <Category Ref="CurrentCallStackCall" />
     </Link>
-    <Link Source="@29" Target="@30" Category="CallStackDirectCall" Bounds="714.432189941406,1085.5244140625,214.101135253906,29.9615478515625" />
-    <Link Source="@3" Target="(@1 Namespace=:: Member=main)" Category="Contains" FetchingParent="@3" />
-    <Link Source="@30" Target="@30" Category="CallStackDirectCall" Bounds="459.220001220703,1123.5908203125,43.5,11.814208984375" />
-    <Link Source="@32" Target="@43" Category="CallStackDirectCall" Bounds="791.304260253906,751.713317871094,14.0248413085938,22.3743286132813" />
-    <Link Source="@33" Target="@34" Category="CallStackDirectCall" Bounds="913.206665039063,249.183334350586,0,20.9999847412109" />
-    <Link Source="@34" Target="@36" Category="CallStackDirectCall" Bounds="913.206665039063,305.019989013672,0,21" />
-    <Link Source="@35" Target="@33" Category="CallStackDirectCall" Bounds="873.237365722656,193.346664428711,21.804931640625,23.4137878417969" />
-    <Link Source="@36" Target="@37" Category="CallStackDirectCall" Bounds="913.206665039063,360.856658935547,0,21" />
-    <Link Source="@37" Target="@25" Category="CallStackDirectCall" Bounds="918.296569824219,416.693328857422,8.52099609375,21.6265258789063" />
-    <Link Source="@38" Target="@39" Category="CallStackDirectCall" Bounds="758.610168457031,640.039978027344,12.7178955078125,22.1914672851563" />
-    <Link Source="@39" Target="@32" Category="CallStackDirectCall" Bounds="783.206665039063,695.876647949219,0,21" />
-    <Link Source="@40" Target="@41" Category="CallStackDirectCall" Bounds="920.206665039063,807.549987792969,0,21" />
-    <Link Source="@41" Target="@46" Category="CallStackDirectCall" Bounds="911.634521484375,863.386657714844,5.3331298828125,21.2702026367188" />
-    <Link Source="@42" Target="@47" Category="CallStackDirectCall" Bounds="369.363586425781,804.863342285156,263.768920898438,33.039306640625" />
-    <Link Source="@43" Target="@47" Category="CallStackDirectCall" Bounds="761.876953125,807.549987792969,37.1268920898438,24.9763793945313" />
-    <Link Source="@44" Target="@40" Category="CallStackDirectCall" Bounds="920.206665039063,751.713317871094,0,21" />
-    <Link Source="@45" Target="@12" Category="CallStackDirectCall" Bounds="745.371032714844,305.019989013672,21.804931640625,23.4137878417969" />
-    <Link Source="@46" Target="@7" Category="CallStackDirectCall" Bounds="889.371337890625,919.223327636719,10.588623046875,21.8975830078125" />
-    <Link Source="@47" Target="@15" Category="CallStackDirectCall" Bounds="680.356750488281,863.386657714844,36.1098022460938,24.8919677734375" />
-    <Link Source="@47" Target="@7" Category="CallStackDirectCall" Bounds="750.244995117188,863.386657714844,103.334716796875,80.64208984375" />
-    <Link Source="@48" Target="@38" Category="CallStackDirectCall" Bounds="751.206665039063,584.203308105469,0,21" />
-    <Link Source="@51" Target="@52" Category="CallStackDirectCall" Bounds="518.617248535156,640.039978027344,36.6179809570313,24.9344482421875">
+    <Link Source="@71" Target="@45" Category="CallStackDirectCall" Bounds="378.192504882813,751.713317871094,6.90969848632813,21.43408203125" />
+    <Link Source="@72" Target="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::DisplayDeviceInformation @65 @70 OverloadingParameters=[(Type=&quot;IEnumMoniker *&quot; Name=pEnum)] @8)" Category="CallStackDirectCall" Bounds="712.919006347656,751.713317871094,95.0498657226563,27.498779296875">
       <Category Ref="CurrentCallStackCall" />
     </Link>
-    <Link Source="@52" Target="@55" Category="CallStackDirectCall" Bounds="372.379211425781,693.696838378906,87.7100830078125,29.3259887695313" />
-    <Link Source="@52" Target="@56" Category="CallStackDirectCall" Bounds="492.206665039063,695.876647949219,0,21" />
-    <Link Source="@52" Target="@58" Category="CallStackDirectCall" Bounds="240.007614135742,688.652038574219,219.967391967773,39.927734375">
-      <Category Ref="CurrentCallStackCall" />
-    </Link>
-    <Link Source="@53" Target="@51" Category="CallStackDirectCall" Bounds="586.085266113281,584.203308105469,12.7178955078125,22.1914672851563">
-      <Category Ref="CurrentCallStackCall" />
-    </Link>
-    <Link Source="@55" Target="@42" Category="CallStackDirectCall" Bounds="306.407104492188,751.713317871094,11.8587951660156,22.0718994140625" />
-    <Link Source="@56" Target="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::DisplayDeviceInformation @49 @54 OverloadingParameters=[(Type=&quot;IEnumMoniker *&quot; Name=pEnum)] @5)" Category="CallStackDirectCall" Bounds="492.206665039063,751.713317871094,0,21" />
-    <Link Source="@56" Target="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::EnumerateDevices @49 Type=HRESULT OverloadingParameters=[(Type=&quot;const _GUID &amp;&quot; Name=category),(Type=&quot;IEnumMoniker * *&quot; Name=ppEnum)] @5)" Category="CallStackDirectCall" Bounds="536.859008789063,751.713317871094,95.0498657226563,27.498779296875" />
-    <Link Source="@58" Target="@61" Category="CallStackDirectCall" Bounds="162.178894042969,751.713317871094,19.9225311279297,23.1751708984375">
-      <Category Ref="CurrentCallStackCall" />
-    </Link>
-    <Link Source="@59" Target="@28" Category="CallStackDirectCall" Bounds="145.206665039063,1086.73327636719,0,21">
-      <Category Ref="CurrentCallStackCall" />
-    </Link>
-    <Link Source="@6" Target="@29" Category="CallStackDirectCall" Bounds="833.113403320313,137.509994506836,179.09326171875,914.386611938477" />
-    <Link Source="@6" Target="@35" Category="CallStackDirectCall" Bounds="798.178100585938,137.509994506836,36.6179809570313,24.9344635009766" />
-    <Link Source="@6" Target="@45" Category="CallStackDirectCall" Bounds="779.206665039063,137.509994506836,0,132.673324584961" />
-    <Link Source="@6" Target="@53" Category="CallStackDirectCall" Bounds="606.206665039063,137.509994506836,132.974853515625,411.856643676758">
-      <Category Ref="CurrentCallStackCall" />
-    </Link>
-    <Link Source="@60" Target="@9" Category="CallStackDirectCall" Bounds="145.206665039063,919.223327636719,0,21">
-      <Category Ref="CurrentCallStackCall" />
-    </Link>
-    <Link Source="@61" Target="@62" Category="CallStackDirectCall" Bounds="145.206665039063,807.549987792969,0,21">
-      <Category Ref="CurrentCallStackCall" />
-    </Link>
-    <Link Source="@62" Target="@60" Category="CallStackDirectCall" Bounds="145.206665039063,863.386657714844,0,21">
-      <Category Ref="CurrentCallStackCall" />
-    </Link>
-    <Link Source="@7" Target="@8" Category="CallStackDirectCall" Bounds="824.356750488281,975.059997558594,36.1098022460938,24.8919677734375" />
-    <Link Source="@8" Target="@19" Category="CallStackDirectCall" Bounds="792.721069335938,1030.89660644531,3.40338134765625,21.11474609375" />
-    <Link Source="@9" Target="@10" Category="CallStackDirectCall" Bounds="145.206665039063,975.059997558594,0,21">
+    <Link Source="@72" Target="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::EnumerateDevices @65 Type=HRESULT OverloadingParameters=[(Type=&quot;const _GUID &amp;&quot; Name=category),(Type=&quot;IEnumMoniker * *&quot; Name=ppEnum)] @8)" Category="CallStackDirectCall" Bounds="668.266662597656,751.713317871094,0,21" />
+    <Link Source="@74" Target="@77" Category="CallStackDirectCall" Bounds="521.266662597656,751.713317871094,0,21" />
+    <Link Source="@75" Target="@31" Category="CallStackDirectCall" Bounds="763.266662597656,1086.73327636719,0,21" />
+    <Link Source="@76" Target="@12" Category="CallStackDirectCall" Bounds="736.266662597656,919.223327636719,0,21" />
+    <Link Source="@77" Target="@78" Category="CallStackDirectCall" Bounds="552.268798828125,807.549987792969,63.6881103515625,26.5382690429688" />
+    <Link Source="@78" Target="@76" Category="CallStackDirectCall" Bounds="674.006774902344,863.386657714844,36.1098022460938,24.8919677734375" />
+    <Link Source="@9" Target="@32" Category="CallStackDirectCall" Bounds="84.2666702270508,137.509994506836,155.265419006348,914.386611938477" />
+    <Link Source="@9" Target="@38" Category="CallStackDirectCall" Bounds="325.597747802734,137.509994506836,82.7872314453125,27.1915588378906" />
+    <Link Source="@9" Target="@48" Category="CallStackDirectCall" Bounds="286.266662597656,137.509994506836,0,132.673324584961" />
+    <Link Source="@9" Target="@69" Category="CallStackDirectCall" Bounds="306.626281738281,137.509994506836,67.640380859375,411.856643676758">
       <Category Ref="CurrentCallStackCall" />
     </Link>
   </Links>
@@ -278,6 +317,7 @@
     <Category Id="CallStackEntry" Label="调用堆栈入口" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="调用堆栈入口" />
     <Category Id="CodeSchema_Assembly" Label="程序集" BasedOn="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Assembly" NavigationActionLabel="程序集" />
     <Category Id="CodeSchema_CallStackUnresolvedMethod" Label="未解析的方法" CanBeDataDriven="True" DefaultAction="Microsoft.AllOutBoundLinks" IsProviderRoot="False" NavigationActionLabel="未解析的方法" />
+    <Category Id="CodeSchema_Calls" Label="调用" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="调用者" OutgoingActionLabel="调用" />
     <Category Id="CodeSchema_Member" Label="编号" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" NavigationActionLabel="成员" />
     <Category Id="CodeSchema_Method" Label="方法" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" NavigationActionLabel="方法" />
     <Category Id="CodeSchema_Namespace" Label="命名空间" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Type" Icon="CodeSchema_Namespace" NavigationActionLabel="命名空间" />
@@ -286,11 +326,13 @@
     <Category Id="CurrentCallStackCall" Label="当前调用堆栈调用" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="当前调用堆栈调用" OutgoingActionLabel="当前调用堆栈调用" />
     <Category Id="CurrentCallStackEntry" Label="当前调用堆栈入口" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="当前调用堆栈入口" />
     <Category Id="File" Label="文件" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" NavigationActionLabel="文件" />
+    <Category Id="FileSystem.Category.FileOfType.exe" BasedOn="CodeSchema_Assembly" CanBeDataDriven="True" IsProviderRoot="False" />
   </Categories>
   <Properties>
     <Property Id="Bounds" DataType="System.Windows.Rect" />
     <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
     <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsExternal" Label="是外部的" Description="一个标志，用于指示此节点是否被认为是外部的" DataType="System.Boolean" />
     <Property Id="DataVirtualized" Label="已虚拟化数据" Description="如果为 true，则图中可以包含表示虚拟化节点/链接(即，不在图中实际创建)的数据的节点和链接。" DataType="System.Boolean" />
     <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
     <Property Id="DelayedChildNodesState" Label="延迟的子节点状态" Description="如果未指定延迟的子节点状态，则为 Unspecified。如果尚未将组包含的子节点提取到关系图中，则为 NotFetched。如果已提取组内的所有延迟的子节点，则为 Fetched。" DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
@@ -299,6 +341,7 @@
     <Property Id="Expression" DataType="System.String" />
     <Property Id="FetchedChildrenCount" DataType="System.Int32" />
     <Property Id="FetchingParent" DataType="Microsoft.VisualStudio.GraphModel.GraphNodeId" />
+    <Property Id="FilePath" Label="文件路径" Description="文件路径" DataType="System.String" />
     <Property Id="Group" Label="组" Description="将节点显示为组" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
     <Property Id="GroupLabel" DataType="System.String" />
     <Property Id="Hub" Label="中心" Description="节点位于连接数目在前 10% 的节点当中" DataType="System.Int32" />
@@ -306,6 +349,7 @@
     <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
     <Property Id="IsContainment" DataType="System.Boolean" />
     <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsHubContainer" Label="中心容器" Description="此组包含一个用 IsHub 属性标记的节点" DataType="System.Boolean" />
     <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
     <Property Id="Label" Label="标签" Description="可批注对象的可显示标签" DataType="System.String" />
     <Property Id="Language" Label="语言" Description="语言" DataType="System.String" />
@@ -317,7 +361,8 @@
     <Property Id="ToolTip" DataType="System.String" />
     <Property Id="Value" DataType="System.String" />
     <Property Id="ValueLabel" DataType="System.String" />
-    <Property Id="Visibility" Label="可见性" Description="定义关系图中的节点是否可见" DataType="System.Windows.Visibility" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+    <Property Id="Weight" Label="粗细" Description="粗细" DataType="System.Double" />
   </Properties>
   <QualifiedNames>
     <Name Id="Assembly" Label="程序集" ValueType="Uri" />
@@ -331,66 +376,82 @@
   <IdentifierAliases>
     <Alias n="1" Uri="Assembly=$(98d840e8-ca45-4fca-858a-224fa7036600.OutputPathUri)" />
     <Alias n="2" Id="(@1)" />
-    <Alias n="3" Id="(@1 Namespace=::)" />
-    <Alias n="4" Uri="Assembly=kernel32.dll" />
-    <Alias n="5" Id="IsUnresolved=True" />
-    <Alias n="6" Id="(Name=&quot;@BaseThreadInitThunk@12&quot; @4 @5)" />
-    <Alias n="7" Id="(Name=&quot;_WaitForMultipleObjects@16&quot; @4 @5)" />
-    <Alias n="8" Id="(Name=&quot;_WaitForMultipleObjectsExImplementation@20&quot; @4 @5)" />
-    <Alias n="9" Id="(Name=&quot;_WaitForSingleObject@8&quot; @4 @5)" />
-    <Alias n="10" Id="(Name=&quot;_WaitForSingleObjectExImplementation@12&quot; @4 @5)" />
-    <Alias n="11" Uri="Assembly=user32.dll" />
-    <Alias n="12" Id="(Name=&quot;_DispatchMessageW@4&quot; @11 @5)" />
-    <Alias n="13" Id="(Name=&quot;_DispatchMessageWorker@8&quot; @11 @5)" />
-    <Alias n="14" Id="(Name=&quot;_InternalCallWinProc@20&quot; @11 @5)" />
-    <Alias n="15" Id="(Name=&quot;_MsgWaitForMultipleObjects@20&quot; @11 @5)" />
-    <Alias n="16" Id="(Name=&quot;_RealMsgWaitForMultipleObjectsEx@20&quot; @11 @5)" />
-    <Alias n="17" Id="(Name=&quot;_UserCallWinProcCheckWow@32&quot; @11 @5)" />
-    <Alias n="18" Uri="Assembly=KernelBase.dll" />
-    <Alias n="19" Id="(Name=&quot;_WaitForMultipleObjectsEx@20&quot; @18 @5)" />
-    <Alias n="20" Uri="Assembly=qasf.dll" />
-    <Alias n="21" Id="(Name=CBaseOutputPin::Deliver @20 @5)" />
-    <Alias n="22" Id="(Name=CMediaWrapperFilter::NewSample @20 @5)" />
-    <Alias n="23" Id="(Name=CMediaWrapperFilter::NewSampleInternal @20 @5)" />
-    <Alias n="24" Id="(Name=CMediaWrapperFilter::SuckOutOutput @20 @5)" />
-    <Alias n="25" Id="(Name=CWrapperInputPin::Receive @20 @5)" />
-    <Alias n="26" Uri="Assembly=ntdll.dll" />
-    <Alias n="27" Id="(Name=&quot;___RtlUserThreadStart@8&quot; @26 @5)" />
-    <Alias n="28" Id="(Name=&quot;_NtWaitForSingleObject@12&quot; @26 @5)" />
-    <Alias n="29" Id="(Name=&quot;_TppWaiterpThread@4&quot; @26 @5)" />
-    <Alias n="30" Id="(Name=&quot;_ZwWaitForMultipleObjects@20&quot; @26 @5)" />
-    <Alias n="31" Uri="Assembly=quartz.dll" />
-    <Alias n="32" Id="(Name=CAutoMsgMutex::CAutoMsgMutex @31 @5)" />
-    <Alias n="33" Id="(Name=CBaseMSRWorker::DoRunLoop @31 @5)" />
-    <Alias n="34" Id="(Name=CBaseMSRWorker::PushLoop @31 @5)" />
-    <Alias n="35" Id="(Name=CBaseMSRWorker::ThreadProc @31 @5)" />
-    <Alias n="36" Id="(Name=CBaseMSRWorker::TryDeliverSample @31 @5)" />
-    <Alias n="37" Id="(Name=CBaseOutputPin::Deliver @31 @5)" />
-    <Alias n="38" Id="(Name=CFGControl::CGraphWindow::OnReceiveMessage @31 @5)" />
-    <Alias n="39" Id="(Name=CFGControl::WorkerActivate @31 @5)" />
-    <Alias n="40" Id="(Name=CImageSync::Receive @31 @5)" />
-    <Alias n="41" Id="(Name=CImageSync::ReceiveWorker @31 @5)" />
-    <Alias n="42" Id="(Name=CImplMediaEvent::WaitForCompletion @31 @5)" />
-    <Alias n="43" Id="(Name=CMsgMutex::Lock @31 @5)" />
-    <Alias n="44" Id="(Name=CVMRInputPin::Receive @31 @5)" />
-    <Alias n="45" Id="(Name=ObjectThread @31 @5)" />
-    <Alias n="46" Id="(Name=VMR9::CImageSync::WaitForRenderTime @31 @5)" />
-    <Alias n="47" Id="(Name=WaitDispatchingMessages @31 @5)" />
-    <Alias n="48" Id="(Name=WndProc @31 @5)" />
-    <Alias n="49" Uri="Assembly=directShowUseOnly.exe" />
-    <Alias n="50" Id="Type=int" />
-    <Alias n="51" Id="(Name=__tmainCRTStartup @49 @50 @5)" />
-    <Alias n="52" Id="(Name=main @49 @50 @5)" />
-    <Alias n="53" Id="(Name=mainCRTStartup @49 @50 @5)" />
-    <Alias n="54" Id="Type=void" />
-    <Alias n="55" Id="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::persuade_playAFile::playAFile_demo @49 @54 @5)" />
-    <Alias n="56" Id="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::videoCapture_main @49 @54 @5)" />
-    <Alias n="57" Uri="Assembly=msvcr120d.dll" />
-    <Alias n="58" Id="(Name=system @57 @50 OverloadingParameters=[(Type=&quot;const char *&quot; Name=command)] @5)" />
-    <Alias n="59" Id="(Name=_unlock @57 @54 OverloadingParameters=[(@50 Name=locknum)] @5)" />
-    <Alias n="60" Id="(Name=_dospawn @57 @50 OverloadingParameters=[(@50 Name=mode),(Type=&quot;const char *&quot; Name=name),(Type=&quot;char *&quot; Name=cmdblk),(Type=&quot;char *&quot; Name=envblk)] @5)" />
-    <Alias n="61" Id="(Name=_spawnve @57 @50 OverloadingParameters=[(@50 Name=mode),(Type=&quot;const char *&quot; Name=name),(Type=&quot;const char * const *&quot; Name=argv),(Type=&quot;const char * const *&quot; Name=envp)] @5)" />
-    <Alias n="62" Id="(Name=comexecmd @57 @50 OverloadingParameters=[(@50 Name=mode),(Type=&quot;const char *&quot; Name=name),(Type=&quot;const char * const *&quot; Name=argv),(Type=&quot;const char * const *&quot; Name=envp)] @5)" />
+    <Alias n="3" Id="Namespace=::" />
+    <Alias n="4" Id="(@1 @3)" />
+    <Alias n="5" Id="Namespace=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture" />
+    <Alias n="6" Id="(@1 @5)" />
+    <Alias n="7" Uri="Assembly=kernel32.dll" />
+    <Alias n="8" Id="IsUnresolved=True" />
+    <Alias n="9" Id="(Name=&quot;@BaseThreadInitThunk@12&quot; @7 @8)" />
+    <Alias n="10" Id="(Name=&quot;_WaitForMultipleObjects@16&quot; @7 @8)" />
+    <Alias n="11" Id="(Name=&quot;_WaitForMultipleObjectsExImplementation@20&quot; @7 @8)" />
+    <Alias n="12" Id="(Name=&quot;_WaitForSingleObject@8&quot; @7 @8)" />
+    <Alias n="13" Id="(Name=&quot;_WaitForSingleObjectExImplementation@12&quot; @7 @8)" />
+    <Alias n="14" Uri="Assembly=user32.dll" />
+    <Alias n="15" Id="(Name=&quot;_DispatchMessageW@4&quot; @14 @8)" />
+    <Alias n="16" Id="(Name=&quot;_DispatchMessageWorker@8&quot; @14 @8)" />
+    <Alias n="17" Id="(Name=&quot;_InternalCallWinProc@20&quot; @14 @8)" />
+    <Alias n="18" Id="(Name=&quot;_MsgWaitForMultipleObjects@20&quot; @14 @8)" />
+    <Alias n="19" Id="(Name=&quot;_RealMsgWaitForMultipleObjectsEx@20&quot; @14 @8)" />
+    <Alias n="20" Id="(Name=&quot;_UserCallWinProcCheckWow@32&quot; @14 @8)" />
+    <Alias n="21" Uri="Assembly=KernelBase.dll" />
+    <Alias n="22" Id="(Name=&quot;_WaitForMultipleObjectsEx@20&quot; @21 @8)" />
+    <Alias n="23" Uri="Assembly=qasf.dll" />
+    <Alias n="24" Id="(Name=CBaseOutputPin::Deliver @23 @8)" />
+    <Alias n="25" Id="(Name=CMediaWrapperFilter::NewSample @23 @8)" />
+    <Alias n="26" Id="(Name=CMediaWrapperFilter::NewSampleInternal @23 @8)" />
+    <Alias n="27" Id="(Name=CMediaWrapperFilter::SuckOutOutput @23 @8)" />
+    <Alias n="28" Id="(Name=CWrapperInputPin::Receive @23 @8)" />
+    <Alias n="29" Uri="Assembly=ntdll.dll" />
+    <Alias n="30" Id="(Name=&quot;___RtlUserThreadStart@8&quot; @29 @8)" />
+    <Alias n="31" Id="(Name=&quot;_NtWaitForSingleObject@12&quot; @29 @8)" />
+    <Alias n="32" Id="(Name=&quot;_TppWaiterpThread@4&quot; @29 @8)" />
+    <Alias n="33" Id="(Name=&quot;_ZwWaitForMultipleObjects@20&quot; @29 @8)" />
+    <Alias n="34" Uri="Assembly=quartz.dll" />
+    <Alias n="35" Id="(Name=CAutoMsgMutex::CAutoMsgMutex @34 @8)" />
+    <Alias n="36" Id="(Name=CBaseMSRWorker::DoRunLoop @34 @8)" />
+    <Alias n="37" Id="(Name=CBaseMSRWorker::PushLoop @34 @8)" />
+    <Alias n="38" Id="(Name=CBaseMSRWorker::ThreadProc @34 @8)" />
+    <Alias n="39" Id="(Name=CBaseMSRWorker::TryDeliverSample @34 @8)" />
+    <Alias n="40" Id="(Name=CBaseOutputPin::Deliver @34 @8)" />
+    <Alias n="41" Id="(Name=CFGControl::CGraphWindow::OnReceiveMessage @34 @8)" />
+    <Alias n="42" Id="(Name=CFGControl::WorkerActivate @34 @8)" />
+    <Alias n="43" Id="(Name=CImageSync::Receive @34 @8)" />
+    <Alias n="44" Id="(Name=CImageSync::ReceiveWorker @34 @8)" />
+    <Alias n="45" Id="(Name=CImplMediaEvent::WaitForCompletion @34 @8)" />
+    <Alias n="46" Id="(Name=CMsgMutex::Lock @34 @8)" />
+    <Alias n="47" Id="(Name=CVMRInputPin::Receive @34 @8)" />
+    <Alias n="48" Id="(Name=ObjectThread @34 @8)" />
+    <Alias n="49" Id="(Name=VMR9::CImageSync::WaitForRenderTime @34 @8)" />
+    <Alias n="50" Id="(Name=WaitDispatchingMessages @34 @8)" />
+    <Alias n="51" Id="(Name=WndProc @34 @8)" />
+    <Alias n="52" Id="(@1 @5 Member=(Name=DisplayDeviceInformation OverloadingParameters=[(Type=&quot;IEnumMoniker *&quot;)]))" />
+    <Alias n="53" Id="(@1 @5 Member=(Name=getCaptureMoniker OverloadingParameters=[(Type=&quot;IMoniker * &amp;&quot;)]))" />
+    <Alias n="54" Id="(@1 @5 Member=(Name=previewTheCapture OverloadingParameters=[(Type=&quot;IGraphBuilder * * &amp;&quot;),(Type=&quot;IBaseFilter * &amp;&quot;)]))" />
+    <Alias n="55" Id="(@1 @5 Member=(Name=InitCaptureGraphBuilder OverloadingParameters=[(Type=&quot;IGraphBuilder * *&quot;),(Type=&quot;ICaptureGraphBuilder2 * *&quot;)]))" />
+    <Alias n="56" Id="(@1 @5 Member=(Name=EnumerateDevices OverloadingParameters=[(Type=&quot;_GUID const &amp;&quot;),(Type=&quot;IEnumMoniker * *&quot;)]))" />
+    <Alias n="57" Id="(@1 @5 Member=(Name=createADirectShowCaptureFilterForTheDevice OverloadingParameters=[(Type=&quot;IMoniker * &amp;&quot;),(Type=&quot;IGraphBuilder * &amp;&quot;)]))" />
+    <Alias n="58" Id="(@1 @3 Member=main)" />
+    <Alias n="59" Id="(@1 @3 Member=mainStopWait)" />
+    <Alias n="60" Id="(@1 @3 Member=mainTemp)" />
+    <Alias n="61" Id="(@1 @3 Member=mainTest)" />
+    <Alias n="62" Id="(@1 @3 Member=mainTestX)" />
+    <Alias n="63" Id="(@1 @5 Member=test)" />
+    <Alias n="64" Id="(@1 @5 Member=videoCapture_main)" />
+    <Alias n="65" Uri="Assembly=directShowUseOnly.exe" />
+    <Alias n="66" Id="Type=int" />
+    <Alias n="67" Id="(Name=__tmainCRTStartup @65 @66 @8)" />
+    <Alias n="68" Id="(Name=main @65 @66 @8)" />
+    <Alias n="69" Id="(Name=mainCRTStartup @65 @66 @8)" />
+    <Alias n="70" Id="Type=void" />
+    <Alias n="71" Id="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::persuade_playAFile::playAFile_demo @65 @70 @8)" />
+    <Alias n="72" Id="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::videoCapture_main @65 @70 @8)" />
+    <Alias n="73" Uri="Assembly=msvcr120d.dll" />
+    <Alias n="74" Id="(Name=system @73 @66 OverloadingParameters=[(Type=&quot;const char *&quot; Name=command)] @8)" />
+    <Alias n="75" Id="(Name=_unlock @73 @70 OverloadingParameters=[(@66 Name=locknum)] @8)" />
+    <Alias n="76" Id="(Name=_dospawn @73 @66 OverloadingParameters=[(@66 Name=mode),(Type=&quot;const char *&quot; Name=name),(Type=&quot;char *&quot; Name=cmdblk),(Type=&quot;char *&quot; Name=envblk)] @8)" />
+    <Alias n="77" Id="(Name=_spawnve @73 @66 OverloadingParameters=[(@66 Name=mode),(Type=&quot;const char *&quot; Name=name),(Type=&quot;const char * const *&quot; Name=argv),(Type=&quot;const char * const *&quot; Name=envp)] @8)" />
+    <Alias n="78" Id="(Name=comexecmd @73 @66 OverloadingParameters=[(@66 Name=mode),(Type=&quot;const char *&quot; Name=name),(Type=&quot;const char * const *&quot; Name=argv),(Type=&quot;const char * const *&quot; Name=envp)] @8)" />
   </IdentifierAliases>
   <Styles>
     <Style TargetType="Node" GroupLabel="类别 1" ValueLabel="具有类别">

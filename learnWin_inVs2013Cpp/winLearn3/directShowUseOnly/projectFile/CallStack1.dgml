@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DirectedGraph DataVirtualized="True" Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
   <Nodes>
-    <Node Id="(@1 @3 Member=mainPauseWait)" Category="CodeSchema_Method" Bounds="272.73479134,1420.06453774109,124.643391546667,25.8358567733335" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: mainPauseWait ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=:: Member=mainPauseWait))" IsUnreferenced="True" Label="mainPauseWait" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
-    <Node Id="(@1 @3 Member=mainPauseWith)" Category="CodeSchema_Method" Bounds="427.378182886667,1420.06453774109,125.39932576,25.8358567733335" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: mainPauseWith ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=:: Member=mainPauseWith))" IsUnreferenced="True" Label="mainPauseWith" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
-    <Node Id="(@1 @3 Member=mainStopHere)" Category="CodeSchema_Method" Bounds="286.338277073333,1475.90039451443,118.582597413333,25.8358567733333" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: mainStopHere ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=:: Member=mainStopHere))" IsUnreferenced="True" Label="mainStopHere" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
-    <Node Id="(@1 @3 Member=mainStopWith)" Category="CodeSchema_Method" Bounds="137.9754667,1475.90039451443,118.362810373333,25.8358567733333" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: mainStopWith ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=:: Member=mainStopWith))" IsUnreferenced="True" Label="mainStopWith" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 @3 Member=mainPauseWait)" Category="CodeSchema_Method" Bounds="137.9754667,1475.90039451443,124.643391546667,25.8358567733335" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: mainPauseWait ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=:: Member=mainPauseWait))" IsUnreferenced="True" Label="mainPauseWait" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 @3 Member=mainPauseWith)" Category="CodeSchema_Method" Bounds="292.618858246667,1475.90039451443,125.39932576,25.8358567733335" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: mainPauseWith ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=:: Member=mainPauseWith))" IsUnreferenced="True" Label="mainPauseWith" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 @3 Member=mainStopHere)" Category="CodeSchema_Method" Bounds="421.097601713333,1420.06453774109,118.582597413333,25.8358567733335" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: mainStopHere ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=:: Member=mainStopHere))" IsUnreferenced="True" Label="mainStopHere" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 @3 Member=mainStopWith)" Category="CodeSchema_Method" Bounds="272.73479134,1420.06453774109,118.362810373333,25.8358567733335" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: mainStopWith ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=:: Member=mainStopWith))" IsUnreferenced="True" Label="mainStopWith" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
     <Node Id="(@1 @3 Member=mainTempX)" Category="CodeSchema_Method" Bounds="137.9754667,1420.06453774109,104.75932464,25.8358567733335" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: mainTempX ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=:: Member=mainTempX))" IsUnreferenced="True" Label="mainTempX" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
     <Node Id="(@1 @5 Member=(Name=test_errorExample_201812241032 OverloadingParameters=[(Type=&quot;_GUID const &amp;&quot;),(Type=&quot;IEnumMoniker * *&quot;)]))" Category="CodeSchema_Method" Bounds="40,1870.91958462109,228.916666666667,25.8366666666666" CodeSchemaProperty_IsExternal="True" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: test_errorExample_201812241032 ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture Member=(Name=test_errorExample_201812241032 OverloadingParameters=[(Type=&quot;_GUID const &amp;&quot;),(Type=&quot;IEnumMoniker * *&quot;)])))" IsUnreferenced="True" Label="test_errorExample_201812241032" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
-    <Node Id="(@1 @5 Member=SelectingACaptureDevice)" Category="CodeSchema_Method" Bounds="340.78,1759.24625128776,180.783333333333,25.8366666666666" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: SelectingACaptureDevice ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture Member=SelectingACaptureDevice))" IsUnreferenced="True" Label="SelectingACaptureDevice" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
-    <Node Id="(@1 @5 Member=testX)" Category="CodeSchema_Method" Bounds="245.736666666667,1759.24625128776,65.0433333333331,25.8366666666666" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: testX ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture Member=testX))" IsUnreferenced="True" Label="testX" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 @5 Member=SelectingACaptureDevice)" Category="CodeSchema_Method" Bounds="245.736666666667,1759.24625128776,180.783333333333,25.836666666667" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: SelectingACaptureDevice ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture Member=SelectingACaptureDevice))" IsUnreferenced="True" Label="SelectingACaptureDevice" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="(@1 @5 Member=testX)" Category="CodeSchema_Method" Bounds="456.52,1759.24625128776,65.0433333333331,25.8366666666666" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: testX ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture Member=testX))" IsUnreferenced="True" Label="testX" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
     <Node Id="(@1 Namespace=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_playAFile)" Category="CodeSchema_Namespace" Bounds="496.026666666667,1946.75625128776,504.263333333332,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: aRottenGeneralNameThisX_thisNamespace‎::functionSets‎::procedure_playAFile ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_playAFile))" Group="Collapsed" IsUnreferenced="True" Label="aRottenGeneralNameThisX_thisNamespace‎::functionSets‎::procedure_playAFile" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
     <Node Id="(@1 Namespace=aRottenGeneralNameThisX_thisNamespace::sub::templateLearn)" Category="CodeSchema_Namespace" Bounds="776.696666666666,1268.40666666667,419.933333333332,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: aRottenGeneralNameThisX_thisNamespace‎::sub‎::templateLearn ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=aRottenGeneralNameThisX_thisNamespace::sub::templateLearn))" Group="Collapsed" IsUnreferenced="True" Label="aRottenGeneralNameThisX_thisNamespace‎::sub‎::templateLearn" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
     <Node Id="(@1 Namespace=aRottenGeneralNameThisX_thisNamespace::sub::templateLearn::abc)" Category="CodeSchema_Namespace" Bounds="20,1946.75625128776,446.026666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" ErrorMessage="检测到未引用的节点: aRottenGeneralNameThisX_thisNamespace‎::sub‎::templateLearn‎::abc ((Assembly=file:///G:/files/using/classified/githubLocalDir/theRotten/theRotten_temp_learnX/learnWin_inVs2013Cpp/winLearn3/directShowUseOnly/Debug/directShowUseOnly.exe Namespace=aRottenGeneralNameThisX_thisNamespace::sub::templateLearn::abc))" Group="Collapsed" IsUnreferenced="True" Label="aRottenGeneralNameThisX_thisNamespace‎::sub‎::templateLearn‎::abc" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
@@ -245,52 +245,52 @@
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
     </Node>
-    <Node Id="@95" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1385.63166666667,558.366666666666,109.15,25.8366666666666" ErrorMessage="找到的循环引用涉及:   WindowProc ((Name=WindowProc Assembly=directShowUseOnly.exe Type=long OverloadingParameters=[(Type=&quot;HWND__ *&quot; Name=hwnd),(Type=&quot;unsigned int&quot; Name=uMsg),(Type=&quot;unsigned int&quot; Name=wParam),(Type=long Name=lParam)] IsUnresolved=True))" IsStronglyConnected="True" Label="WindowProc" SourceLocation="(Assembly=file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn3/directshowuseonly/directshowuseonly/main/mainwholeinc/win32window/m.hpp StartLineNumber=64 StartCharacterOffset=0 EndLineNumber=64 EndCharacterOffset=0)">
+    <Node Id="@95" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1385.63166666667,558.366666666666,109.15,25.8366666666666" ErrorMessage="找到的循环引用涉及:   WindowProc ((Name=WindowProc Assembly=directShowUseOnly.exe Type=long OverloadingParameters=[(Type=&quot;HWND__ *&quot; Name=hwnd),(Type=&quot;unsigned int&quot; Name=uMsg),(Type=&quot;unsigned int&quot; Name=wParam),(Type=long Name=lParam)] IsUnresolved=True))" IsStronglyConnected="True" Label="WindowProc" SourceLocation="(Assembly=file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn3/directshowuseonly/directshowuseonly/main/mainwholeinc/win32window/m.hpp StartLineNumber=80 StartCharacterOffset=0 EndLineNumber=80 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
     </Node>
-    <Node Id="@96" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="602.6,279.183333333333,97.2133333333334,25.8366666666666" ErrorMessage="节点“wWinMain”具有中心值 3。" Hub="3" Label="wWinMain" SourceLocation="(Assembly=file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn3/directshowuseonly/directshowuseonly/main/mainwholeinc/win32window/m.hpp StartLineNumber=55 StartCharacterOffset=0 EndLineNumber=55 EndCharacterOffset=0)">
+    <Node Id="@96" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="602.6,279.183333333333,97.2133333333334,25.8366666666666" ErrorMessage="节点“wWinMain”具有中心值 3。" Hub="3" Label="wWinMain" SourceLocation="(Assembly=file:///g:/files/using/classified/githublocaldir/therotten/therotten_temp_learnx/learnwin_invs2013cpp/winlearn3/directshowuseonly/directshowuseonly/main/mainwholeinc/win32window/m.hpp StartLineNumber=71 StartCharacterOffset=0 EndLineNumber=71 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
     </Node>
   </Nodes>
   <Links>
-    <Link Source="(Name=&quot;__RtlUserThreadStart@8&quot; @42 @8)" Target="@43" Category="CallStackDirectCall" Bounds="565.206665039063,25.8366663869222,0,20.999999440511" />
-    <Link Source="@10" Target="@11" Category="CallStackDirectCall" Bounds="817.946779257317,975.05999593099,36.1097694105421,24.8919527598612" />
-    <Link Source="@11" Target="@35" Category="CallStackDirectCall" Bounds="890.849199039552,1030.89663533529,18.9923151195596,23.0536315387744" />
-    <Link Source="@12" Target="@13" Category="CallStackDirectCall" Bounds="164.247177325518,975.05999593099,23.2347187999147,23.5881566416558" />
-    <Link Source="@13" Target="@91" Category="CallStackDirectCall" Bounds="145.206665039063,1030.89663533529,0,20.9999727376301" />
-    <Link Source="@15" Target="@17" Category="CallStackDirectCall" Bounds="1487.64855074144,1142.56994466146,44.3162181366426,25.5100325597853" IsCircularLink="True" />
-    <Link Source="@16" Target="@24" Category="CallStackDirectCall" Bounds="1432.83468539936,640.03997639974,7.00180757056114,244.350375604103" IsCircularLink="True" />
-    <Link Source="@16" Target="@30" Category="CallStackDirectCall" Bounds="1343.23725688133,640.03997639974,65.2731829146651,26.6031910157396" IsCircularLink="True" />
-    <Link Source="@17" Target="@27" Category="CallStackDirectCall" Bounds="1562.20660509014,481.529997151693,5.81059241540061E-05,691.039950764974" IsCircularLink="True" />
-    <Link Source="@18" Target="@19" Category="CallStackDirectCall" Bounds="850.916084981026,360.856657307943,11.4329345592963,22.012999766408" />
-    <Link Source="@19" Target="@27" Category="CallStackDirectCall" Bounds="975.186665039063,412.039469366198,464.429409004688,37.6374334000091" />
+    <Link Source="(Name=&quot;__RtlUserThreadStart@8&quot; @42 @8)" Target="@43" Category="CallStackDirectCall" Bounds="565.206665039063,25.8366661071777,0,21" />
+    <Link Source="@10" Target="@11" Category="CallStackDirectCall" Bounds="817.94677734375,975.059997558594,36.1098022460938,24.8919677734375" />
+    <Link Source="@11" Target="@35" Category="CallStackDirectCall" Bounds="890.849182128906,1030.89660644531,18.9923706054688,23.0537109375" />
+    <Link Source="@12" Target="@13" Category="CallStackDirectCall" Bounds="164.247177124023,975.059997558594,23.2347259521484,23.5881958007813" />
+    <Link Source="@13" Target="@91" Category="CallStackDirectCall" Bounds="145.206665039063,1030.89660644531,0,21" />
+    <Link Source="@15" Target="@17" Category="CallStackDirectCall" Bounds="1487.64855957031,1142.56994628906,44.3162841796875,25.5101318359375" IsCircularLink="True" />
+    <Link Source="@16" Target="@24" Category="CallStackDirectCall" Bounds="1435.333984375,640.039978027344,4.8726806640625,244.437683105469" IsCircularLink="True" />
+    <Link Source="@16" Target="@30" Category="CallStackDirectCall" Bounds="1343.2373046875,640.039978027344,65.273193359375,26.6032104492188" IsCircularLink="True" />
+    <Link Source="@17" Target="@27" Category="CallStackDirectCall" Bounds="1562.20666503906,481.529998779297,0,691.039947509766" IsCircularLink="True" />
+    <Link Source="@18" Target="@19" Category="CallStackDirectCall" Bounds="850.916076660156,360.856658935547,11.4329223632813,22.0130004882813" />
+    <Link Source="@19" Target="@27" Category="CallStackDirectCall" Bounds="975.186645507813,412.039489746094,464.429443359375,37.6374206542969" />
     <Link Source="@2" Target="(@1 Namespace=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_playAFile)" Category="Contains" FetchingParent="@2" />
     <Link Source="@2" Target="(@1 Namespace=aRottenGeneralNameThisX_thisNamespace::sub::templateLearn)" Category="Contains" FetchingParent="@2" />
     <Link Source="@2" Target="(@1 Namespace=aRottenGeneralNameThisX_thisNamespace::sub::templateLearn::abc)" Category="Contains" FetchingParent="@2" />
     <Link Source="@2" Target="@4" Category="Contains" FetchingParent="@2" />
     <Link Source="@2" Target="@6" Category="Contains" FetchingParent="@2" />
-    <Link Source="@20" Target="(Name=&quot;_NtUserGetMessage@16&quot; @14 @8)" Category="CallStackDirectCall" Bounds="651.206665039063,360.856657307943,0,21.0000032552084" />
-    <Link Source="@21" Target="@65" Category="CallStackDirectCall" Bounds="1348.55285290606,528.366651814779,61.5770469150132,26.4481378310189" />
-    <Link Source="@21" Target="@95" Category="CallStackDirectCall" Bounds="1440.20663224602,528.366651814779,4.59102557215374E-05,20.9999879964408" IsCircularLink="True" />
-    <Link Source="@22" Target="@26" Category="CallStackDirectCall" Bounds="1054.44571881292,919.223326009115,5.33309892124498,21.2702238029981" />
-    <Link Source="@23" Target="@44" Category="CallStackDirectCall" Bounds="1418.82624211777,1030.89663533529,2.64143978217862,21.0698743750959" IsCircularLink="True" />
-    <Link Source="@24" Target="@25" Category="CallStackDirectCall" Bounds="1423.0120180516,919.223326009115,5.72429015536295,21.3081799230562" IsCircularLink="True" />
-    <Link Source="@25" Target="@23" Category="CallStackDirectCall" Bounds="1417.20663224602,975.05999593099,4.59102350305329E-05,20.9999727376518" IsCircularLink="True" />
-    <Link Source="@26" Target="@11" Category="CallStackDirectCall" Bounds="931.624269859735,975.05999593099,90.7808997425735,27.3994614255336" />
-    <Link Source="@26" Target="@47" Category="CallStackDirectCall" Bounds="1065.20666503906,975.05999593099,0,132.673282063802" />
-    <Link Source="@27" Target="@21" Category="CallStackDirectCall" Bounds="1476.61607724878,472.529997151693,57.3647303378812,26.2545330759655" IsCircularLink="True" />
-    <Link Source="@29" Target="@32" Category="CallStackDirectCall" Bounds="1307.60244498349,751.71331624349,7.30912171799264,21.4797739876324" IsCircularLink="True" />
-    <Link Source="@29" Target="@33" Category="CallStackDirectCall" Bounds="1174.97601503723,751.71331624349,87.048646202574,27.3062257966233" IsCircularLink="True" />
-    <Link Source="@30" Target="@29" Category="CallStackDirectCall" Bounds="1303.20662796287,695.876646321615,2.29551383199578E-05,21.0000032552135" IsCircularLink="True" />
-    <Link Source="@31" Target="@24" Category="CallStackDirectCall" Bounds="1347.6561561638,863.38665608724,51.0757357276282,25.9263257455071" IsCircularLink="True" />
-    <Link Source="@32" Target="@31" Category="CallStackDirectCall" Bounds="1322.20662796287,807.549986165365,2.29551380925841E-05,21.0000032552136" IsCircularLink="True" />
-    <Link Source="@33" Target="@31" Category="CallStackDirectCall" Bounds="1170.78443466169,807.549986165365,97.1854900207979,27.5457655266349" IsCircularLink="True" />
-    <Link Source="@35" Target="@47" Category="CallStackDirectCall" Bounds="958.36560889882,1086.73327473958,66.3307343529686,26.6452325161315" />
-    <Link Source="@37" Target="@61" Category="CallStackDirectCall" Bounds="648.633175931456,695.876646321615,31.0725803830642,24.4364706263393" />
-    <Link Source="@38" Target="@39" Category="CallStackDirectCall" Bounds="426.206668569326,528.366651814779,5.73878202203559E-06,20.9999879964197" />
-    <Link Source="@39" Target="@40" Category="CallStackDirectCall" Bounds="428.751629159368,584.203306477865,4.17049665154144,21.169724360615" />
+    <Link Source="@20" Target="(Name=&quot;_NtUserGetMessage@16&quot; @14 @8)" Category="CallStackDirectCall" Bounds="651.206665039063,360.856658935547,0,21" />
+    <Link Source="@21" Target="@65" Category="CallStackDirectCall" Bounds="1348.55285644531,528.366638183594,61.5771484375,26.4481811523438" />
+    <Link Source="@21" Target="@95" Category="CallStackDirectCall" Bounds="1440.20666503906,528.366638183594,0,21" IsCircularLink="True" />
+    <Link Source="@22" Target="@26" Category="CallStackDirectCall" Bounds="1054.44567871094,919.223327636719,5.3331298828125,21.2702026367188" />
+    <Link Source="@23" Target="@44" Category="CallStackDirectCall" Bounds="1418.826171875,1030.89660644531,2.6414794921875,21.0699462890625" IsCircularLink="True" />
+    <Link Source="@24" Target="@25" Category="CallStackDirectCall" Bounds="1423.01208496094,919.223327636719,5.7242431640625,21.3081665039063" IsCircularLink="True" />
+    <Link Source="@25" Target="@23" Category="CallStackDirectCall" Bounds="1417.20666503906,975.059997558594,0,21" IsCircularLink="True" />
+    <Link Source="@26" Target="@11" Category="CallStackDirectCall" Bounds="931.624267578125,975.059997558594,90.7809448242188,27.3994750976563" />
+    <Link Source="@26" Target="@47" Category="CallStackDirectCall" Bounds="1065.20666503906,975.059997558594,0,132.673278808594" />
+    <Link Source="@27" Target="@21" Category="CallStackDirectCall" Bounds="1476.61608886719,472.529998779297,57.36474609375,26.2545471191406" IsCircularLink="True" />
+    <Link Source="@29" Target="@32" Category="CallStackDirectCall" Bounds="1307.6025390625,751.713317871094,7.30908203125,21.4797973632813" IsCircularLink="True" />
+    <Link Source="@29" Target="@33" Category="CallStackDirectCall" Bounds="1174.97607421875,751.713317871094,87.048583984375,27.3062133789063" IsCircularLink="True" />
+    <Link Source="@30" Target="@29" Category="CallStackDirectCall" Bounds="1303.20666503906,695.876647949219,0,21" IsCircularLink="True" />
+    <Link Source="@31" Target="@24" Category="CallStackDirectCall" Bounds="1347.65625,863.386657714844,51.0755615234375,25.9263305664063" IsCircularLink="True" />
+    <Link Source="@32" Target="@31" Category="CallStackDirectCall" Bounds="1322.20666503906,807.549987792969,0,21" IsCircularLink="True" />
+    <Link Source="@33" Target="@31" Category="CallStackDirectCall" Bounds="1170.78442382813,807.549987792969,97.185546875,27.5457763671875" IsCircularLink="True" />
+    <Link Source="@35" Target="@47" Category="CallStackDirectCall" Bounds="958.365600585938,1086.73327636719,66.3306884765625,26.645263671875" />
+    <Link Source="@37" Target="@61" Category="CallStackDirectCall" Bounds="648.633178710938,695.876647949219,31.0725708007813,24.4364624023438" />
+    <Link Source="@38" Target="@39" Category="CallStackDirectCall" Bounds="426.206665039063,528.366638183594,0,21" />
+    <Link Source="@39" Target="@40" Category="CallStackDirectCall" Bounds="428.751617431641,584.203308105469,4.17050170898438,21.1697387695313" />
     <Link Source="@4" Target="(@1 @3 Member=mainPauseWait)" Category="Contains" FetchingParent="@4" />
     <Link Source="@4" Target="(@1 @3 Member=mainPauseWith)" Category="Contains" FetchingParent="@4" />
     <Link Source="@4" Target="(@1 @3 Member=mainStopHere)" Category="Contains" FetchingParent="@4" />
@@ -301,24 +301,24 @@
     <Link Source="@4" Target="@74" Category="Contains" FetchingParent="@4" />
     <Link Source="@4" Target="@75" Category="Contains" FetchingParent="@4" />
     <Link Source="@4" Target="@76" Category="Contains" FetchingParent="@4" />
-    <Link Source="@40" Target="@37" Category="CallStackDirectCall" Bounds="482.321730166059,640.03997639974,103.363849958591,29.5974008820107" />
-    <Link Source="@41" Target="@38" Category="CallStackDirectCall" Bounds="421.594821268473,472.529997151693,2.2621165186423,21.051503143182" />
-    <Link Source="@43" Target="@9" Category="CallStackDirectCall" Bounds="565.206668569326,81.6733324941,5.7387835568079E-06,20.9999975331627" />
-    <Link Source="@44" Target="@15" Category="CallStackDirectCall" Bounds="1433.69245771631,1086.73327473958,16.7017778078337,22.7456501113293" IsCircularLink="True" />
-    <Link Source="@45" Target="@45" Category="CallStackDirectCall" Bounds="95.1350021362305,1086.73327636719,100.137535095215,30" />
-    <Link Source="@46" Target="@47" Category="CallStackDirectCall" Bounds="405.473331705729,1080.13909470206,540.271905878664,40.5470216083456" />
-    <Link Source="@47" Target="@47" Category="CallStackDirectCall" Bounds="1009.96331787109,1086.73327636719,110.480285644531,30" />
-    <Link Source="@49" Target="@60" Category="CallStackDirectCall" Bounds="989.255150881365,751.71331624349,4.94384314923059,21.2344413899318" />
-    <Link Source="@50" Target="@51" Category="CallStackDirectCall" Bounds="407.908426712682,249.183332722982,6.11731899496846,21.3481846208397" />
-    <Link Source="@51" Target="@53" Category="CallStackDirectCall" Bounds="420.206665039063,305.019987386068,5.6843418860808E-14,21.0000032552084" />
-    <Link Source="@52" Target="@50" Category="CallStackDirectCall" Bounds="403.438039606195,193.346662801107,0.376122829201393,21.0014462641993" />
-    <Link Source="@53" Target="@54" Category="CallStackDirectCall" Bounds="420.206665039063,360.856657307943,5.6843418860808E-14,21.0000032552083" />
-    <Link Source="@54" Target="@41" Category="CallStackDirectCall" Bounds="420.206665039063,416.693327229818,5.6843418860808E-14,21.0000032552082" />
-    <Link Source="@55" Target="@56" Category="CallStackDirectCall" Bounds="1146.15256571626,640.03997639974,69.5069996129826,26.7657889286206" />
-    <Link Source="@56" Target="@49" Category="CallStackDirectCall" Bounds="1029.94105098274,695.876646321615,49.5101680635591,25.8362888966496" />
-    <Link Source="@57" Target="@58" Category="CallStackDirectCall" Bounds="725.417158640045,807.549986165365,43.7992481550799,25.4750433548072" />
-    <Link Source="@58" Target="@63" Category="CallStackDirectCall" Bounds="799.206665039063,863.38665608724,0,21.0000032552084" />
-    <Link Source="@59" Target="@64" Category="CallStackDirectCall" Bounds="879.671530973788,807.549986165365,64.7446493811768,26.5818060051787" />
+    <Link Source="@40" Target="@37" Category="CallStackDirectCall" Bounds="482.321746826172,640.039978027344,103.363861083984,29.597412109375" />
+    <Link Source="@41" Target="@38" Category="CallStackDirectCall" Bounds="421.594818115234,472.529998779297,2.26211547851563,21.051513671875" />
+    <Link Source="@43" Target="@9" Category="CallStackDirectCall" Bounds="565.206665039063,81.6733322143555,0,21" />
+    <Link Source="@44" Target="@15" Category="CallStackDirectCall" Bounds="1433.6923828125,1086.73327636719,16.7017822265625,22.7457275390625" IsCircularLink="True" />
+    <Link Source="@45" Target="@45" Category="CallStackDirectCall" Bounds="1.56333339214325,1123.51013183594,43.4999982118607,11.992431640625" />
+    <Link Source="@46" Target="@47" Category="CallStackDirectCall" Bounds="405.473327636719,1080.13916015625,540.271911621094,40.5469970703125" />
+    <Link Source="@47" Target="@47" Category="CallStackDirectCall" Bounds="911.219970703125,1123.5908203125,43.5,11.814208984375" />
+    <Link Source="@49" Target="@60" Category="CallStackDirectCall" Bounds="989.255126953125,751.713317871094,4.94384765625,21.2344360351563" />
+    <Link Source="@50" Target="@51" Category="CallStackDirectCall" Bounds="407.908416748047,249.183334350586,6.11734008789063,21.3481903076172" />
+    <Link Source="@51" Target="@53" Category="CallStackDirectCall" Bounds="420.206665039063,305.019989013672,0,21" />
+    <Link Source="@52" Target="@50" Category="CallStackDirectCall" Bounds="403.438018798828,193.346664428711,0.376129150390625,21.0014495849609" />
+    <Link Source="@53" Target="@54" Category="CallStackDirectCall" Bounds="420.206665039063,360.856658935547,0,21" />
+    <Link Source="@54" Target="@41" Category="CallStackDirectCall" Bounds="420.206665039063,416.693328857422,0,21" />
+    <Link Source="@55" Target="@56" Category="CallStackDirectCall" Bounds="1146.15258789063,640.039978027344,69.5069580078125,26.7658081054688" />
+    <Link Source="@56" Target="@49" Category="CallStackDirectCall" Bounds="1029.94104003906,695.876647949219,49.5101318359375,25.8363037109375" />
+    <Link Source="@57" Target="@58" Category="CallStackDirectCall" Bounds="725.417175292969,807.549987792969,43.7992553710938,25.4750366210938" />
+    <Link Source="@58" Target="@63" Category="CallStackDirectCall" Bounds="799.206665039063,863.386657714844,0,21" />
+    <Link Source="@59" Target="@64" Category="CallStackDirectCall" Bounds="879.671508789063,807.549987792969,64.7446899414063,26.581787109375" />
     <Link Source="@6" Target="(@1 @5 Member=(Name=test_errorExample_201812241032 OverloadingParameters=[(Type=&quot;_GUID const &amp;&quot;),(Type=&quot;IEnumMoniker * *&quot;)]))" Category="Contains" FetchingParent="@6" />
     <Link Source="@6" Target="(@1 @5 Member=SelectingACaptureDevice)" Category="Contains" FetchingParent="@6" />
     <Link Source="@6" Target="(@1 @5 Member=testX)" Category="Contains" FetchingParent="@6" />
@@ -330,13 +330,13 @@
     <Link Source="@6" Target="@71" Category="Contains" FetchingParent="@6" />
     <Link Source="@6" Target="@77" Category="Contains" FetchingParent="@6" />
     <Link Source="@6" Target="@78" Category="Contains" FetchingParent="@6" />
-    <Link Source="@60" Target="@64" Category="CallStackDirectCall" Bounds="984.206665039062,807.549986165365,1.13686837721616E-13,21.0000032552084" />
-    <Link Source="@61" Target="@57" Category="CallStackDirectCall" Bounds="703.206665039063,751.71331624349,0,21.0000032552084" />
-    <Link Source="@62" Target="@18" Category="CallStackDirectCall" Bounds="838.826180197467,305.019987386068,2.64144215488557,21.0699048171525" />
-    <Link Source="@63" Target="@10" Category="CallStackDirectCall" Bounds="799.206665039063,919.223326009115,0,21.0000032552084" />
-    <Link Source="@64" Target="@10" Category="CallStackDirectCall" Bounds="830.014221191406,863.386657714844,134.892333984375,81.4239501953125" />
-    <Link Source="@64" Target="@22" Category="CallStackDirectCall" Bounds="999.707745758608,863.38665608724,29.084045605763,24.2381420118261" />
-    <Link Source="@65" Target="@55" Category="CallStackDirectCall" Bounds="1269.95830507967,584.203306477865,26.1354421504341,23.9232140428861" />
+    <Link Source="@60" Target="@64" Category="CallStackDirectCall" Bounds="984.206665039063,807.549987792969,0,21" />
+    <Link Source="@61" Target="@57" Category="CallStackDirectCall" Bounds="703.206665039063,751.713317871094,0,21" />
+    <Link Source="@62" Target="@18" Category="CallStackDirectCall" Bounds="838.826171875,305.019989013672,2.6414794921875,21.0699157714844" />
+    <Link Source="@63" Target="@10" Category="CallStackDirectCall" Bounds="799.206665039063,919.223327636719,0,21" />
+    <Link Source="@64" Target="@10" Category="CallStackDirectCall" Bounds="831.693542480469,863.386657714844,134.235717773438,81.6422119140625" />
+    <Link Source="@64" Target="@22" Category="CallStackDirectCall" Bounds="999.707763671875,863.386657714844,29.083984375,24.2381591796875" />
+    <Link Source="@65" Target="@55" Category="CallStackDirectCall" Bounds="1269.95825195313,584.203308105469,26.135498046875,23.9232177734375" />
     <Link Source="@67" Target="@70" Category="CodeSchema_Calls" Bounds="324.926666259766,1673.40954589844,0,21" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
     <Link Source="@68" Target="@69" Category="CodeSchema_Calls" Bounds="127.86833190918,1785.08288574219,0,21" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
     <Link Source="@72" Target="@73" Category="CodeSchema_Calls" Bounds="263.179443359375,1328.208984375,162.382537841797,34.7342529296875" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
@@ -348,31 +348,31 @@
     <Link Source="@77" Target="@71" Category="CodeSchema_Calls" Bounds="577.926696777344,1617.57287597656,0,21" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
     <Link Source="@78" Target="@66" Category="CodeSchema_Calls" Bounds="137.732040405273,1673.40954589844,5.7242431640625,21.3082275390625" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
     <Link Source="@78" Target="@70" Category="CodeSchema_Calls" Bounds="188.108627319336,1673.40954589844,87.0486602783203,27.3062744140625" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
-    <Link Source="@81" Target="@82" Category="CallStackDirectCall" Bounds="532.579463803421,249.183317464193,25.8174584186233,411.87429139107" />
-    <Link Source="@81" Target="@96" Category="CallStackDirectCall" Bounds="580.491726074672,249.183317464193,41.7360166385088,25.3304493960246" />
-    <Link Source="@82" Target="@86" Category="CallStackDirectCall" Bounds="563.438354492188,690.809875488281,201.626708984375,36.1444702148438" />
-    <Link Source="@82" Target="@87" Category="CallStackDirectCall" Bounds="511.064795608885,695.876646321615,17.2498780758826,77.0540598652517" />
-    <Link Source="@82" Target="@88" Category="CallStackDirectCall" Bounds="543.700067689615,695.876646321615,22.756525413436,23.5305295940516" />
-    <Link Source="@82" Target="@90" Category="CallStackDirectCall" Bounds="466.692259164871,695.876646321615,42.7666308898957,25.4036835390401" />
-    <Link Source="@83" Target="@81" Category="CallStackDirectCall" Bounds="609.918256575297,193.346647542318,89.1810413325508,27.3602854433511" />
-    <Link Source="@84" Target="@81" Category="CallStackDirectCall" Bounds="561.556407549799,193.346662801107,2.26211651864242,21.051503143182" />
-    <Link Source="@86" Target="@59" Category="CallStackDirectCall" Bounds="839.751640887894,751.71331624349,4.17049077622266,21.1697239029884" />
-    <Link Source="@87" Target="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::DisplayDeviceInformation @79 @85 OverloadingParameters=[(Type=&quot;IEnumMoniker *&quot; Name=pEnum)] @8)" Category="CallStackDirectCall" Bounds="531.656196017381,807.549986165365,51.075687906493,25.9263230496269" />
-    <Link Source="@87" Target="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::EnumerateDevices @79 Type=HRESULT OverloadingParameters=[(Type=&quot;const _GUID &amp;&quot; Name=category),(Type=&quot;IEnumMoniker * *&quot; Name=ppEnum)] @8)" Category="CallStackDirectCall" Bounds="449.876973861108,807.549986165365,37.1268685854384,24.9763940534693" />
-    <Link Source="@88" Target="@87" Category="CallStackDirectCall" Bounds="531.833605591312,751.71331624349,35.0956740886087,24.8053869591311" />
-    <Link Source="@9" Target="@46" Category="CallStackDirectCall" Bounds="321.765258789063,137.509994506836,207.512329101563,914.389541625977" />
-    <Link Source="@9" Target="@52" Category="CallStackDirectCall" Bounds="449.195658751267,137.509996693929,78.5308110343206,27.0672757706742" />
-    <Link Source="@9" Target="@62" Category="CallStackDirectCall" Bounds="601.1357421875,137.509994506836,202.923156738281,137.556869506836" />
-    <Link Source="@9" Target="@83" Category="CallStackDirectCall" Bounds="605.925936006047,137.509996693929,85.9828743367738,27.2783824832286" />
-    <Link Source="@9" Target="@84" Category="CallStackDirectCall" Bounds="565.206680297852,137.509996693929,0,20.999999440511" />
-    <Link Source="@90" Target="@93" Category="CallStackDirectCall" Bounds="296.648791811816,749.734054632612,102.746863985685,29.7256099993601" />
-    <Link Source="@91" Target="@45" Category="CallStackDirectCall" Bounds="145.206665039063,1086.73327473958,0,21.0000032552082" />
-    <Link Source="@92" Target="@12" Category="CallStackDirectCall" Bounds="213.73836377796,919.223326009115,14.9080068523904,22.4976610218912" />
-    <Link Source="@93" Target="@94" Category="CallStackDirectCall" Bounds="239.945707725772,807.549986165365,2.64144215488551,21.0699048171525" />
-    <Link Source="@94" Target="@92" Category="CallStackDirectCall" Bounds="237.206665039063,863.38665608724,0,21.0000032552084" />
-    <Link Source="@95" Target="@16" Category="CallStackDirectCall" Bounds="1440.20668899803,584.203306477865,2.29551383199578E-05,21.0000032552139" IsCircularLink="True" />
-    <Link Source="@96" Target="@18" Category="CallStackDirectCall" Bounds="695.85898809232,305.019987386068,95.0498651054655,27.4987932892024" />
-    <Link Source="@96" Target="@20" Category="CallStackDirectCall" Bounds="651.20664158201,305.019987386068,1.1477569046292E-05,21.0000032552097" />
+    <Link Source="@81" Target="@82" Category="CallStackDirectCall" Bounds="531.206665039063,249.183334350586,21.5219116210938,411.856643676758" />
+    <Link Source="@81" Target="@96" Category="CallStackDirectCall" Bounds="580.49169921875,249.183334350586,41.736083984375,25.3304595947266" />
+    <Link Source="@82" Target="@86" Category="CallStackDirectCall" Bounds="563.438354492188,691.430419921875,201.605651855469,35.6768798828125" />
+    <Link Source="@82" Target="@87" Category="CallStackDirectCall" Bounds="506.206665039063,695.876647949219,19.2160034179688,76.836669921875" />
+    <Link Source="@82" Target="@88" Category="CallStackDirectCall" Bounds="543.700073242188,695.876647949219,22.7565307617188,23.530517578125" />
+    <Link Source="@82" Target="@90" Category="CallStackDirectCall" Bounds="466.692260742188,695.876647949219,42.7666320800781,25.4036865234375" />
+    <Link Source="@83" Target="@81" Category="CallStackDirectCall" Bounds="609.918212890625,193.346664428711,89.1810302734375,27.3602905273438" />
+    <Link Source="@84" Target="@81" Category="CallStackDirectCall" Bounds="561.556396484375,193.346664428711,2.2620849609375,21.051513671875" />
+    <Link Source="@86" Target="@59" Category="CallStackDirectCall" Bounds="839.751647949219,751.713317871094,4.17047119140625,21.1697387695313" />
+    <Link Source="@87" Target="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::DisplayDeviceInformation @79 @85 OverloadingParameters=[(Type=&quot;IEnumMoniker *&quot; Name=pEnum)] @8)" Category="CallStackDirectCall" Bounds="531.656188964844,807.549987792969,51.07568359375,25.9263305664063" />
+    <Link Source="@87" Target="(Name=aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::EnumerateDevices @79 Type=HRESULT OverloadingParameters=[(Type=&quot;const _GUID &amp;&quot; Name=category),(Type=&quot;IEnumMoniker * *&quot; Name=ppEnum)] @8)" Category="CallStackDirectCall" Bounds="449.876983642578,807.549987792969,37.1268615722656,24.9763793945313" />
+    <Link Source="@88" Target="@87" Category="CallStackDirectCall" Bounds="531.833618164063,751.713317871094,35.0956420898438,24.805419921875" />
+    <Link Source="@9" Target="@46" Category="CallStackDirectCall" Bounds="321.206665039063,137.509994506836,165.641754150391,914.386611938477" />
+    <Link Source="@9" Target="@52" Category="CallStackDirectCall" Bounds="449.195648193359,137.509994506836,78.5307922363281,27.0672760009766" />
+    <Link Source="@9" Target="@62" Category="CallStackDirectCall" Bounds="655.639221191406,137.509994506836,181.567443847656,132.673324584961" />
+    <Link Source="@9" Target="@83" Category="CallStackDirectCall" Bounds="605.925903320313,137.509994506836,85.98291015625,27.2783966064453" />
+    <Link Source="@9" Target="@84" Category="CallStackDirectCall" Bounds="565.206665039063,137.509994506836,0,21" />
+    <Link Source="@90" Target="@93" Category="CallStackDirectCall" Bounds="296.648803710938,749.734069824219,102.746856689453,29.7255859375" />
+    <Link Source="@91" Target="@45" Category="CallStackDirectCall" Bounds="145.206665039063,1086.73327636719,0,21" />
+    <Link Source="@92" Target="@12" Category="CallStackDirectCall" Bounds="213.738372802734,919.223327636719,14.9080047607422,22.4976806640625" />
+    <Link Source="@93" Target="@94" Category="CallStackDirectCall" Bounds="239.945709228516,807.549987792969,2.64144897460938,21.0698852539063" />
+    <Link Source="@94" Target="@92" Category="CallStackDirectCall" Bounds="237.206665039063,863.386657714844,0,21" />
+    <Link Source="@95" Target="@16" Category="CallStackDirectCall" Bounds="1440.20666503906,584.203308105469,0,21" IsCircularLink="True" />
+    <Link Source="@96" Target="@18" Category="CallStackDirectCall" Bounds="695.859008789063,305.019989013672,95.0498657226563,27.4988098144531" />
+    <Link Source="@96" Target="@20" Category="CallStackDirectCall" Bounds="651.206665039063,305.019989013672,0,21" />
   </Links>
   <Categories>
     <Category Id="CallStackDirectCall" Label="调用堆栈直接调用" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="调用堆栈直接调用" OutgoingActionLabel="调用堆栈直接调用" />

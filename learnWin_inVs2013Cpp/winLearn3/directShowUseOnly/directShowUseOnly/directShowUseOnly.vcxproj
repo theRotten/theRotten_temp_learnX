@@ -123,7 +123,7 @@
     <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helperF_include.hpp" />
     <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helperF_namespace_include.hpp" />
     <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helperFunction_namespace.hpp" />
-    <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helper_include.hpp" />
+    <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_hp_include.hpp" />
     <ClInclude Include="架构Demo结构\header\thirdParty_procedureNeedUses\xxxxUse\useXX\demoXX.hpp" />
     <ClInclude Include="架构Demo结构\header\thirdParty_procedureNeedUses\xxxxUse\XXXXUseProcedure_all_include.hpp" />
     <ClInclude Include="架构Demo结构\header\thirdParty_useNeeds\useXX\useXX_needsInclude.hpp" />

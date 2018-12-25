@@ -13,6 +13,13 @@ namespace aRottenGeneralNameThisX_thisNamespace
 	{
 		namespace demoNameXXX
 		{
+			void demoName_main(void);
+
+			void test(void);
+			void testX(void);
+
+			//功能函数或类等内容 contents：
+
 
 		}
 

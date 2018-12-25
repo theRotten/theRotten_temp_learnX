@@ -13,6 +13,7 @@ namespace aRottenGeneralNameThisX_thisNamespace
 	{
 		namespace demoNameXXX_helperFunction
 		{
+			//助手函数或助手类等内容 helperFunctions:
 
 		}
 	}

@@ -13,6 +13,7 @@ namespace aRottenGeneralNameThisX_thisNamespace
 	{
 		namespace demoNameXXX_helper
 		{
+			//¼ÇÂ¼ÄÚÈÝ recordsOrRecordingThings:
 
 		}
 	}

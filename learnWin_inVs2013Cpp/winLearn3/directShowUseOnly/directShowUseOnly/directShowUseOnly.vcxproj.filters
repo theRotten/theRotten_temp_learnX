@@ -337,6 +337,9 @@
     <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\main\bare">
       <UniqueIdentifier>{8af495e6-fc26-45f7-8966-4a7828353bd5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\main\blank">
+      <UniqueIdentifier>{7d8c2a3b-3536-4235-a937-888e2ed41830}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="source\sub\useDirectShow\useDirectShow.cpp">
@@ -557,10 +560,16 @@
     <ClInclude Include="main\mainWholeInc\test\mainWholeInc_testMain.hpp">
       <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\main\test</Filter>
     </ClInclude>
-    <ClInclude Include="main\mainWholeInc\win32window\mainWholeInc_win32window.hpp">
+    <ClInclude Include="main\mainWholeInc\win32window\win32windowMain.hpp">
       <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\main\win32window</Filter>
     </ClInclude>
-    <ClInclude Include="main\mainWholeInc\win32window\win32windowMain.hpp">
+    <ClInclude Include="main\mainWholeInc\blank\blankMain.hpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\main\blank</Filter>
+    </ClInclude>
+    <ClInclude Include="main\mainWholeInc\blank\mainWholeInc_blankMain.hpp">
+      <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\main\blank</Filter>
+    </ClInclude>
+    <ClInclude Include="main\mainWholeInc\win32window\m.hpp">
       <Filter>筛选器式管理方法\筛选器管理方法版本 v0.2.1.1 方式描述：基于产生（源）与归属\main\win32window</Filter>
     </ClInclude>
   </ItemGroup>

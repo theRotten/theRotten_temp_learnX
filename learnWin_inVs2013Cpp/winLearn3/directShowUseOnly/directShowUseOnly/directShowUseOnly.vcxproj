@@ -99,7 +99,7 @@
     <ClInclude Include="main\mainWholeInc\test\testMain.hpp" />
     <ClInclude Include="main\mainWholeInc\test\mainWholeInc_testMain.hpp" />
     <ClInclude Include="main\mainWholeInc\win32window\win32windowMain.hpp" />
-    <ClInclude Include="main\mainWholeInc\win32window\mainWholeInc_win32window.hpp" />
+    <ClInclude Include="main\mainWholeInc\win32window\m.hpp" />
     <ClInclude Include="main\main_include.hpp" />
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_include.hpp" />
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_namespace_include.hpp" />
@@ -124,6 +124,8 @@
     <ClInclude Include="source\functionSets\procedure_videoCapture\videoCapture_namespace_useThis.hpp" />
     <ClInclude Include="source\functionSets\procedure_videoCapture\videoCapture_thirdPartyUse_include.hpp" />
     <ClInclude Include="source\functionSets\procedure_videoCapture\thirdPartyUse_include\xxxx_use\dNX_wTUX_tDS.hpp" />
+    <ClInclude Include="main\mainWholeInc\blank\mainWholeInc_blankMain.hpp" />
+    <ClInclude Include="main\mainWholeInc\blank\blankMain.hpp" />
     <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helper_namespace_useThis.hpp" />
     <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helperF_namespace_useThis.hpp" />
     <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helperF_include.hpp" />

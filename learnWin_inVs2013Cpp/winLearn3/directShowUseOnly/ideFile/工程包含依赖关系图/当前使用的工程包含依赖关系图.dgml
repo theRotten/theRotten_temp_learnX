@@ -56,7 +56,7 @@
     <Node Id="@195" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\processthreadsapi.h" Label="processthreadsapi.h" />
     <Node Id="@197" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\fibersapi.h" Label="fibersapi.h" />
     <Node Id="@199" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\systemtopologyapi.h" Label="systemtopologyapi.h" />
-    <Node Id="@2" Category="CodeSchema_PoundIncludeFile" Bounds="-2.27373675443232E-13,0,4095.96916685936,3549.55485702388" FilePath="$(VsSolution)\directshowuseonly\directshowuseonly.vcxproj" Group="Expanded" Label="目前当前的这个工程" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@2" Category="CodeSchema_PoundIncludeFile" Bounds="0,0,4219.59416685936,3549.55485702388" FilePath="$(VsSolution)\directshowuseonly\directshowuseonly.vcxproj" Group="Expanded" Label="目前当前的这个工程" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
     <Node Id="@201" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\processtopologyapi.h" Label="processtopologyapi.h" />
     <Node Id="@203" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\memoryapi.h" Label="memoryapi.h" />
     <Node Id="@205" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\use_ansi.h" Label="use_ansi.h" />
@@ -204,105 +204,107 @@
     <Node Id="@463" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\cstdio" Label="cstdio" />
     <Node Id="@465" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\cerrno" Label="cerrno" />
     <Node Id="@467" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\xrefwrap" Label="xrefwrap" />
-    <Node Id="@469" Category="CodeSchema_ProjectItem" Bounds="2837.57850005781,417.91333352603,119.684666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\main_sub.cpp" Label="main_sub.cpp" />
+    <Node Id="@469" Category="CodeSchema_ProjectItem" Bounds="2882.53100005781,417.913333526031,119.684666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\main_sub.cpp" Label="main_sub.cpp" />
     <Node Id="@47" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\xatomic.h" Label="xatomic.h" />
-    <Node Id="@471" Category="CodeSchema_ProjectItem" Bounds="3607.29116678228,1656.99241733569,113.061333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile.cpp" Label="playafile.cpp" />
-    <Node Id="@473" Category="CodeSchema_ProjectItem" Bounds="3111.59650003854,1656.99241733569,140.411333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture.cpp" Label="videocapture.cpp" />
+    <Node Id="@471" Category="CodeSchema_ProjectItem" Bounds="3730.91616678228,1037.98358436005,113.061333410413,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile.cpp" Label="playafile.cpp" />
+    <Node Id="@473" Category="CodeSchema_ProjectItem" Bounds="3111.97150003854,1656.99241733569,140.411333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture.cpp" Label="videocapture.cpp" />
     <Node Id="@475" Category="CodeSchema_ProjectItem" Bounds="858.194666743746,1945.31066805409,109.878000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usecom\usecom.cpp" Label="usecom.cpp" />
-    <Node Id="@477" Category="CodeSchema_ProjectItem" Bounds="2941.57350005781,160,93.6946667437455,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\main.cpp" Label="main.cpp" />
-    <Node Id="@479" Category="CodeSchema_ProjectItem" Bounds="2645.85650003854,1656.99241733569,229.891333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture_helperfunction.cpp" Label="videocapture_helperfunction.cpp" />
-    <Node Id="@481" Category="CodeSchema_ProjectItem" Bounds="3136.85650003854,1165.49041702737,238.401333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx_helperfunction.cpp" Label="demonamexxx_helperfunction.cpp" />
+    <Node Id="@477" Category="CodeSchema_ProjectItem" Bounds="2986.52600005781,160,93.694666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\main.cpp" Label="main.cpp" />
+    <Node Id="@479" Category="CodeSchema_ProjectItem" Bounds="2646.23150003854,1656.99241733569,229.891333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture_helperfunction.cpp" Label="videocapture_helperfunction.cpp" />
+    <Node Id="@481" Category="CodeSchema_ProjectItem" Bounds="3137.23150003854,1165.49041702737,238.401333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx_helperfunction.cpp" Label="demonamexxx_helperfunction.cpp" />
     <Node Id="@483" Category="CodeSchema_ProjectItem" Bounds="120,1525.32066766869,238.401333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_helperfunction.cpp" Label="demonamexxx_helperfunction.cpp" />
     <Node Id="@485" Category="CodeSchema_ProjectItem" Bounds="124.215,1945.31066805409,145.138000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\templatelearn\templatelearn.cpp" Label="templatelearn.cpp" />
-    <Node Id="@487" Category="CodeSchema_ProjectItem" Bounds="556.5225,1017.49800046247,169.354666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_hp.cpp" Label="demonamexxx_hp.cpp" />
-    <Node Id="@489" Category="CodeSchema_ProjectItem" Bounds="2906.45483337187,1656.99241733569,174.694666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture_parts.cpp" Label="videocapture_parts.cpp" />
+    <Node Id="@487" Category="CodeSchema_ProjectItem" Bounds="556.5225,1017.49800046247,169.354666743746,25.9980000770788" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_hp.cpp" Label="demonamexxx_hp.cpp" />
+    <Node Id="@489" Category="CodeSchema_ProjectItem" Bounds="2906.82983337187,1656.99241733569,174.694666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture_parts.cpp" Label="videocapture_parts.cpp" />
     <Node Id="@49" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\shared\wnnc.h" Label="wnnc.h" />
-    <Node Id="@491" Category="CodeSchema_ProjectItem" Bounds="2923.45483337187,1165.49041702737,183.204666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx_parts.cpp" Label="demonamexxx_parts.cpp" />
-    <Node Id="@493" Category="CodeSchema_ProjectItem" Bounds="551.274166666666,1641.31866774577,183.204666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_parts.cpp" Label="demonamexxx_parts.cpp" />
+    <Node Id="@491" Category="CodeSchema_ProjectItem" Bounds="2923.82983337187,1165.49041702737,183.204666743745,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx_parts.cpp" Label="demonamexxx_parts.cpp" />
+    <Node Id="@493" Category="CodeSchema_ProjectItem" Bounds="551.274166666667,1641.31866774577,183.204666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_parts.cpp" Label="demonamexxx_parts.cpp" />
     <Node Id="@495" Category="CodeSchema_ProjectItem" Bounds="1344.57100015416,1945.31066805409,147.784666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow.cpp" Label="usedirectshow.cpp" />
-    <Node Id="@497" Category="CodeSchema_ProjectItem" Bounds="2743.59650003854,1165.49041702737,148.921333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx.cpp" Label="demonamexxx.cpp" />
+    <Node Id="@497" Category="CodeSchema_ProjectItem" Bounds="2743.97150003854,1165.49041702737,148.921333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx.cpp" Label="demonamexxx.cpp" />
     <Node Id="@499" Category="CodeSchema_ProjectItem" Bounds="765.415833333333,1641.31866774577,148.921333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx.cpp" Label="demonamexxx.cpp" />
     <Node Id="@5" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\xmemory0" Label="xmemory0" />
     <Node Id="@501" Category="CodeSchema_ProjectItem" Bounds="509.775833333333,1185.49200069371,262.848000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_hp_namespace_inc.hpp" Label="demonamexxx_hp_namespace_inc.hpp" />
-    <Node Id="@503" Category="CodeSchema_ProjectItem" Bounds="544.844166666666,1073.49600053955,192.711333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_hp_inc.hpp" Label="demonamexxx_hp_inc.hpp" />
-    <Node Id="@505" Category="CodeSchema_ProjectItem" Bounds="2615.84150003854,1768.98841748984,211.921333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture_namespace.hpp" Label="videocapture_namespace.hpp" />
-    <Node Id="@507" Category="CodeSchema_ProjectItem" Bounds="429.126666666666,1357.48800084787,309.911333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_helperfunction_namespace.hpp" Label="demonamexxx_helperfunction_namespace.hpp" />
-    <Node Id="@509" Category="CodeSchema_ProjectItem" Bounds="510.069166666666,1129.49400061663,262.261333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_helper_namespace.hpp" Label="demonamexxx_helper_namespace.hpp" />
+    <Node Id="@503" Category="CodeSchema_ProjectItem" Bounds="544.844166666667,1073.49600053955,192.711333410412,25.9980000770788" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_hp_inc.hpp" Label="demonamexxx_hp_inc.hpp" />
+    <Node Id="@505" Category="CodeSchema_ProjectItem" Bounds="2616.21650003854,1768.98841748985,211.921333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture_namespace.hpp" Label="videocapture_namespace.hpp" />
+    <Node Id="@507" Category="CodeSchema_ProjectItem" Bounds="429.126666666667,1357.48800084787,309.911333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_helperfunction_namespace.hpp" Label="demonamexxx_helperfunction_namespace.hpp" />
+    <Node Id="@509" Category="CodeSchema_ProjectItem" Bounds="510.069166666667,1129.49400061663,262.261333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_helper_namespace.hpp" Label="demonamexxx_helper_namespace.hpp" />
     <Node Id="@51" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\shared\rpcasync.h" Label="rpcasync.h" />
-    <Node Id="@511" Category="CodeSchema_ProjectItem" Bounds="2624.84150003854,1277.48641718153,220.431333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx_namespace.hpp" Label="demonamexxx_namespace.hpp" />
-    <Node Id="@513" Category="CodeSchema_ProjectItem" Bounds="794.660833333333,1753.31466789993,220.431333410413,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_namespace.hpp" Label="demonamexxx_namespace.hpp" />
-    <Node Id="@515" Category="CodeSchema_ProjectItem" Bounds="1721.35625009635,3307.55885686972,192.551333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_useneeds\usecom\usecom_needsinclude.hpp" Label="usecom_needsinclude.hpp" />
-    <Node Id="@517" Category="CodeSchema_ProjectItem" Bounds="1721.35625009635,3423.5568569468,230.458000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_useneeds\usedirectshow\usedirectshow_needsinclude.hpp" Label="usedirectshow_needsinclude.hpp" />
-    <Node Id="@519" Category="CodeSchema_ProjectItem" Bounds="2089.29691680156,3307.55885686972,179.828000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_useneeds\usexx\usexx_needsinclude.hpp" Label="usexx_needsinclude.hpp" />
-    <Node Id="@521" Category="CodeSchema_ProjectItem" Bounds="1923.98458342968,3191.56085679264,179.828000077079,25.9980000770788" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\header\thirdparty_useneeds\usexx\usexx_needsinclude.hpp" Label="usexx_needsinclude.hpp" />
-    <Node Id="@523" Category="CodeSchema_ProjectItem" Bounds="3322.00783344895,1768.98841748984,231.628000077078,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile_namespace_include.hpp" Label="playafile_namespace_include.hpp" />
-    <Node Id="@525" Category="CodeSchema_ProjectItem" Bounds="2592.31316670521,1884.98641756692,258.978000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture_namespace_include.hpp" Label="videocapture_namespace_include.hpp" />
+    <Node Id="@511" Category="CodeSchema_ProjectItem" Bounds="2625.21650003854,1277.48641718153,220.431333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx_namespace.hpp" Label="demonamexxx_namespace.hpp" />
+    <Node Id="@513" Category="CodeSchema_ProjectItem" Bounds="794.660833333333,1753.31466789993,220.431333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_namespace.hpp" Label="demonamexxx_namespace.hpp" />
+    <Node Id="@515" Category="CodeSchema_ProjectItem" Bounds="1783.16875009635,3307.55885686972,192.551333410413,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_useneeds\usecom\usecom_needsinclude.hpp" Label="usecom_needsinclude.hpp" />
+    <Node Id="@517" Category="CodeSchema_ProjectItem" Bounds="1783.16875009635,3423.5568569468,230.458000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_useneeds\usedirectshow\usedirectshow_needsinclude.hpp" Label="usedirectshow_needsinclude.hpp" />
+    <Node Id="@519" Category="CodeSchema_ProjectItem" Bounds="2151.10941680156,3307.55885686972,179.828000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_useneeds\usexx\usexx_needsinclude.hpp" Label="usexx_needsinclude.hpp" />
+    <Node Id="@521" Category="CodeSchema_ProjectItem" Bounds="1985.79708342968,3191.56085679264,179.828000077079,25.9980000770788" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\header\thirdparty_useneeds\usexx\usexx_needsinclude.hpp" Label="usexx_needsinclude.hpp" />
+    <Node Id="@523" Category="CodeSchema_ProjectItem" Bounds="3445.63283344895,1149.97958451421,231.628000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile_namespace_include.hpp" Label="playafile_namespace_include.hpp" />
+    <Node Id="@525" Category="CodeSchema_ProjectItem" Bounds="2592.68816670521,1884.98641756693,258.978000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture_namespace_include.hpp" Label="videocapture_namespace_include.hpp" />
     <Node Id="@527" Category="CodeSchema_ProjectItem" Bounds="427.343333333333,1413.48600092495,313.478000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_helperf_namespace_include.hpp" Label="demonamexxx_helperf_namespace_include.hpp" />
     <Node Id="@529" Category="CodeSchema_ProjectItem" Bounds="1021.91133341041,2057.30666820825,228.444666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\sub\usecom\usecom_namespace_include.hpp" Label="usecom_namespace_include.hpp" />
     <Node Id="@53" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\malloc.h" Label="malloc.h" />
-    <Node Id="@531" Category="CodeSchema_ProjectItem" Bounds="265.931666666666,2057.30666820825,263.704666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\sub\templatelearn\templatelearn_namespace_include.hpp" Label="templatelearn_namespace_include.hpp" />
-    <Node Id="@533" Category="CodeSchema_ProjectItem" Bounds="1546.28766682082,2057.30666820825,266.351333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow_namespace_include.hpp" Label="usedirectshow_namespace_include.hpp" />
-    <Node Id="@535" Category="CodeSchema_ProjectItem" Bounds="2601.31316670521,1393.48441725861,267.488000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx_namespace_include.hpp" Label="demonamexxx_namespace_include.hpp" />
+    <Node Id="@531" Category="CodeSchema_ProjectItem" Bounds="265.931666666667,2057.30666820825,263.704666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\sub\templatelearn\templatelearn_namespace_include.hpp" Label="templatelearn_namespace_include.hpp" />
+    <Node Id="@533" Category="CodeSchema_ProjectItem" Bounds="1546.28766682083,2057.30666820825,266.351333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow_namespace_include.hpp" Label="usedirectshow_namespace_include.hpp" />
+    <Node Id="@535" Category="CodeSchema_ProjectItem" Bounds="2601.68816670521,1393.48441725861,267.488000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx_namespace_include.hpp" Label="demonamexxx_namespace_include.hpp" />
     <Node Id="@537" Category="CodeSchema_ProjectItem" Bounds="771.1325,1809.31266797701,267.488000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_namespace_include.hpp" Label="demonamexxx_namespace_include.hpp" />
-    <Node Id="@539" Category="CodeSchema_ProjectItem" Bounds="3583.07616678228,1712.99041741277,161.491333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile_include.hpp" Label="playafile_include.hpp" />
-    <Node Id="@541" Category="CodeSchema_ProjectItem" Bounds="2899.38150003854,1712.99041741277,188.841333410413,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture_include.hpp" Label="videocapture_include.hpp" />
-    <Node Id="@543" Category="CodeSchema_ProjectItem" Bounds="3584.00116678228,1768.98841748984,243.641333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile_thirdpartyuse_include.hpp" Label="playafile_thirdpartyuse_include.hpp" />
-    <Node Id="@545" Category="CodeSchema_ProjectItem" Bounds="2858.30650003854,1768.98841748984,270.991333410413,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture_thirdpartyuse_include.hpp" Label="videocapture_thirdpartyuse_include.hpp" />
-    <Node Id="@547" Category="CodeSchema_ProjectItem" Bounds="2875.30650003854,1277.48641718153,279.501333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx_thirdpartyuse_include.hpp" Label="demonamexxx_thirdpartyuse_include.hpp" />
-    <Node Id="@549" Category="CodeSchema_ProjectItem" Bounds="462.411666666666,1301.49000077079,243.341333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_helperf_include.hpp" Label="demonamexxx_helperf_include.hpp" />
+    <Node Id="@539" Category="CodeSchema_ProjectItem" Bounds="3706.70116678228,1093.98158443713,161.491333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile_include.hpp" Label="playafile_include.hpp" />
+    <Node Id="@541" Category="CodeSchema_ProjectItem" Bounds="2899.75650003854,1712.99041741277,188.841333410413,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture_include.hpp" Label="videocapture_include.hpp" />
+    <Node Id="@543" Category="CodeSchema_ProjectItem" Bounds="3707.62616678228,1149.97958451421,243.641333410413,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile_thirdpartyuse_include.hpp" Label="playafile_thirdpartyuse_include.hpp" />
+    <Node Id="@545" Category="CodeSchema_ProjectItem" Bounds="2858.68150003854,1768.98841748985,270.991333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture_thirdpartyuse_include.hpp" Label="videocapture_thirdpartyuse_include.hpp" />
+    <Node Id="@547" Category="CodeSchema_ProjectItem" Bounds="2875.68150003854,1277.48641718153,279.501333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx_thirdpartyuse_include.hpp" Label="demonamexxx_thirdpartyuse_include.hpp" />
+    <Node Id="@549" Category="CodeSchema_ProjectItem" Bounds="462.411666666667,1301.49000077079,243.341333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_helperf_include.hpp" Label="demonamexxx_helperf_include.hpp" />
     <Node Id="@55" Category="CodeSchema_ProjectItem" ErrorMessage="找到的循环引用涉及:   rpc.h ((Assembly=&quot;&quot; File=&quot;file:///C:/Program Files (x86)/windows kits/8.1/include/shared/rpc.h&quot;))" FilePath="$(ProgramFiles)\windows kits\8.1\include\shared\rpc.h" Hub="7" IsStronglyConnected="True" Label="rpc.h" />
-    <Node Id="@551" Category="CodeSchema_ProjectItem" Bounds="1622.60058339114,2740.32066843948,273.781333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_procedureneeduses\directshowuse\directshowuseprocedure_all_include.hpp" Label="directshowuseprocedure_all_include.hpp" />
-    <Node Id="@553" Category="CodeSchema_ProjectItem" Bounds="2102.21625009635,2740.32066843948,235.318000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_procedureneeduses\xxxxuse\xxxxuseprocedure_all_include.hpp" Label="xxxxuseprocedure_all_include.hpp" />
-    <Node Id="@555" Category="CodeSchema_ProjectItem" Bounds="1898.96891672448,2420.81466828533,235.318000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\header\thirdparty_procedureneeduses\xxxxuse\xxxxuseprocedure_all_include.hpp" Label="xxxxuseprocedure_all_include.hpp" />
+    <Node Id="@551" Category="CodeSchema_ProjectItem" Bounds="1684.41308339114,2740.32066843949,273.781333410413,25.9980000770788" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_procedureneeduses\directshowuse\directshowuseprocedure_all_include.hpp" Label="directshowuseprocedure_all_include.hpp" />
+    <Node Id="@553" Category="CodeSchema_ProjectItem" Bounds="2164.02875009635,2740.32066843949,235.318000077079,25.9980000770788" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_procedureneeduses\xxxxuse\xxxxuseprocedure_all_include.hpp" Label="xxxxuseprocedure_all_include.hpp" />
+    <Node Id="@555" Category="CodeSchema_ProjectItem" Bounds="1960.78141672448,2420.81466828533,235.318000077079,25.9980000770788" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\header\thirdparty_procedureneeduses\xxxxuse\xxxxuseprocedure_all_include.hpp" Label="xxxxuseprocedure_all_include.hpp" />
     <Node Id="@557" Category="CodeSchema_ProjectItem" Bounds="833.979666743746,2001.30866813117,158.308000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usecom\usecom_include.hpp" Label="usecom_include.hpp" />
-    <Node Id="@559" Category="CodeSchema_ProjectItem" Bounds="2907.35850005781,675.826667052061,162.124666743746,44" FilePath="$(VsSolution)\directshowuseonly\main\main_include.hpp" Group="Expanded" Label="main_include.hpp" />
-    <Node Id="@561" Category="CodeSchema_ProjectItem" Bounds="99.9999999999998,2001.30866813117,193.568000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\templatelearn\templatelearn_include.hpp" Label="templatelearn_include.hpp" />
+    <Node Id="@559" Category="CodeSchema_ProjectItem" Bounds="2952.31100005781,675.826667052062,162.124666743747,44" FilePath="$(VsSolution)\directshowuseonly\main\main_include.hpp" Group="Expanded" Label="main_include.hpp" />
+    <Node Id="@561" Category="CodeSchema_ProjectItem" Bounds="100,2001.30866813117,193.568000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\templatelearn\templatelearn_include.hpp" Label="templatelearn_include.hpp" />
     <Node Id="@563" Category="CodeSchema_ProjectItem" Bounds="1320.35600015416,2001.30866813117,196.214666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow_include.hpp" Label="usedirectshow_include.hpp" />
-    <Node Id="@565" Category="CodeSchema_ProjectItem" Bounds="2916.38150003854,1221.48841710445,197.351333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx_include.hpp" Label="demonamexxx_include.hpp" />
-    <Node Id="@567" Category="CodeSchema_ProjectItem" Bounds="544.200833333333,1697.31666782285,197.351333410413,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_include.hpp" Label="demonamexxx_include.hpp" />
-    <Node Id="@569" Category="CodeSchema_ProjectItem" Bounds="3059.54116668594,295.998000077078,177.238000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\mainwholeinc\bare\mainwholeinc_bare.hpp" Label="mainwholeinc_bare.hpp" />
+    <Node Id="@565" Category="CodeSchema_ProjectItem" Bounds="2916.75650003854,1221.48841710445,197.351333410413,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx_include.hpp" Label="demonamexxx_include.hpp" />
+    <Node Id="@567" Category="CodeSchema_ProjectItem" Bounds="544.200833333333,1697.31666782285,197.351333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_include.hpp" Label="demonamexxx_include.hpp" />
+    <Node Id="@569" Category="CodeSchema_ProjectItem" Bounds="3104.39866668594,295.998000077079,177.238000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\mainwholeinc\bare\mainwholeinc_bare.hpp" Label="mainwholeinc_bare.hpp" />
     <Node Id="@57" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\winresrc.h" Label="winresrc.h" />
-    <Node Id="@571" Category="CodeSchema_ProjectItem" Bounds="2438.90983337187,1712.99041741277,141.784666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture.hpp" Label="videocapture.hpp" />
-    <Node Id="@573" Category="CodeSchema_ProjectItem" Bounds="1698.10891672448,2836.31866851656,122.764666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_procedureneeduses\directshowuse\usecom\initialcom.hpp" Label="initialcom.hpp" />
-    <Node Id="@575" Category="CodeSchema_ProjectItem" Bounds="3087.78116668594,351.996000154157,120.758000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\mainwholeinc\bare\baremain.hpp" Label="baremain.hpp" />
-    <Node Id="@577" Category="CodeSchema_ProjectItem" Bounds="3102.0128333526,579.828666974982,116.371333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\mainwholeinc\test\testmain.hpp" Label="testmain.hpp" />
-    <Node Id="@579" Category="CodeSchema_ProjectItem" Bounds="3059.54116668594,523.830666897903,201.314666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\mainwholeinc\test\mainwholeinc_testmain.hpp" Label="mainwholeinc_testmain.hpp" />
-    <Node Id="@581" Category="CodeSchema_ProjectItem" Bounds="3335.01916676302,351.996000154157,174.041333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\mainwholeinc\win32window\win32windowmain.hpp" Label="win32windowmain.hpp" />
-    <Node Id="@583" Category="CodeSchema_ProjectItem" Bounds="324.528333333333,2001.30866813117,146.511333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\templatelearn\templatelearn.hpp" Label="templatelearn.hpp" />
-    <Node Id="@585" Category="CodeSchema_ProjectItem" Bounds="3594.79783344895,1904.98641756692,222.048000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\thirdpartyuse_include\directshow_use\plaf_wtusedirectshow_pmo.hpp" Label="plaf_wtusedirectshow_pmo.hpp" />
-    <Node Id="@587" Category="CodeSchema_ProjectItem" Bounds="2943.23816670521,1413.48441725861,143.638000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\thirdpartyuse_include\xxxx_use\dnx_wtux_tds.hpp" Label="dnx_wtux_tds.hpp" />
-    <Node Id="@589" Category="CodeSchema_ProjectItem" Bounds="2921.98316670521,1904.98641756692,143.63800007708,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\thirdpartyuse_include\xxxx_use\dnx_wtux_tds.hpp" Label="dnx_wtux_tds.hpp" />
+    <Node Id="@571" Category="CodeSchema_ProjectItem" Bounds="2439.28483337187,1712.99041741277,141.784666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture.hpp" Label="videocapture.hpp" />
+    <Node Id="@573" Category="CodeSchema_ProjectItem" Bounds="1759.92141672448,2836.31866851657,122.764666743746,25.9980000770788" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_procedureneeduses\directshowuse\usecom\initialcom.hpp" Label="initialcom.hpp" />
+    <Node Id="@575" Category="CodeSchema_ProjectItem" Bounds="3132.63866668594,351.996000154158,120.758000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\mainwholeinc\bare\baremain.hpp" Label="baremain.hpp" />
+    <Node Id="@577" Category="CodeSchema_ProjectItem" Bounds="3146.8703333526,579.828666974983,126.484666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\mainwholeinc\blank\blankmain.hpp" Label="blankmain.hpp" />
+    <Node Id="@579" Category="CodeSchema_ProjectItem" Bounds="3104.39866668594,523.830666897903,211.428000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\mainwholeinc\blank\mainwholeinc_blankmain.hpp" Label="mainwholeinc_blankmain.hpp" />
+    <Node Id="@581" Category="CodeSchema_ProjectItem" Bounds="3394.10833342968,351.996000154158,116.371333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\mainwholeinc\test\testmain.hpp" Label="testmain.hpp" />
+    <Node Id="@583" Category="CodeSchema_ProjectItem" Bounds="3351.63666676302,295.998000077079,201.314666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\mainwholeinc\test\mainwholeinc_testmain.hpp" Label="mainwholeinc_testmain.hpp" />
+    <Node Id="@585" Category="CodeSchema_ProjectItem" Bounds="3414.06666676301,579.828666974983,174.041333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\mainwholeinc\win32window\win32windowmain.hpp" Label="win32windowmain.hpp" />
+    <Node Id="@587" Category="CodeSchema_ProjectItem" Bounds="324.528333333333,2001.30866813117,146.511333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\templatelearn\templatelearn.hpp" Label="templatelearn.hpp" />
+    <Node Id="@589" Category="CodeSchema_ProjectItem" Bounds="3718.42283344895,1285.97758459129,222.048000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\thirdpartyuse_include\directshow_use\plaf_wtusedirectshow_pmo.hpp" Label="plaf_wtusedirectshow_pmo.hpp" />
     <Node Id="@59" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\verrsrc.h" Label="verrsrc.h" />
-    <Node Id="@591" Category="CodeSchema_ProjectItem" Bounds="3322.66450011562,1712.99041741277,230.314666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile_namespace_usethis.hpp" Label="playafile_namespace_usethis.hpp" />
-    <Node Id="@593" Category="CodeSchema_ProjectItem" Bounds="2610.96983337187,1712.99041741276,257.664666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture_namespace_usethis.hpp" Label="videocapture_namespace_usethis.hpp" />
-    <Node Id="@595" Category="CodeSchema_ProjectItem" Bounds="120,1301.49000077079,312.164666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_helperf_namespace_usethis.hpp" Label="demonamexxx_helperf_namespace_usethis.hpp" />
-    <Node Id="@597" Category="CodeSchema_ProjectItem" Bounds="1022.56800007708,2001.30866813117,227.131333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usecom\usecom_namespace_usethis.hpp" Label="usecom_namespace_usethis.hpp" />
-    <Node Id="@599" Category="CodeSchema_ProjectItem" Bounds="501.588333333333,2001.30866813117,262.391333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\templatelearn\templatelearn_namespace_usethis.hpp" Label="templatelearn_namespace_usethis.hpp" />
-    <Node Id="@601" Category="CodeSchema_ProjectItem" Bounds="206.1975,1073.49600053955,308.004666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_helper_namespace_usethis.hpp" Label="demonamexxx_helper_namespace_usethis.hpp" />
-    <Node Id="@603" Category="CodeSchema_ProjectItem" Bounds="1546.94433348749,2001.30866813117,265.038000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow_namespace_usethis.hpp" Label="usedirectshow_namespace_usethis.hpp" />
-    <Node Id="@605" Category="CodeSchema_ProjectItem" Bounds="2619.96983337187,1221.48841710445,266.174666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx_namespace_usethis.hpp" Label="demonamexxx_namespace_usethis.hpp" />
-    <Node Id="@607" Category="CodeSchema_ProjectItem" Bounds="771.789166666666,1697.31666782285,266.174666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_namespace_usethis.hpp" Label="demonamexxx_namespace_usethis.hpp" />
-    <Node Id="@609" Category="CodeSchema_ProjectItem" Bounds="3306.77916676302,295.998000077078,230.521333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\mainwholeinc\win32window\mainwholeinc_win32window.hpp" Label="mainwholeinc_win32window.hpp" />
+    <Node Id="@591" Category="CodeSchema_ProjectItem" Bounds="2943.61316670521,1413.48441725861,143.638000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\thirdpartyuse_include\xxxx_use\dnx_wtux_tds.hpp" Label="dnx_wtux_tds.hpp" />
+    <Node Id="@593" Category="CodeSchema_ProjectItem" Bounds="2922.35816670521,1904.98641756693,143.638000077079,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\thirdpartyuse_include\xxxx_use\dnx_wtux_tds.hpp" Label="dnx_wtux_tds.hpp" />
+    <Node Id="@595" Category="CodeSchema_ProjectItem" Bounds="3446.28950011562,1093.98158443713,230.314666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_playafile\playafile_namespace_usethis.hpp" Label="playafile_namespace_usethis.hpp" />
+    <Node Id="@597" Category="CodeSchema_ProjectItem" Bounds="2611.34483337187,1712.99041741277,257.664666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\source\functionsets\procedure_videocapture\videocapture_namespace_usethis.hpp" Label="videocapture_namespace_usethis.hpp" />
+    <Node Id="@599" Category="CodeSchema_ProjectItem" Bounds="120,1301.49000077079,312.164666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_helperf_namespace_usethis.hpp" Label="demonamexxx_helperf_namespace_usethis.hpp" />
+    <Node Id="@601" Category="CodeSchema_ProjectItem" Bounds="1022.56800007708,2001.30866813117,227.131333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usecom\usecom_namespace_usethis.hpp" Label="usecom_namespace_usethis.hpp" />
+    <Node Id="@603" Category="CodeSchema_ProjectItem" Bounds="501.588333333333,2001.30866813117,262.391333410412,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\templatelearn\templatelearn_namespace_usethis.hpp" Label="templatelearn_namespace_usethis.hpp" />
+    <Node Id="@605" Category="CodeSchema_ProjectItem" Bounds="206.1975,1073.49600053955,308.004666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_helper_namespace_usethis.hpp" Label="demonamexxx_helper_namespace_usethis.hpp" />
+    <Node Id="@607" Category="CodeSchema_ProjectItem" Bounds="1546.94433348749,2001.30866813117,265.038000077079,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\source\sub\usedirectshow\usedirectshow_namespace_usethis.hpp" Label="usedirectshow_namespace_usethis.hpp" />
+    <Node Id="@609" Category="CodeSchema_ProjectItem" Bounds="2620.34483337187,1221.48841710445,266.174666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx_namespace_usethis.hpp" Label="demonamexxx_namespace_usethis.hpp" />
     <Node Id="@61" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\winsvc.h" Label="winsvc.h" />
-    <Node Id="@611" Category="CodeSchema_ProjectItem" Bounds="2163.80958342968,2836.31866851656,112.131333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_procedureneeduses\xxxxuse\usexx\demoxx.hpp" Label="demoxx.hpp" />
-    <Node Id="@613" Category="CodeSchema_ProjectItem" Bounds="1960.56225005781,2516.81266836241,112.131333410412,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\header\thirdparty_procedureneeduses\xxxxuse\usexx\demoxx.hpp" Label="demoxx.hpp" />
-    <Node Id="@615" Category="CodeSchema_ProjectItem" Bounds="2438.90983337187,1221.48841710445,150.294666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx.hpp" Label="demonamexxx.hpp" />
-    <Node Id="@617" Category="CodeSchema_ProjectItem" Bounds="748.263333333333,921.500000385394,150.294666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx.hpp" Label="demonamexxx.hpp" />
-    <Node Id="@619" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\cwchar" Label="cwchar" />
-    <Node Id="@621" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\system_error" Label="system_error" />
-    <Node Id="@623" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\ios" Label="ios" />
-    <Node Id="@625" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\type_traits" Label="type_traits" />
-    <Node Id="@627" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\limits" Label="limits" />
-    <Node Id="@629" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\climits" Label="climits" />
+    <Node Id="@611" Category="CodeSchema_ProjectItem" Bounds="771.789166666667,1697.31666782285,266.174666743746,25.9980000770793" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx_namespace_usethis.hpp" Label="demonamexxx_namespace_usethis.hpp" />
+    <Node Id="@613" Category="CodeSchema_ProjectItem" Bounds="3385.82666676301,523.830666897903,230.521333410413,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\main\mainwholeinc\win32window\mainwholeinc_win32window.hpp" Label="mainwholeinc_win32window.hpp" />
+    <Node Id="@615" Category="CodeSchema_ProjectItem" Bounds="2225.62208342968,2836.31866851657,112.131333410412,25.9980000770788" FilePath="$(VsSolution)\directshowuseonly\header\thirdparty_procedureneeduses\xxxxuse\usexx\demoxx.hpp" Label="demoxx.hpp" />
+    <Node Id="@617" Category="CodeSchema_ProjectItem" Bounds="2022.37475005781,2516.81266836241,112.131333410412,25.9980000770788" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\header\thirdparty_procedureneeduses\xxxxuse\usexx\demoxx.hpp" Label="demoxx.hpp" />
+    <Node Id="@619" Category="CodeSchema_ProjectItem" Bounds="2439.28483337187,1221.48841710445,150.294666743746,25.9980000770788" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\功能集\procedure_demonamexxx v0.3.1.2\demonamexxx.hpp" Label="demonamexxx.hpp" />
+    <Node Id="@621" Category="CodeSchema_ProjectItem" Bounds="748.263333333333,921.500000385395,150.294666743746,25.998000077079" FilePath="$(VsSolution)\directshowuseonly\架构demo结构\source\内部组件集\demonamexxx v0.2.1.4\demonamexxx.hpp" Label="demonamexxx.hpp" />
+    <Node Id="@623" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\cwchar" Label="cwchar" />
+    <Node Id="@625" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\system_error" Label="system_error" />
+    <Node Id="@627" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\ios" Label="ios" />
+    <Node Id="@629" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\type_traits" Label="type_traits" />
     <Node Id="@63" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\cguid.h" Label="cguid.h" />
-    <Node Id="@631" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\cfloat" Label="cfloat" />
-    <Node Id="@633" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\xfacet" Label="xfacet" />
-    <Node Id="@635" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\stdexcept" Label="stdexcept" />
-    <Node Id="@637" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\initializer_list" Label="initializer_list" />
-    <Node Id="@639" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\new" Label="new" />
-    <Node Id="@641" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\xmemory" Label="xmemory" />
-    <Node Id="@643" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\utility" Label="utility" />
-    <Node Id="@645" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\xutility" Label="xutility" />
+    <Node Id="@631" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\limits" Label="limits" />
+    <Node Id="@633" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\climits" Label="climits" />
+    <Node Id="@635" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\cfloat" Label="cfloat" />
+    <Node Id="@637" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\xfacet" Label="xfacet" />
+    <Node Id="@639" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\stdexcept" Label="stdexcept" />
+    <Node Id="@641" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\initializer_list" Label="initializer_list" />
+    <Node Id="@643" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\new" Label="new" />
+    <Node Id="@645" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\xmemory" Label="xmemory" />
+    <Node Id="@647" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\utility" Label="utility" />
+    <Node Id="@649" Category="CodeSchema_ProjectItem" FilePath="$(VsInstallDir)\vc\include\xutility" Label="xutility" />
     <Node Id="@65" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\lzexpand.h" Label="lzexpand.h" />
     <Node Id="@67" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\dsound.h" Label="dsound.h" />
     <Node Id="@69" Category="CodeSchema_ProjectItem" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\audevcod.h" Label="audevcod.h" />
@@ -323,74 +325,75 @@
     <Node Id="@95" Category="CodeSchema_ProjectItem" ErrorMessage="找到的循环引用涉及:   objbase.h ((Assembly=&quot;&quot; File=&quot;file:///C:/Program Files (x86)/windows kits/8.1/include/um/objbase.h&quot;))" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\objbase.h" Hub="3" IsStronglyConnected="True" Label="objbase.h" />
     <Node Id="@97" Category="CodeSchema_ProjectItem" ErrorMessage="找到的循环引用涉及:   objidlbase.h ((Assembly=&quot;&quot; File=&quot;file:///C:/Program Files (x86)/windows kits/8.1/include/um/objidlbase.h&quot;))" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\objidlbase.h" IsStronglyConnected="True" Label="objidlbase.h" />
     <Node Id="@99" Category="CodeSchema_ProjectItem" ErrorMessage="节点“winbase.h”具有中心值 9。" FilePath="$(ProgramFiles)\windows kits\8.1\include\um\winbase.h" Hub="9" Label="winbase.h" />
-    <Node Id="ActionWith" Bounds="99.9999999999998,2113.30466828533,82.5999999999999,25.8366666666661" Label="actionWith" />
-    <Node Id="ActionWith1" Category="Category3" Bounds="1366.62050007708,921.500000385394,82.5999999999999,25.8366666666666" Label="actionWith" />
-    <Node Id="Bare" Bounds="3039.54116668594,255.998000077078,217.238000077079,197.832666820825" Group="Expanded" Label="bare" />
+    <Node Id="ActionWith" Bounds="100,2113.30466828533,82.5999999999999,25.8366666666661" Label="actionWith" />
+    <Node Id="ActionWith1" Category="Category3" Bounds="1366.62050007708,921.500000385395,82.5999999999999,25.8366666666666" Label="actionWith" />
+    <Node Id="Bare" Bounds="3084.39866668594,255.998000077079,217.238000077079,197.832666820825" Group="Expanded" Label="bare" />
+    <Node Id="Blank" Bounds="3084.39866668594,483.830666897903,251.428000077078,141.996000154158" Group="Expanded" Label="blank" />
     <Node Id="C/C++ Standard Library 间接包含" Category="CodeSchema_PoundIncludeGroup" Group="Collapsed" IsHubContainer="True" Label="间接包含" />
-    <Node Id="COM组件" Category="Category2" Bounds="1656.64125009635,2796.31866851656,205.7,85.9980000770793" Group="Expanded" Label="directShow对COM组件的调用" />
-    <Node Id="COM组件调用" Category="Category2" Bounds="1701.35625009635,3267.55885686972,232.551333410413,85.9980000770793" Group="Expanded" Label="COM组件调用" />
-    <Node Id="DirectShow调用" Category="Category2" Bounds="1701.35625009635,3383.5568569468,270.458000077079,85.9980000770788" Group="Expanded" Label="directShow调用" />
+    <Node Id="COM组件" Category="Category2" Bounds="1718.45375009635,2796.31866851657,205.7,85.9980000770793" Group="Expanded" Label="directShow对COM组件的调用" />
+    <Node Id="COM组件调用" Category="Category2" Bounds="1763.16875009635,3267.55885686972,232.551333410413,85.9980000770793" Group="Expanded" Label="COM组件调用" />
+    <Node Id="DirectShow调用" Category="Category2" Bounds="1763.16875009635,3383.5568569468,270.458000077079,85.9980000770788" Group="Expanded" Label="directShow调用" />
     <Node Id="G2" Category="CodeSchema_PoundIncludeGroup" ErrorMessage="找到的循环引用涉及:   C/C++ Standard Library (G2)" Group="Collapsed" IsHubContainer="True" IsStronglyConnected="True" Label="C/C++ Standard Library" />
     <Node Id="G4" Category="CodeSchema_PoundIncludeGroup" ErrorMessage="找到的循环引用涉及:   Windows SDK (G4)" Group="Collapsed" IsHubContainer="True" IsStronglyConnected="True" Label="Windows SDK" />
-    <Node Id="Helper" Bounds="186.1975,977.498000462473,606.426333410412,253.992000308316" Group="Expanded" Label="helper" />
-    <Node Id="HelperFunction" Bounds="99.9999999999998,1261.49000077079,660.821333410412,309.828666974983" Group="Expanded" Label="helperFunction" />
-    <Node Id="LogicContent" Category="Category3" Bounds="1595.82050007708,921.500000385394,93.9033333333332,25.8366666666666" Label="logicContent" />
-    <Node Id="Main" Category="Category2" Bounds="2817.57850005781,120,779.722000115618,619.826667052061" Group="Expanded" Label="main" />
-    <Node Id="MainWholeInc" Bounds="3019.54116668594,215.998000077078,557.759333487491,429.828666974983" Group="Expanded" Label="mainWholeInc" />
-    <Node Id="PlayAFile" Category="Category2" Bounds="3302.00783344895,1616.99241733569,574.838000077079,373.992000308316" Group="Expanded" Label="playAFile" />
-    <Node Id="PoundIncludeGraphExternalsGroup" Category="Externals" Bounds="2015.98458342968,3579.55485702388,64,25" Group="Collapsed" IsHubContainer="True" Label="外部" />
-    <Node Id="Procedure" Bounds="524.200833333333,1601.31866774577,534.419666743746,253.992000308316" Group="Expanded" Label="core" />
-    <Node Id="PureLogic式" Bounds="3926.84583352603,957.983584360052,89.123333333333,25.8366666666666" Label="pureLogic式" />
+    <Node Id="Helper" Bounds="186.1975,977.498000462474,606.426333410412,253.992000308317" Group="Expanded" Label="helper" />
+    <Node Id="HelperFunction" Bounds="100,1261.49000077079,660.821333410412,309.828666974984" Group="Expanded" Label="helperFunction" />
+    <Node Id="LogicContent" Category="Category3" Bounds="1595.82050007708,921.500000385395,93.9033333333332,25.8366666666666" Label="logicContent" />
+    <Node Id="Main" Category="Category2" Bounds="2862.53100005781,120,813.817000115618,619.826667052062" Group="Expanded" Label="main" />
+    <Node Id="MainWholeInc" Bounds="3064.39866668594,215.998000077079,591.94933348749,429.828666974983" Group="Expanded" Label="mainWholeInc" />
+    <Node Id="PlayAFile" Category="Category2" Bounds="3425.63283344895,997.983584360052,574.838000077079,373.992000308317" Group="Expanded" Label="playAFile" />
+    <Node Id="PoundIncludeGraphExternalsGroup" Category="Externals" Bounds="2077.79708342968,3579.55485702388,64,25" Group="Collapsed" IsHubContainer="True" Label="外部" />
+    <Node Id="Procedure" Bounds="524.200833333333,1601.31866774577,534.419666743746,253.992000308317" Group="Expanded" Label="core" />
+    <Node Id="PureLogic式" Bounds="4050.47083352603,957.983584360052,89.123333333333,25.8366666666666" Label="pureLogic式" />
     <Node Id="SupportOut" Bounds="212.6,2113.30466828533,86.5999999999999,25.8366666666661" Label="supportOut" />
-    <Node Id="SupportOut1" Category="Category3" Bounds="1479.22050007708,921.500000385394,86.5999999999999,25.8366666666666" Label="supportOut" />
-    <Node Id="Test" Bounds="3039.54116668594,483.830666897903,241.314666743746,141.996000154158" Group="Expanded" Label="test" />
-    <Node Id="ThirdPademoNameXXX" Bounds="2903.23816670521,1333.48441725861,223.638000077079,145.998000077079" Group="Expanded" Label="当前过程流程包含的对第三方调用" />
-    <Node Id="VideoCapture" Category="Category1" Bounds="2418.90983337187,1616.99241733569,853.098000077079,373.992000308316" Group="Expanded" Label="videoCapture" />
-    <Node Id="Win32window" Bounds="3286.77916676302,255.998000077078,270.521333410412,141.996000154158" Group="Expanded" Label="win32window" />
+    <Node Id="SupportOut1" Category="Category3" Bounds="1479.22050007708,921.500000385395,86.5999999999999,25.8366666666666" Label="supportOut" />
+    <Node Id="Test" Bounds="3331.63666676302,255.998000077079,241.314666743747,141.996000154158" Group="Expanded" Label="test" />
+    <Node Id="ThirdPademoNameXXX" Bounds="2903.61316670521,1333.48441725861,223.638000077079,145.998000077079" Group="Expanded" Label="当前过程流程包含的对第三方调用" />
+    <Node Id="VideoCapture" Category="Category1" Bounds="2419.28483337187,1616.99241733569,853.098000077079,373.992000308317" Group="Expanded" Label="videoCapture" />
+    <Node Id="Win32window" Bounds="3365.82666676301,483.830666897903,270.521333410412,141.996000154158" Group="Expanded" Label="win32window" />
     <Node Id="Windows SDK 间接包含" Category="CodeSchema_PoundIncludeGroup" ErrorMessage="找到的循环引用涉及:   间接包含 (Windows SDK 间接包含)" Group="Collapsed" IsHubContainer="True" IsStronglyConnected="True" Label="间接包含" />
-    <Node Id="XXXX对XX组件的调用" Bounds="1937.40791676302,2476.81266836241,158.44,85.9980000770793" Group="Expanded" Label="XXXX对XX组件的调用" />
-    <Node Id="XXXX对XX组件的调用1" Bounds="2140.65525013489,2796.31866851656,158.44,85.9980000770793" Group="Expanded" Label="XXXX对XX组件的调用" />
-    <Node Id="XX调用Demo示例" Category="Category3" Bounds="1701.35625009635,3064.05085679264,693.256666666667,173.508000077079" Group="Expanded" Label="  外部组件调用提供 集 成分架构结构构件示例样例 XX调用demo示例 （目前该成分构件结构内部架构成分版本：v0.4.1.2）" />
-    <Node Id="XX调用demo示例（目前该成分构件结构内部架构成分版本：v0.4.1.2）" Category="Category5" Bounds="1963.90758350676,3267.55885686972,430.606666666667,85.9980000770793" Group="Expanded" Label="  XX调用demo示例 （目前该成分构件结构内部架构成分版本：v0.4.1.2）" />
-    <Node Id="Xxxx" Bounds="2901.98316670521,1864.98641756692,183.638000077079,85.9980000770793" Group="Expanded" Label="xxxx" />
-    <Node Id="临时注释：接下来需要改这个里面的所有文件的注释内容" Category="Comment" Bounds="1088.62050007708,921.500000385394,248,57.5099999999992" Label="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月22日23:24:40 版本号：v0.2.1.4" />
-    <Node Id="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月22日23:24:40版本号：v0.4.1.2" Category="Comment" Bounds="1923.98458342968,3104.05085679264,248,57.5100000000002" Label="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日12:28:57 版本号：v0.4.1.2" />
-    <Node Id="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日12:33:37版本号：v0.5.1.2" Category="Comment" Bounds="1898.96891672448,2592.81066843948,248,57.5100000000002" Label="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日12:33:37 版本号：v0.5.1.2" />
-    <Node Id="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日16:08:11版本号：v0.3.1.2" Category="Comment" Bounds="2438.90983337187,1509.48241733569,248,57.5100000000007" Label="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日16:08:11 版本号：v0.3.1.2" />
+    <Node Id="XXXX对XX组件的调用" Bounds="1999.22041676302,2476.81266836241,158.44,85.9980000770793" Group="Expanded" Label="XXXX对XX组件的调用" />
+    <Node Id="XXXX对XX组件的调用1" Bounds="2202.46775013489,2796.31866851657,158.44,85.9980000770793" Group="Expanded" Label="XXXX对XX组件的调用" />
+    <Node Id="XX调用Demo示例" Category="Category3" Bounds="1763.16875009635,3064.05085679264,693.256666666666,173.508000077079" Group="Expanded" Label="  外部组件调用提供 集 成分架构结构构件示例样例 XX调用demo示例 （目前该成分构件结构内部架构成分版本：v0.4.1.2）" />
+    <Node Id="XX调用demo示例（目前该成分构件结构内部架构成分版本：v0.4.1.2）" Category="Category5" Bounds="2025.72008350676,3267.55885686972,430.606666666667,85.9980000770793" Group="Expanded" Label="  XX调用demo示例 （目前该成分构件结构内部架构成分版本：v0.4.1.2）" />
+    <Node Id="Xxxx" Bounds="2902.35816670521,1864.98641756693,183.638000077079,85.9980000770793" Group="Expanded" Label="xxxx" />
+    <Node Id="临时注释：接下来需要改这个里面的所有文件的注释内容" Category="Comment" Bounds="1088.62050007708,921.500000385395,248,57.5099999999992" Label="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月22日23:24:40 版本号：v0.2.1.4" />
+    <Node Id="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月22日23:24:40版本号：v0.4.1.2" Category="Comment" Bounds="1985.79708342968,3104.05085679264,248,57.5100000000002" Label="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日12:28:57 版本号：v0.4.1.2" />
+    <Node Id="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日12:33:37版本号：v0.5.1.2" Category="Comment" Bounds="1960.78141672448,2592.81066843949,248,57.5100000000002" Label="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日12:33:37 版本号：v0.5.1.2" />
+    <Node Id="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日16:08:11版本号：v0.3.1.2" Category="Comment" Bounds="2439.28483337187,1509.48241733569,248,57.5100000000007" Label="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日16:08:11 版本号：v0.3.1.2" />
     <Node Id="使用COM" Category="Category2" Bounds="813.979666743746,1905.31066805409,456.376333410412,197.994000231238" Group="Expanded" Label="使用COM" />
     <Node Id="使用directShow" Category="Category2" Bounds="1300.35600015416,1905.31066805409,532.283000077079,197.994000231237" Group="Expanded" Label="使用directShow" />
-    <Node Id="使用过程中协作调用" Category="Category2" Bounds="1582.60058339114,2269.14133495199,930.768000077079,653.17533364165" Group="Expanded" Label="使用过程中协作调用关系 （x用b组件时，b组件过程中需要对c组件有的协作调用包含关系）">
+    <Node Id="使用过程中协作调用" Category="Category2" Bounds="1644.41308339114,2269.141334952,930.768000077079,653.17533364165" Group="Expanded" Label="使用过程中协作调用关系 （x用b组件时，b组件过程中需要对c组件有的协作调用包含关系）">
       <Category Ref="Category6" />
     </Node>
-    <Node Id="使用过程中协作调用关系成分架构结构构件示例样例XXXX的用到使用调用过程包含demo示例（目前该成分构件结构内部架构成分版本：v0.5.1.2）" Category="Category5" Bounds="1946.38191680156,2700.32066843948,546.986666666667,201.996000154159" Group="Expanded" Label="XXXX的用到使用调用过程包含demo示例 （目前该成分构件结构内部架构成分版本：v0.5.1.2）" />
-    <Node Id="内体系代码" Bounds="39.9999999999998,79.9999999999995,4015.96916685936,2119.14133495199" Group="Expanded" Label="内体系代码" />
-    <Node Id="功能集" Bounds="59.9999999999998,769.826667052061,2288.87900023124,1409.31466789993" Group="Expanded" Label="内部组件 集" />
-    <Node Id="功能集1" Bounds="2378.90983337187,917.983584360052,1657.05933348749,1113.00083328395" Group="Expanded" Label="功能集" />
-    <Node Id="功能集成分架构结构构件示例样例DemoNameXXXV0.2.1.4" Category="Category3" Bounds="79.9999999999998,881.500000385394,1629.72383341041,993.810667668693" Group="Expanded" Label="内部组件 集 成分架构结构构件示例样例 demoNameXXX （目前该成分构件结构内部架构成分版本：v0.2.1.4）" />
-    <Node Id="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Category="Category3" Bounds="2418.90983337187,1069.6537503607,976.348000077079,517.338666974983" Group="Expanded" Label="功能集成分架构结构构件示例样例 demoNameXXX （目前该成分构件结构内部架构成分版本：v0.3.1.2）" />
+    <Node Id="使用过程中协作调用关系成分架构结构构件示例样例XXXX的用到使用调用过程包含demo示例（目前该成分构件结构内部架构成分版本：v0.5.1.2）" Category="Category5" Bounds="2008.19441680155,2700.32066843949,546.986666666667,201.996000154159" Group="Expanded" Label="XXXX的用到使用调用过程包含demo示例 （目前该成分构件结构内部架构成分版本：v0.5.1.2）" />
+    <Node Id="内体系代码" Bounds="40,79.9999999999995,4139.59416685936,2119.141334952" Group="Expanded" Label="内体系代码" />
+    <Node Id="功能集" Bounds="60,769.826667052062,2288.87900023124,1409.31466789993" Group="Expanded" Label="内部组件 集" />
+    <Node Id="功能集1" Bounds="2379.28483337187,917.983584360052,1780.30933348749,1113.00083328395" Group="Expanded" Label="功能集" />
+    <Node Id="功能集成分架构结构构件示例样例DemoNameXXXV0.2.1.4" Category="Category3" Bounds="80,881.500000385395,1629.72383341041,993.810667668696" Group="Expanded" Label="内部组件 集 成分架构结构构件示例样例 demoNameXXX （目前该成分构件结构内部架构成分版本：v0.2.1.4）" />
+    <Node Id="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Category="Category3" Bounds="2419.28483337187,1069.6537503607,976.34800007708,517.338666974984" Group="Expanded" Label="功能集成分架构结构构件示例样例 demoNameXXX （目前该成分构件结构内部架构成分版本：v0.3.1.2）" />
     <Node Id="单线程阻塞延时提供" Category="Category3" Bounds="2128.87900023124,1905.31066805409,200,25.8366666666666" Label="单线程阻塞延时提供逻辑功能组件" />
-    <Node Id="外部流程" Bounds="1562.60058339114,2229.14133495199,970.768000077079,1280.41352207188" Group="Expanded" Label="外部流程" />
-    <Node Id="外部组件调用提供集" Category="Category2" Bounds="1681.35625009635,2952.31666859364,733.256666666667,537.238188430233" Group="Expanded" Label="外部组件调用提供 集" LayoutSettings="ForceDirected">
+    <Node Id="外部流程" Bounds="1624.41308339114,2229.141334952,970.768000077079,1280.41352207188" Group="Expanded" Label="外部流程" />
+    <Node Id="外部组件调用提供集" Category="Category2" Bounds="1743.16875009635,2952.31666859365,733.256666666666,537.238188430233" Group="Expanded" Label="外部组件调用提供 集" LayoutSettings="ForceDirected">
       <Category Ref="Category6" />
     </Node>
-    <Node Id="外部组件调用提供集成分架构结构构件示例样例XX调用demo示例（目前该成分构件结构内部架构成分版本：v0.4.1.2）" Category="Category3" Bounds="1602.60058339114,2380.81466828533,840.736666666667,289.506000154159" Group="Expanded" Label="  使用过程中协作调用关系 成分架构结构构件示例样例  XXXX的用到使用调用过程包含demo示例 （目前该成分构件结构内部架构成分版本：v0.5.1.2）" />
-    <Node Id="当前过程流程包含的对第三方调用" Bounds="2881.98316670521,1824.98641756692,223.638000077079,145.998000077079" Group="Expanded" Label="当前过程流程包含的对第三方调用" />
-    <Node Id="想使用directShow播放视频" Bounds="3574.79783344895,1864.98641756692,262.048000077079,85.998000077079" Group="Expanded" Label="想使用directShow" />
-    <Node Id="想使用xxxx" Bounds="2923.23816670521,1373.48441725861,183.638000077079,85.9980000770788" Group="Expanded" Label="想使用xxxx" />
-    <Node Id="某过程流程包含的对第三方调用" Bounds="3554.79783344895,1824.98641756692,302.048000077079,145.998000077079" Group="Expanded" Label="当前过程流程包含的对第三方调用" />
-    <Node Id="流程功能" Bounds="2398.90983337187,957.983584360052,1497.93600015416,1053.00083328395" Group="Expanded" Label="procedure式" />
-    <Node Id="用到DirectShow的调用过程包含" Category="Category2" Bounds="1602.60058339114,2700.32066843948,313.781333410412,201.996000154159" Group="Expanded" Label=" directShow 的用到使用调用过程包含" />
+    <Node Id="外部组件调用提供集成分架构结构构件示例样例XX调用demo示例（目前该成分构件结构内部架构成分版本：v0.4.1.2）" Category="Category3" Bounds="1664.41308339114,2380.81466828533,840.736666666667,289.506000154159" Group="Expanded" Label="  使用过程中协作调用关系 成分架构结构构件示例样例  XXXX的用到使用调用过程包含demo示例 （目前该成分构件结构内部架构成分版本：v0.5.1.2）" />
+    <Node Id="当前过程流程包含的对第三方调用" Bounds="2882.35816670521,1824.98641756693,223.638000077079,145.998000077079" Group="Expanded" Label="当前过程流程包含的对第三方调用" />
+    <Node Id="想使用directShow播放视频" Bounds="3698.42283344895,1245.97758459129,262.04800007708,85.9980000770793" Group="Expanded" Label="想使用directShow" />
+    <Node Id="想使用xxxx" Bounds="2923.61316670521,1373.48441725861,183.638000077079,85.9980000770793" Group="Expanded" Label="想使用xxxx" />
+    <Node Id="某过程流程包含的对第三方调用" Bounds="3678.42283344895,1205.97758459129,302.04800007708,145.998000077079" Group="Expanded" Label="当前过程流程包含的对第三方调用" />
+    <Node Id="流程功能" Bounds="2399.28483337187,957.983584360052,1621.18600015416,1053.00083328395" Group="Expanded" Label="procedure式" />
+    <Node Id="用到DirectShow的调用过程包含" Category="Category2" Bounds="1664.41308339114,2700.32066843949,313.781333410412,201.996000154159" Group="Expanded" Label=" directShow 的用到使用调用过程包含" />
     <Node Id="组件ClassLearn" Category="Category3" Bounds="1992.80233356457,1905.31066805409,106.076666666667,25.8366666666666" Label="组件 classLearn" />
-    <Node Id="组件TemplateLearn" Category="Category2" Bounds="79.9999999999998,1905.31066805409,703.979666743746,253.830666897904" Group="Expanded" Label="组件 templateLearn （当前集内架构样式版本 v0.2.1.3 目前已经采用了的最新结构）" />
+    <Node Id="组件TemplateLearn" Category="Category2" Bounds="80,1905.31066805409,703.979666743746,253.830666897904" Group="Expanded" Label="组件 templateLearn （当前集内架构样式版本 v0.2.1.3 目前已经采用了的最新结构）" />
     <Node Id="组件多态learn" Bounds="1862.63900023124,1905.31066805409,100.163333333333,25.8366666666666" Label="组件 多态learn" />
-    <Node Id="自己写产出的代码" Bounds="19.9999999999998,40,4055.96916685936,3489.55485702388" Group="Expanded" Label="我们自己写产出的代码" />
-    <Node Id="裸main" Category="Comment" Bounds="3059.54116668594,407.994000231236,72.4633333333331,25.8366666666665" Label="裸版main" />
-    <Node Id="该成分所在同级架构内成分示例成分demo内容" Category="Comment" Bounds="2784.37024539918,997.983584360052,245.42717602246,41.6701660006511" Label="该成分所在同级架构内成分示例成分demo内容" />
-    <Node Id="该成分所在同级架构内成分示例成分demo内容1" Category="Comment" Bounds="1869.9414453845,2992.31666859364,245.36,41.6733333333332" Label="该成分所在同级架构内成分示例成分demo内容" />
-    <Node Id="该成分所在同级架构内成分示例成分demo内容2" Category="Comment" Bounds="1900.28891672448,2309.14133495199,245.360000000001,41.6733333333332" Label="该成分所在同级架构内成分示例成分demo内容" />
-    <Node Id="该成分所在架构内成分示例成分demo内容" Category="Comment" Bounds="772.181916705206,809.826667052061,245.36,41.6733333333332" Label="该成分所在同级架构内成分示例成分demo内容" />
+    <Node Id="自己写产出的代码" Bounds="20,40,4179.59416685936,3489.55485702388" Group="Expanded" Label="我们自己写产出的代码" />
+    <Node Id="裸main" Category="Comment" Bounds="3104.39866668594,407.994000231237,72.4633333333331,25.8366666666665" Label="裸版main" />
+    <Node Id="该成分所在同级架构内成分示例成分demo内容" Category="Comment" Bounds="2784.74524539918,997.983584360052,245.42717602246,41.6701660006511" Label="该成分所在同级架构内成分示例成分demo内容" />
+    <Node Id="该成分所在同级架构内成分示例成分demo内容1" Category="Comment" Bounds="1931.7539453845,2992.31666859365,245.36,41.6733333333332" Label="该成分所在同级架构内成分示例成分demo内容" />
+    <Node Id="该成分所在同级架构内成分示例成分demo内容2" Category="Comment" Bounds="1962.10141672448,2309.141334952,245.360000000001,41.6733333333332" Label="该成分所在同级架构内成分示例成分demo内容" />
+    <Node Id="该成分所在架构内成分示例成分demo内容" Category="Comment" Bounds="772.181916705207,809.826667052062,245.36,41.6733333333332" Label="该成分所在同级架构内成分示例成分demo内容" />
     <Node Id="这种东西可以考虑不对外显" Category="Comment" Bounds="125.740666705206,1469.48400100203,226.92,25.8366666666666" Label="helpFunction用于内部协助，不对外显" />
-    <Node Id="这种东西考虑可以不对外显" Category="Comment" Bounds="3174.05716674375,1109.6537503607,164,25.8366666666666" Label="这种东西考虑可以不对外显">
+    <Node Id="这种东西考虑可以不对外显" Category="Comment" Bounds="3174.43216674375,1109.6537503607,164,25.8366666666666" Label="这种东西考虑可以不对外显">
       <Category Ref="Category1" />
     </Node>
   </Nodes>
@@ -411,9 +414,9 @@
     <Link Source="@11" Target="@25" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@11" Target="@459" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@11" Target="@461" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@11" Target="@629" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@11" Target="@633" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@11" Target="@635" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@11" Target="@637" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@11" Target="@639" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@111" Target="@113" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@111" Target="@393" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@111" Target="@423" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
@@ -449,7 +452,7 @@
     <Link Source="@129" Target="@343" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@129" Target="@345" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@13" Target="@11" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@13" Target="@621" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@13" Target="@625" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@13" Target="@93" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@131" Target="@345" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@133" Target="@345" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
@@ -514,7 +517,7 @@
     <Link Source="@17" Target="@15" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@17" Target="@45" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@17" Target="@457" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@17" Target="@637" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@17" Target="@641" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@171" Target="@103" Category="PoundInclude" IsCircularLink="True" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@171" Target="@105" Category="PoundInclude" IsCircularLink="True" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@171" Target="@107" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
@@ -666,7 +669,7 @@
     <Link Source="@249" Target="@423" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@25" Target="@121" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@25" Target="@357" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@25" Target="@641" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@25" Target="@645" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@251" Target="@423" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@253" Target="@109" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@253" Target="@257" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
@@ -934,14 +937,14 @@
     <Link Source="@433" Target="@357" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@439" Target="@343" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@447" Target="@449" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@449" Target="@623" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@449" Target="@627" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@45" Target="@345" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@45" Target="@365" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@451" Target="@447" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@453" Target="@19" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@453" Target="@433" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@453" Target="@463" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@453" Target="@629" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@453" Target="@633" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@453" Target="@7" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@455" Target="@127" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@455" Target="@131" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
@@ -958,50 +961,50 @@
     <Link Source="@463" Target="@357" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@465" Target="@293" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@465" Target="@357" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@469" Target="@559" Category="PoundInclude" Bounds="2901.8525390625,443.911346435547,76.16357421875,223.396820068359" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@469" Target="@559" Category="PoundInclude" Bounds="2946.80517578125,443.911346435547,76.163330078125,223.396820068359" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@47" Target="@109" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@47" Target="@127" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@47" Target="@253" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@47" Target="@29" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@47" Target="@45" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@47" Target="@645" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@471" Target="@539" Category="PoundInclude" Bounds="3663.82177734375,1682.99035644531,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@473" Target="@541" Category="PoundInclude" Bounds="3046.06860351563,1682.99035644531,92.092529296875,27.430908203125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@47" Target="@649" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@471" Target="@539" Category="PoundInclude" Bounds="3787.44677734375,1063.98156738281,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@473" Target="@541" Category="PoundInclude" Bounds="3046.44360351563,1682.99035644531,92.092529296875,27.430908203125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@475" Target="@557" Category="PoundInclude" Bounds="913.133666992188,1971.30871582031,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@477" Target="@559" Category="PoundInclude" Bounds="2988.4208984375,185.998001098633,0,480.828659057617" />
-    <Link Source="@477" Target="@569" Category="PoundInclude" Bounds="414.195663452148,65.9978011050845,0,21.0001" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@479" Target="@541" Category="PoundInclude" Bounds="2814.88916015625,1682.99035644531,116.0751953125,27.89697265625" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@481" Target="@565" Category="PoundInclude" Bounds="3079.76782226563,1191.48840332031,120.34521484375,27.9630126953125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@477" Target="@559" Category="PoundInclude" Bounds="3033.37329101563,185.998001098633,0,480.828659057617" />
+    <Link Source="@477" Target="@569" Category="PoundInclude" Bounds="993.260662623676,65.9977480554773,1.14445344934211E-05,21.0001000000014" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@479" Target="@541" Category="PoundInclude" Bounds="2815.26416015625,1682.99035644531,116.0751953125,27.89697265625" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@481" Target="@565" Category="PoundInclude" Bounds="3080.14282226563,1191.48840332031,120.34521484375,27.9630126953125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@483" Target="@567" Category="PoundInclude" Bounds="903.330214354681,625.977993772264,20.3242884822146,23.2269397067219" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@485" Target="@561" Category="PoundInclude" Bounds="196.783996582031,1971.30871582031,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@487" Target="@503" Category="PoundInclude" Bounds="641.199829101563,1043.49597167969,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@489" Target="@541" Category="PoundInclude" Bounds="2993.80224609375,1682.99035644531,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@489" Target="@541" Category="PoundInclude" Bounds="2994.17724609375,1682.99035644531,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@49" Target="@423" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@491" Target="@565" Category="PoundInclude" Bounds="3015.05712890625,1191.48840332031,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@491" Target="@565" Category="PoundInclude" Bounds="3015.43212890625,1191.48840332031,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@493" Target="@567" Category="PoundInclude" Bounds="642.876525878906,1667.31665039063,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@495" Target="@563" Category="PoundInclude" Bounds="1418.46337890625,1971.30871582031,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@497" Target="@565" Category="PoundInclude" Bounds="2863.78735351563,1191.48840332031,96.882568359375,27.5391845703125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@497" Target="@565" Category="PoundInclude" Bounds="2864.16235351563,1191.48840332031,96.882568359375,27.5391845703125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@499" Target="@567" Category="PoundInclude" Bounds="697.263793945313,1667.31665039063,96.8824462890625,27.5391845703125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@5" Target="@253" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@5" Target="@29" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@5" Target="@47" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@5" Target="@627" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@5" Target="@639" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@5" Target="@645" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@5" Target="@631" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@5" Target="@643" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@5" Target="@649" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@5" Target="@7" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@501" Target="@507" Category="PoundInclude" Bounds="301.127936782738,681.976093849343,261.600630702115,29.0081976343954" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@501" Target="@513" Category="PoundInclude" Bounds="810.272121233596,681.303878826551,342.537950548864,32.4010610021918" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@503" Target="@507" Category="PoundInclude" Bounds="180.656066894531,569.979919433594,264.817840576172,133.29150390625" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@503" Target="@509" Category="PoundInclude" Bounds="641.199829101563,1099.49401855469,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@503" Target="@567" Category="PoundInclude" Bounds="545.278930664063,567.419494628906,316.289184570313,86.9274291992188" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@505" Target="@525" Category="PoundInclude" Bounds="2721.80224609375,1794.98645019531,0,81" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@505" Target="@525" Category="PoundInclude" Bounds="2722.17724609375,1794.98645019531,0,81" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@507" Target="@527" Category="PoundInclude" Bounds="584.082336425781,1383.48596191406,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@509" Target="@501" Category="PoundInclude" Bounds="641.199829101563,1155.49194335938,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@51" Target="@111" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@51" Target="@209" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@51" Target="@423" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@51" Target="@43" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@511" Target="@535" Category="PoundInclude" Bounds="2735.05712890625,1303.484375,0,81" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@511" Target="@535" Category="PoundInclude" Bounds="2735.43212890625,1303.484375,0,81" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@513" Target="@537" Category="PoundInclude" Bounds="904.876525878906,1779.31262207031,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@515" Target="@171" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@517" Target="@413" Category="PoundInclude" Bounds="298.883483886719,-119.524505615234,152.473785400391,465.663146972656" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
@@ -1012,19 +1015,19 @@
     <Link Source="@525" Target="@413" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@527" Target="@537" Category="PoundInclude" Bounds="1127.59666922201,793.972161659235,92.0925435080474,27.4308907857254" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@53" Target="@345" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@539" Target="@523" Category="PoundInclude" Bounds="3499.01977539063,1738.98840332031,112.33984375,27.83544921875" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@539" Target="@543" Category="PoundInclude" Bounds="3673.57153320313,1738.98840332031,17.1005859375,22.800048828125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@539" Target="@523" Category="PoundInclude" Bounds="3622.64477539063,1119.97961425781,112.33984375,27.83544921875" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@539" Target="@543" Category="PoundInclude" Bounds="3797.19653320313,1119.97961425781,17.1005859375,22.800048828125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@541" Target="@367" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@541" Target="@413" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@541" Target="@505" Category="PoundInclude" Bounds="2793.75756835938,1738.98840332031,136.904296875,28.1851806640625" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@541" Target="@545" Category="PoundInclude" Bounds="2993.80224609375,1738.98840332031,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@541" Target="@505" Category="PoundInclude" Bounds="2794.13256835938,1738.98840332031,136.904296875,28.1851806640625" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@541" Target="@545" Category="PoundInclude" Bounds="2994.17724609375,1738.98840332031,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@543" Target="@45" Category="PoundInclude" />
-    <Link Source="@543" Target="@517" Category="PoundInclude" Bounds="2159.08649138813,233.991845879342,99.5453416613914,27.5958087781714" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@543" Target="@585" Category="PoundInclude" Bounds="2076.26943156011,233.991845879342,23.1589680319767,23.579293875987" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@545" Target="@517" Category="PoundInclude" Bounds="2341.70108321529,233.991867906444,38.5311319441148,25.089142689779" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@545" Target="@589" Category="PoundInclude" Bounds="2430.83721838327,233.991867906444,62.4316417436835,26.4852524419632" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@547" Target="@517" Category="PoundInclude" Bounds="2414.10125989663,233.991867906444,201.098267172252,28.7273289644715" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@547" Target="@587" Category="PoundInclude" Bounds="2706.19567871094,233.991867906444,0,21.0001293694696" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@543" Target="@517" Category="PoundInclude" Bounds="1859.3099169856,233.991908273519,221.976543313641,28.8405134809082" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@543" Target="@589" Category="PoundInclude" Bounds="1759.26063428545,233.991908273519,2.28890694415895E-05,21.0001000000053" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@545" Target="@517" Category="PoundInclude" Bounds="2080.45569663231,233.991908920437,68.2296717128343,26.718394084197" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@545" Target="@593" Category="PoundInclude" Bounds="1996.88223623468,233.991908920437,32.9684436477864,24.6155524979527" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@547" Target="@517" Category="PoundInclude" Bounds="2289.46857505452,233.991908920437,199.492384516336,28.7177326949705" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@547" Target="@591" Category="PoundInclude" Bounds="2608.27719524677,233.991908920437,58.7533753467314,26.3206503519369" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@549" Target="@507" Category="PoundInclude" Bounds="584.082336425781,1327.48803710938,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@549" Target="@567" Category="PoundInclude" Bounds="417.626342773438,622.576232910156,417.042419433594,32.7747802734375" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@55" Target="@207" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
@@ -1039,87 +1042,89 @@
     <Link Source="@55" Target="@51" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@55" Target="@77" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@55" Target="@79" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@551" Target="@573" Category="PoundInclude" Bounds="2421.19555664063,345.9880460335,0,21.0000999999999" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@553" Target="@611" Category="PoundInclude" Bounds="2609.32869207341,345.988068060602,65.0646605133534,26.5948713204958" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@555" Target="@613" Category="PoundInclude" Bounds="2167.99776069449,345.988173571255,65.0646605133534,26.5948713204959" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@557" Target="@515" Category="PoundInclude" Bounds="2724.12820625941,401.986168137681,6.88914607527158,21.4318810542136" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@551" Target="@573" Category="PoundInclude" Bounds="1771.09944367566,345.988108427677,21.2623384763899,23.3461173099514" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@553" Target="@615" Category="PoundInclude" Bounds="2618.00409037917,345.988109074595,57.7041205551891,26.2709555407869" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@555" Target="@617" Category="PoundInclude" Bounds="2438.26055471994,345.988109074595,9.15562764021161E-05,21.0001000000855" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@557" Target="@515" Category="PoundInclude" Bounds="1970.19326287326,401.986208504756,6.88907337247588,21.4318728918078" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@557" Target="@529" Category="PoundInclude" Bounds="964.8994140625,2027.306640625,110.739501953125,27.80810546875" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@559" Target="@451" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@559" Target="@517" Category="PoundInclude" Bounds="1349.15711413152,259.996157628677,842.843092451856,2343.11630295585" />
-    <Link Source="@559" Target="@523" Category="PoundInclude" Bounds="681.254196630273,175.145861368045,221.035727572915,31.5754317735349" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@559" Target="@571" Category="PoundInclude" Bounds="650.819027300881,177.994002785122,85.181487731259,27.2571078593094" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@559" Target="@583" Category="PoundInclude" Bounds="610.195690699869,177.994002785122,1.14445008421171E-05,21.0000010215551" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@559" Target="@523" Category="PoundInclude" Bounds="691.886596679688,177.994003295898,354.8369140625,30.9705505371094" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@559" Target="@571" Category="PoundInclude" Bounds="715.755379981884,177.629954562013,160.283747506725,29.1414535400045" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@559" Target="@587" Category="PoundInclude" Bounds="652.528256457344,177.994002785122,10.5560094099905,21.8931392004533" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@561" Target="@531" Category="PoundInclude" Bounds="243.442794799805,2027.306640625,99.0125885009766,27.584716796875" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@563" Target="@517" Category="PoundInclude" Bounds="1959.48900993707,233.04658125831,240.850559511086,29.8388200442848" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@563" Target="@517" Category="PoundInclude" Bounds="2226.51651798367,233.991908920437,56.6560524370743,26.2201197937333" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@563" Target="@533" Category="PoundInclude" Bounds="1479.05017089844,2027.306640625,131.026611328125,28.112060546875" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@565" Target="@511" Category="PoundInclude" Bounds="2808.87963867188,1247.48645019531,141.18017578125,28.2349853515625" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@565" Target="@547" Category="PoundInclude" Bounds="3015.05712890625,1247.48645019531,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@565" Target="@511" Category="PoundInclude" Bounds="2809.25463867188,1247.48645019531,141.18017578125,28.2349853515625" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@565" Target="@547" Category="PoundInclude" Bounds="3015.43212890625,1247.48645019531,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@567" Target="@513" Category="PoundInclude" Bounds="703.695434570313,1723.31469726563,131.560913085938,28.118896484375" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@569" Target="@559" Category="PoundInclude" Bounds="459.693716594474,121.995901182164,96.3502016702967,27.5276894004141" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@569" Target="@575" Category="PoundInclude" Bounds="3148.16015625,321.996002197266,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@569" Target="@559" Category="PoundInclude" Bounds="725.855005390754,121.995848132556,186.85561566966,30.1543794350719" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@569" Target="@575" Category="PoundInclude" Bounds="3193.017578125,321.996002197266,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@57" Target="@315" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@57" Target="@351" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@57" Target="@425" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@57" Target="@427" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@57" Target="@429" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@57" Target="@431" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@571" Target="@505" Category="PoundInclude" Bounds="2559.01440429688,1738.98840332031,104.8740234375,27.7015380859375" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@573" Target="@515" Category="PoundInclude" Bounds="2482.15621005412,400.519855914606,157.484899769534,29.7934413745242" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@579" Target="@559" Category="PoundInclude" Bounds="1430.28344726563,-770.487121582031,829.346923828125,601.966217041016" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@579" Target="@577" Category="PoundInclude" Bounds="3160.19848632813,549.828674316406,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@583" Target="@531" Category="PoundInclude" Bounds="397.783996582031,2027.306640625,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@585" Target="@551" Category="PoundInclude" Bounds="2141.69220979362,289.990073494176,186.111463108245,28.6315057567191" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@587" Target="@553" Category="PoundInclude" Bounds="2706.19560459629,289.989997352993,4.57780984106648E-05,21.0000706305517" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@589" Target="@551" Category="PoundInclude" Bounds="2454.99771672148,289.989967983523,51.4311742475279,25.9463400219565" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@571" Target="@505" Category="PoundInclude" Bounds="2559.38940429688,1738.98840332031,104.8740234375,27.7015380859375" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@573" Target="@515" Category="PoundInclude" Bounds="1845.77696436021,401.986208504756,73.5156674201853,26.9067716285607" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@579" Target="@559" Category="PoundInclude" Bounds="1355.41564941406,-663.325744628906,845.766723632813,773.113227844238" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@579" Target="@577" Category="PoundInclude" Bounds="3210.11254882813,549.828674316406,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@583" Target="@559" Category="PoundInclude" Bounds="442.77598330277,121.996001686489,133.163801216614,28.1392721365935" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@583" Target="@581" Category="PoundInclude" Bounds="3452.2939453125,321.996002197266,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@587" Target="@531" Category="PoundInclude" Bounds="397.783996582031,2027.306640625,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@589" Target="@551" Category="PoundInclude" Bounds="1759.26068115234,289.990008350598,0,21.0001" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@59" Target="@423" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@591" Target="@523" Category="PoundInclude" Bounds="3437.82177734375,1738.98840332031,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@593" Target="@505" Category="PoundInclude" Bounds="2728.73461914063,1738.98840332031,6.88916015625,21.4317626953125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@595" Target="@507" Category="PoundInclude" Bounds="347.579376220703,1327.48803710938,156.151062011719,28.3900146484375" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@597" Target="@529" Category="PoundInclude" Bounds="1136.13366699219,2027.306640625,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@599" Target="@531" Category="PoundInclude" Bounds="461.090209960938,2027.306640625,117.142456054688,27.913818359375" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@601" Target="@509" Category="PoundInclude" Bounds="425.429290771484,1099.49401855469,141.714630126953,28.2410888671875" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@603" Target="@533" Category="PoundInclude" Bounds="1679.46337890625,2027.306640625,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@605" Target="@511" Category="PoundInclude" Bounds="2741.98974609375,1247.48645019531,6.888916015625,21.4317626953125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@607" Target="@513" Category="PoundInclude" Bounds="904.876525878906,1723.31469726563,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@609" Target="@559" Category="PoundInclude" Bounds="662.6979666132,121.995841789276,92.624629854938,27.4434423799587" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@609" Target="@581" Category="PoundInclude" Bounds="3422.03979492188,321.996002197266,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@591" Target="@553" Category="PoundInclude" Bounds="2704.26054600257,289.990075401525,4.57780479337089E-05,21.0000335960125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@593" Target="@551" Category="PoundInclude" Bounds="1817.40912767931,289.989940234375,105.407264097136,27.7118093666752" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@595" Target="@523" Category="PoundInclude" Bounds="3561.44677734375,1119.97961425781,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@597" Target="@505" Category="PoundInclude" Bounds="2729.10961914063,1738.98840332031,6.88916015625,21.4317626953125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@599" Target="@507" Category="PoundInclude" Bounds="347.579376220703,1327.48803710938,156.151062011719,28.3900146484375" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@601" Target="@529" Category="PoundInclude" Bounds="1136.13366699219,2027.306640625,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@603" Target="@531" Category="PoundInclude" Bounds="461.090209960938,2027.306640625,117.142456054688,27.913818359375" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@605" Target="@509" Category="PoundInclude" Bounds="425.429290771484,1099.49401855469,141.714630126953,28.2410888671875" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@607" Target="@533" Category="PoundInclude" Bounds="1679.46337890625,2027.306640625,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@609" Target="@511" Category="PoundInclude" Bounds="2742.36474609375,1247.48645019531,6.888916015625,21.4317626953125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@61" Target="@423" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@611" Target="@519" Category="PoundInclude" Bounds="2523.20111975482,401.986168137681,29.9773250937901,24.3286839168885" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@613" Target="@519" Category="PoundInclude" Bounds="2325.88987552078,401.986273648334,112.87355469117,27.844431296619" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@615" Target="@511" Category="PoundInclude" Bounds="2565.35864257813,1247.48645019531,109.6728515625,27.789306640625" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@617" Target="@509" Category="PoundInclude" Bounds="714.891906738281,561.406860351563,645.916442871094,38.0439453125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@617" Target="@513" Category="PoundInclude" Bounds="1337.37585449219,569.979736328125,96.5810546875,139.9833984375" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@619" Target="@303" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@619" Target="@357" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@621" Target="@465" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@621" Target="@635" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@621" Target="@7" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@623" Target="@453" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@625" Target="@17" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@625" Target="@467" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@627" Target="@137" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@627" Target="@17" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@627" Target="@433" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@627" Target="@619" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@627" Target="@629" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@627" Target="@631" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@629" Target="@357" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@629" Target="@365" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@611" Target="@513" Category="PoundInclude" Bounds="904.876525878906,1723.31469726563,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@613" Target="@559" Category="PoundInclude" Bounds="249.838668823242,120.901100158691,317.095657348633,30.7911758422852" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@613" Target="@585" Category="PoundInclude" Bounds="3501.08740234375,549.828674316406,0,21" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@615" Target="@519" Category="PoundInclude" Bounds="2480.59610522896,401.986209151674,67.7017685231485,26.6983831630599" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@617" Target="@519" Category="PoundInclude" Bounds="2438.49287506381,401.986209151674,0.375040129474201,21.001534703217" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@619" Target="@511" Category="PoundInclude" Bounds="2565.73364257813,1247.48645019531,109.6728515625,27.789306640625" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@621" Target="@509" Category="PoundInclude" Bounds="714.891906738281,561.406860351563,645.916442871094,38.0439453125" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@621" Target="@513" Category="PoundInclude" Bounds="1337.37585449219,569.979736328125,96.5810546875,139.9833984375" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@623" Target="@303" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@623" Target="@357" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@625" Target="@465" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@625" Target="@639" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@625" Target="@7" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@627" Target="@453" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@629" Target="@17" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@629" Target="@467" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@63" Target="@423" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@631" Target="@357" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@631" Target="@369" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@631" Target="@137" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@631" Target="@17" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@631" Target="@433" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@631" Target="@623" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@631" Target="@633" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@631" Target="@635" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@633" Target="@357" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@635" Target="@23" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@635" Target="@455" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@637" Target="@15" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@633" Target="@365" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@635" Target="@357" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@635" Target="@369" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@637" Target="@357" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@639" Target="@23" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@639" Target="@455" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@641" Target="@5" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@643" Target="@17" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@643" Target="@625" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@643" Target="@9" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@645" Target="@629" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@645" Target="@643" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@645" Target="@7" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@641" Target="@15" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@643" Target="@455" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@645" Target="@5" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@647" Target="@17" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@647" Target="@629" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@647" Target="@9" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@649" Target="@633" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@649" Target="@647" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@649" Target="@7" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@65" Target="@423" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@67" Target="@217" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@67" Target="@369" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
@@ -1154,7 +1159,7 @@
     <Link Source="@9" Target="@17" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@9" Target="@21" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@9" Target="@463" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
-    <Link Source="@9" Target="@619" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+    <Link Source="@9" Target="@623" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@91" Target="@345" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@95" Target="@171" Category="PoundInclude" IsCircularLink="True" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
     <Link Source="@95" Target="@209" Category="PoundInclude" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
@@ -1208,6 +1213,8 @@
     <Link Source="Bare" Target="@569" Category="Contains" />
     <Link Source="Bare" Target="@575" Category="Contains" />
     <Link Source="Bare" Target="裸main" Category="Contains" />
+    <Link Source="Blank" Target="@577" Category="Contains" />
+    <Link Source="Blank" Target="@579" Category="Contains" />
     <Link Source="C/C++ Standard Library 间接包含" Target="@109" Category="Contains" />
     <Link Source="C/C++ Standard Library 间接包含" Target="@11" Category="Contains" />
     <Link Source="C/C++ Standard Library 间接包含" Target="@121" Category="Contains" />
@@ -1273,8 +1280,6 @@
     <Link Source="C/C++ Standard Library 间接包含" Target="@47" Category="Contains" />
     <Link Source="C/C++ Standard Library 间接包含" Target="@5" Category="Contains" />
     <Link Source="C/C++ Standard Library 间接包含" Target="@53" Category="Contains" />
-    <Link Source="C/C++ Standard Library 间接包含" Target="@619" Category="Contains" />
-    <Link Source="C/C++ Standard Library 间接包含" Target="@621" Category="Contains" />
     <Link Source="C/C++ Standard Library 间接包含" Target="@623" Category="Contains" />
     <Link Source="C/C++ Standard Library 间接包含" Target="@625" Category="Contains" />
     <Link Source="C/C++ Standard Library 间接包含" Target="@627" Category="Contains" />
@@ -1287,6 +1292,8 @@
     <Link Source="C/C++ Standard Library 间接包含" Target="@641" Category="Contains" />
     <Link Source="C/C++ Standard Library 间接包含" Target="@643" Category="Contains" />
     <Link Source="C/C++ Standard Library 间接包含" Target="@645" Category="Contains" />
+    <Link Source="C/C++ Standard Library 间接包含" Target="@647" Category="Contains" />
+    <Link Source="C/C++ Standard Library 间接包含" Target="@649" Category="Contains" />
     <Link Source="C/C++ Standard Library 间接包含" Target="@7" Category="Contains" />
     <Link Source="C/C++ Standard Library 间接包含" Target="@87" Category="Contains" />
     <Link Source="C/C++ Standard Library 间接包含" Target="@9" Category="Contains" />
@@ -1306,25 +1313,26 @@
     <Link Source="Helper" Target="@501" Category="Contains" />
     <Link Source="Helper" Target="@503" Category="Contains" />
     <Link Source="Helper" Target="@509" Category="Contains" />
-    <Link Source="Helper" Target="@601" Category="Contains" />
+    <Link Source="Helper" Target="@605" Category="Contains" />
     <Link Source="HelperFunction" Target="@483" Category="Contains" />
     <Link Source="HelperFunction" Target="@507" Category="Contains" />
     <Link Source="HelperFunction" Target="@527" Category="Contains" />
     <Link Source="HelperFunction" Target="@549" Category="Contains" />
-    <Link Source="HelperFunction" Target="@595" Category="Contains" />
+    <Link Source="HelperFunction" Target="@599" Category="Contains" />
     <Link Source="HelperFunction" Target="这种东西可以考虑不对外显" Category="Contains" />
     <Link Source="Main" Target="@469" Category="Contains" />
     <Link Source="Main" Target="@477" Category="Contains" />
     <Link Source="Main" Target="@559" Category="Contains" />
     <Link Source="Main" Target="MainWholeInc" Category="Contains" />
     <Link Source="MainWholeInc" Target="Bare" Category="Contains" />
+    <Link Source="MainWholeInc" Target="Blank" Category="Contains" />
     <Link Source="MainWholeInc" Target="Test" Category="Contains" />
     <Link Source="MainWholeInc" Target="Win32window" Category="Contains" />
     <Link Source="PlayAFile" Target="@471" Category="Contains" />
     <Link Source="PlayAFile" Target="@523" Category="Contains" />
     <Link Source="PlayAFile" Target="@539" Category="Contains" />
     <Link Source="PlayAFile" Target="@543" Category="Contains" />
-    <Link Source="PlayAFile" Target="@591" Category="Contains" />
+    <Link Source="PlayAFile" Target="@595" Category="Contains" />
     <Link Source="PlayAFile" Target="某过程流程包含的对第三方调用" Category="Contains" />
     <Link Source="PoundIncludeGraphExternalsGroup" Target="G2" Category="Contains" />
     <Link Source="PoundIncludeGraphExternalsGroup" Target="G4" Category="Contains" />
@@ -1333,9 +1341,9 @@
     <Link Source="Procedure" Target="@513" Category="Contains" />
     <Link Source="Procedure" Target="@537" Category="Contains" />
     <Link Source="Procedure" Target="@567" Category="Contains" />
-    <Link Source="Procedure" Target="@607" Category="Contains" />
-    <Link Source="Test" Target="@577" Category="Contains" />
-    <Link Source="Test" Target="@579" Category="Contains" />
+    <Link Source="Procedure" Target="@611" Category="Contains" />
+    <Link Source="Test" Target="@581" Category="Contains" />
+    <Link Source="Test" Target="@583" Category="Contains" />
     <Link Source="ThirdPademoNameXXX" Target="想使用xxxx" Category="Contains" />
     <Link Source="VideoCapture" Target="@473" Category="Contains" />
     <Link Source="VideoCapture" Target="@479" Category="Contains" />
@@ -1345,10 +1353,10 @@
     <Link Source="VideoCapture" Target="@541" Category="Contains" />
     <Link Source="VideoCapture" Target="@545" Category="Contains" />
     <Link Source="VideoCapture" Target="@571" Category="Contains" />
-    <Link Source="VideoCapture" Target="@593" Category="Contains" />
+    <Link Source="VideoCapture" Target="@597" Category="Contains" />
     <Link Source="VideoCapture" Target="当前过程流程包含的对第三方调用" Category="Contains" />
-    <Link Source="Win32window" Target="@581" Category="Contains" />
-    <Link Source="Win32window" Target="@609" Category="Contains" />
+    <Link Source="Win32window" Target="@585" Category="Contains" />
+    <Link Source="Win32window" Target="@613" Category="Contains" />
     <Link Source="Windows SDK 间接包含" Target="@101" Category="Contains" />
     <Link Source="Windows SDK 间接包含" Target="@103" Category="Contains" IsCircularLink="True" />
     <Link Source="Windows SDK 间接包含" Target="@105" Category="Contains" IsCircularLink="True" />
@@ -1506,24 +1514,24 @@
     <Link Source="Windows SDK 间接包含" Target="@95" Category="Contains" IsCircularLink="True" />
     <Link Source="Windows SDK 间接包含" Target="@97" Category="Contains" IsCircularLink="True" />
     <Link Source="Windows SDK 间接包含" Target="@99" Category="Contains" />
-    <Link Source="XXXX对XX组件的调用" Target="@613" Category="Contains" />
-    <Link Source="XXXX对XX组件的调用1" Target="@611" Category="Contains" />
+    <Link Source="XXXX对XX组件的调用" Target="@617" Category="Contains" />
+    <Link Source="XXXX对XX组件的调用1" Target="@615" Category="Contains" />
     <Link Source="XX调用Demo示例" Target="@521" Category="Contains" />
     <Link Source="XX调用Demo示例" Target="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月22日23:24:40版本号：v0.4.1.2" Category="Contains" />
     <Link Source="XX调用demo示例（目前该成分构件结构内部架构成分版本：v0.4.1.2）" Target="@519" Category="Contains" />
-    <Link Source="Xxxx" Target="@589" Category="Contains" />
+    <Link Source="Xxxx" Target="@593" Category="Contains" />
     <Link Source="临时注释：接下来需要改这个里面的所有文件的注释内容" Target="功能集成分架构结构构件示例样例DemoNameXXXV0.2.1.4" Bounds="1212.62048339844,868,12.322265625,53.5" />
-    <Link Source="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月22日23:24:40版本号：v0.4.1.2" Target="XX调用Demo示例" Bounds="2047.98461914063,3050.55078125,12.322265625,53.5" />
-    <Link Source="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日12:33:37版本号：v0.5.1.2" Target="外部组件调用提供集成分架构结构构件示例样例XX调用demo示例（目前该成分构件结构内部架构成分版本：v0.4.1.2）" Bounds="2022.96887207031,2650.32055664063,12.322265625,33.5" />
-    <Link Source="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日16:08:11版本号：v0.3.1.2" Target="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Bounds="2562.90991210938,1566.99243164063,12.322265625,33.5" />
+    <Link Source="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月22日23:24:40版本号：v0.4.1.2" Target="XX调用Demo示例" Bounds="2109.79711914063,3050.55078125,12.322265625,53.5" />
+    <Link Source="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日12:33:37版本号：v0.5.1.2" Target="外部组件调用提供集成分架构结构构件示例样例XX调用demo示例（目前该成分构件结构内部架构成分版本：v0.4.1.2）" Bounds="2084.78149414063,2650.32055664063,12.322265625,33.5" />
+    <Link Source="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日16:08:11版本号：v0.3.1.2" Target="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Bounds="2563.28491210938,1566.99243164063,12.322265625,33.5" />
     <Link Source="使用COM" Target="@475" Category="Contains" />
     <Link Source="使用COM" Target="@529" Category="Contains" />
     <Link Source="使用COM" Target="@557" Category="Contains" />
-    <Link Source="使用COM" Target="@597" Category="Contains" />
+    <Link Source="使用COM" Target="@601" Category="Contains" />
     <Link Source="使用directShow" Target="@495" Category="Contains" />
     <Link Source="使用directShow" Target="@533" Category="Contains" />
     <Link Source="使用directShow" Target="@563" Category="Contains" />
-    <Link Source="使用directShow" Target="@603" Category="Contains" />
+    <Link Source="使用directShow" Target="@607" Category="Contains" />
     <Link Source="使用过程中协作调用" Target="使用过程中协作调用关系成分架构结构构件示例样例XXXX的用到使用调用过程包含demo示例（目前该成分构件结构内部架构成分版本：v0.5.1.2）" Category="Contains" />
     <Link Source="使用过程中协作调用" Target="外部组件调用提供集成分架构结构构件示例样例XX调用demo示例（目前该成分构件结构内部架构成分版本：v0.4.1.2）" Category="Contains" />
     <Link Source="使用过程中协作调用" Target="用到DirectShow的调用过程包含" Category="Contains" />
@@ -1543,7 +1551,7 @@
     <Link Source="功能集" Target="该成分所在架构内成分示例成分demo内容" Category="Contains" />
     <Link Source="功能集1" Target="PureLogic式" Category="Contains" />
     <Link Source="功能集1" Target="流程功能" Category="Contains" />
-    <Link Source="功能集成分架构结构构件示例样例DemoNameXXXV0.2.1.4" Target="@617" Category="Contains" />
+    <Link Source="功能集成分架构结构构件示例样例DemoNameXXXV0.2.1.4" Target="@621" Category="Contains" />
     <Link Source="功能集成分架构结构构件示例样例DemoNameXXXV0.2.1.4" Target="ActionWith1" Category="Contains" />
     <Link Source="功能集成分架构结构构件示例样例DemoNameXXXV0.2.1.4" Target="Helper" Category="Contains" />
     <Link Source="功能集成分架构结构构件示例样例DemoNameXXXV0.2.1.4" Target="HelperFunction" Category="Contains" />
@@ -1558,8 +1566,8 @@
     <Link Source="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Target="@535" Category="Contains" />
     <Link Source="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Target="@547" Category="Contains" />
     <Link Source="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Target="@565" Category="Contains" />
-    <Link Source="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Target="@605" Category="Contains" />
-    <Link Source="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Target="@615" Category="Contains" />
+    <Link Source="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Target="@609" Category="Contains" />
+    <Link Source="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Target="@619" Category="Contains" />
     <Link Source="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Target="ThirdPademoNameXXX" Category="Contains" />
     <Link Source="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Target="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日16:08:11版本号：v0.3.1.2" Category="Contains" />
     <Link Source="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Target="这种东西考虑可以不对外显" Category="Contains" />
@@ -1574,8 +1582,8 @@
     <Link Source="外部组件调用提供集成分架构结构构件示例样例XX调用demo示例（目前该成分构件结构内部架构成分版本：v0.4.1.2）" Target="XXXX对XX组件的调用" Category="Contains" />
     <Link Source="外部组件调用提供集成分架构结构构件示例样例XX调用demo示例（目前该成分构件结构内部架构成分版本：v0.4.1.2）" Target="临时注释：该结构成分内构件架构结构最后一次更新：2018年12月24日12:33:37版本号：v0.5.1.2" Category="Contains" />
     <Link Source="当前过程流程包含的对第三方调用" Target="Xxxx" Category="Contains" />
-    <Link Source="想使用directShow播放视频" Target="@585" Category="Contains" />
-    <Link Source="想使用xxxx" Target="@587" Category="Contains" />
+    <Link Source="想使用directShow播放视频" Target="@589" Category="Contains" />
+    <Link Source="想使用xxxx" Target="@591" Category="Contains" />
     <Link Source="某过程流程包含的对第三方调用" Target="想使用directShow播放视频" Category="Contains" />
     <Link Source="流程功能" Target="PlayAFile" Category="Contains" />
     <Link Source="流程功能" Target="VideoCapture" Category="Contains" />
@@ -1586,19 +1594,19 @@
     <Link Source="组件TemplateLearn" Target="@485" Category="Contains" />
     <Link Source="组件TemplateLearn" Target="@531" Category="Contains" />
     <Link Source="组件TemplateLearn" Target="@561" Category="Contains" />
-    <Link Source="组件TemplateLearn" Target="@583" Category="Contains" />
-    <Link Source="组件TemplateLearn" Target="@599" Category="Contains" />
+    <Link Source="组件TemplateLearn" Target="@587" Category="Contains" />
+    <Link Source="组件TemplateLearn" Target="@603" Category="Contains" />
     <Link Source="组件TemplateLearn" Target="ActionWith" Category="Contains" />
     <Link Source="组件TemplateLearn" Target="SupportOut" Category="Contains" />
     <Link Source="自己写产出的代码" Target="内体系代码" Category="Contains" Bounds="177.086639404297,25.8366661071777,43.0116119384766,25.4207916259766" />
     <Link Source="自己写产出的代码" Target="外部流程" Category="Contains" />
-    <Link Source="裸main" Target="Bare" Bounds="3095.77294921875,433.830657958984,12.322265625,33.5" />
-    <Link Source="该成分所在同级架构内成分示例成分demo内容" Target="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Bounds="2907.08374023438,1039.65380859375,0,21" />
-    <Link Source="该成分所在同级架构内成分示例成分demo内容1" Target="XX调用Demo示例" Bounds="2001.00190671107,3033.99000192698,8.73207914328782,21.7109077084788" />
-    <Link Source="该成分所在同级架构内成分示例成分demo内容2" Target="外部组件调用提供集成分架构结构构件示例样例XX调用demo示例（目前该成分构件结构内部架构成分版本：v0.4.1.2）" Bounds="2022.96887207031,2350.81469726563,0,21" />
+    <Link Source="裸main" Target="Bare" Bounds="3140.63037109375,433.830657958984,12.322265625,33.5" />
+    <Link Source="该成分所在同级架构内成分示例成分demo内容" Target="功能集成分架构结构构件示例样例DemoNameXXX（目前该成分构件结构内部架构成分版本：v0.2.1.4）" Bounds="2907.45874023438,1039.65380859375,0,21" />
+    <Link Source="该成分所在同级架构内成分示例成分demo内容1" Target="XX调用Demo示例" Bounds="2062.81440671107,3033.99000192698,8.73207914328805,21.7109077084788" />
+    <Link Source="该成分所在同级架构内成分示例成分demo内容2" Target="外部组件调用提供集成分架构结构构件示例样例XX调用demo示例（目前该成分构件结构内部架构成分版本：v0.4.1.2）" Bounds="2084.78149414063,2350.81469726563,0,21" />
     <Link Source="该成分所在架构内成分示例成分demo内容" Target="功能集成分架构结构构件示例样例DemoNameXXXV0.2.1.4" Bounds="894.861938476563,851.5,0,21" />
     <Link Source="这种东西可以考虑不对外显" Target="@483" Bounds="239.200668334961,1495.32067871094,0,21" />
-    <Link Source="这种东西考虑可以不对外显" Target="@481" Bounds="3256.05712890625,1135.49035644531,0,21" />
+    <Link Source="这种东西考虑可以不对外显" Target="@481" Bounds="3256.43212890625,1135.49035644531,0,21" />
   </Links>
   <Categories>
     <Category Id="Category1" Label="类别 1" Background="#FFE51400" IsTag="True" />
@@ -2230,76 +2238,80 @@
     <Alias n="573" Id="(@1 @572)" />
     <Alias n="574" Uri="File=$(VsSolutionUri)/directShowUseOnly/main/mainWholeInc/bare/bareMain.hpp" />
     <Alias n="575" Id="(@1 @574)" />
-    <Alias n="576" Uri="File=$(VsSolutionUri)/directShowUseOnly/main/mainWholeInc/test/testMain.hpp" />
+    <Alias n="576" Uri="File=$(VsSolutionUri)/directShowUseOnly/main/mainWholeInc/blank/blankMain.hpp" />
     <Alias n="577" Id="(@1 @576)" />
-    <Alias n="578" Uri="File=$(VsSolutionUri)/directShowUseOnly/main/mainWholeInc/test/mainWholeInc_testMain.hpp" />
+    <Alias n="578" Uri="File=$(VsSolutionUri)/directShowUseOnly/main/mainWholeInc/blank/mainWholeInc_blankMain.hpp" />
     <Alias n="579" Id="(@1 @578)" />
-    <Alias n="580" Uri="File=$(VsSolutionUri)/directShowUseOnly/main/mainWholeInc/win32window/win32windowMain.hpp" />
+    <Alias n="580" Uri="File=$(VsSolutionUri)/directShowUseOnly/main/mainWholeInc/test/testMain.hpp" />
     <Alias n="581" Id="(@1 @580)" />
-    <Alias n="582" Uri="File=$(VsSolutionUri)/directshowuseonly/source/sub/templatelearn/templatelearn.hpp" />
+    <Alias n="582" Uri="File=$(VsSolutionUri)/directShowUseOnly/main/mainWholeInc/test/mainWholeInc_testMain.hpp" />
     <Alias n="583" Id="(@1 @582)" />
-    <Alias n="584" Uri="File=$(VsSolutionUri)/directshowuseonly/source/functionsets/procedure_playafile/thirdpartyuse_include/directshow_use/plaf_wtusedirectshow_pmo.hpp" />
+    <Alias n="584" Uri="File=$(VsSolutionUri)/directShowUseOnly/main/mainWholeInc/win32window/win32windowMain.hpp" />
     <Alias n="585" Id="(@1 @584)" />
-    <Alias n="586" Uri="File=$(VsSolutionUri)/directshowuseonly/架构demo结构/source/功能集/procedure_demonamexxx v0.3.1.2/thirdpartyuse_include/xxxx_use/dnx_wtux_tds.hpp" />
+    <Alias n="586" Uri="File=$(VsSolutionUri)/directshowuseonly/source/sub/templatelearn/templatelearn.hpp" />
     <Alias n="587" Id="(@1 @586)" />
-    <Alias n="588" Uri="File=$(VsSolutionUri)/directshowuseonly/source/functionsets/procedure_videocapture/thirdpartyuse_include/xxxx_use/dnx_wtux_tds.hpp" />
+    <Alias n="588" Uri="File=$(VsSolutionUri)/directshowuseonly/source/functionsets/procedure_playafile/thirdpartyuse_include/directshow_use/plaf_wtusedirectshow_pmo.hpp" />
     <Alias n="589" Id="(@1 @588)" />
-    <Alias n="590" Uri="File=$(VsSolutionUri)/directshowuseonly/source/functionsets/procedure_playafile/playafile_namespace_usethis.hpp" />
+    <Alias n="590" Uri="File=$(VsSolutionUri)/directshowuseonly/架构demo结构/source/功能集/procedure_demonamexxx v0.3.1.2/thirdpartyuse_include/xxxx_use/dnx_wtux_tds.hpp" />
     <Alias n="591" Id="(@1 @590)" />
-    <Alias n="592" Uri="File=$(VsSolutionUri)/directShowUseOnly/source/functionSets/procedure_videoCapture/videoCapture_namespace_useThis.hpp" />
+    <Alias n="592" Uri="File=$(VsSolutionUri)/directshowuseonly/source/functionsets/procedure_videocapture/thirdpartyuse_include/xxxx_use/dnx_wtux_tds.hpp" />
     <Alias n="593" Id="(@1 @592)" />
-    <Alias n="594" Uri="File=$(VsSolutionUri)/directshowuseonly/架构demo结构/source/内部组件集/demonamexxx v0.2.1.4/demonamexxx_helperf_namespace_usethis.hpp" />
+    <Alias n="594" Uri="File=$(VsSolutionUri)/directshowuseonly/source/functionsets/procedure_playafile/playafile_namespace_usethis.hpp" />
     <Alias n="595" Id="(@1 @594)" />
-    <Alias n="596" Uri="File=$(VsSolutionUri)/directshowuseonly/source/sub/usecom/usecom_namespace_usethis.hpp" />
+    <Alias n="596" Uri="File=$(VsSolutionUri)/directShowUseOnly/source/functionSets/procedure_videoCapture/videoCapture_namespace_useThis.hpp" />
     <Alias n="597" Id="(@1 @596)" />
-    <Alias n="598" Uri="File=$(VsSolutionUri)/directshowuseonly/source/sub/templatelearn/templatelearn_namespace_usethis.hpp" />
+    <Alias n="598" Uri="File=$(VsSolutionUri)/directshowuseonly/架构demo结构/source/内部组件集/demonamexxx v0.2.1.4/demonamexxx_helperf_namespace_usethis.hpp" />
     <Alias n="599" Id="(@1 @598)" />
-    <Alias n="600" Uri="File=$(VsSolutionUri)/directshowuseonly/架构demo结构/source/内部组件集/demonamexxx v0.2.1.4/demonamexxx_helper_namespace_usethis.hpp" />
+    <Alias n="600" Uri="File=$(VsSolutionUri)/directshowuseonly/source/sub/usecom/usecom_namespace_usethis.hpp" />
     <Alias n="601" Id="(@1 @600)" />
-    <Alias n="602" Uri="File=$(VsSolutionUri)/directshowuseonly/source/sub/usedirectshow/usedirectshow_namespace_usethis.hpp" />
+    <Alias n="602" Uri="File=$(VsSolutionUri)/directshowuseonly/source/sub/templatelearn/templatelearn_namespace_usethis.hpp" />
     <Alias n="603" Id="(@1 @602)" />
-    <Alias n="604" Uri="File=$(VsSolutionUri)/directshowuseonly/架构demo结构/source/功能集/procedure_demonamexxx v0.3.1.2/demonamexxx_namespace_usethis.hpp" />
+    <Alias n="604" Uri="File=$(VsSolutionUri)/directshowuseonly/架构demo结构/source/内部组件集/demonamexxx v0.2.1.4/demonamexxx_helper_namespace_usethis.hpp" />
     <Alias n="605" Id="(@1 @604)" />
-    <Alias n="606" Uri="File=$(VsSolutionUri)/directshowuseonly/架构demo结构/source/内部组件集/demonamexxx v0.2.1.4/demonamexxx_namespace_usethis.hpp" />
+    <Alias n="606" Uri="File=$(VsSolutionUri)/directshowuseonly/source/sub/usedirectshow/usedirectshow_namespace_usethis.hpp" />
     <Alias n="607" Id="(@1 @606)" />
-    <Alias n="608" Uri="File=$(VsSolutionUri)/directShowUseOnly/main/mainWholeInc/win32window/mainWholeInc_win32window.hpp" />
+    <Alias n="608" Uri="File=$(VsSolutionUri)/directshowuseonly/架构demo结构/source/功能集/procedure_demonamexxx v0.3.1.2/demonamexxx_namespace_usethis.hpp" />
     <Alias n="609" Id="(@1 @608)" />
-    <Alias n="610" Uri="File=$(VsSolutionUri)/directShowUseOnly/header/thirdParty_procedureNeedUses/xxxxUse/useXX/demoXX.hpp" />
+    <Alias n="610" Uri="File=$(VsSolutionUri)/directshowuseonly/架构demo结构/source/内部组件集/demonamexxx v0.2.1.4/demonamexxx_namespace_usethis.hpp" />
     <Alias n="611" Id="(@1 @610)" />
-    <Alias n="612" Uri="File=$(VsSolutionUri)/directShowUseOnly/架构Demo结构/header/thirdParty_procedureNeedUses/xxxxUse/useXX/demoXX.hpp" />
+    <Alias n="612" Uri="File=$(VsSolutionUri)/directShowUseOnly/main/mainWholeInc/win32window/mainWholeInc_win32window.hpp" />
     <Alias n="613" Id="(@1 @612)" />
-    <Alias n="614" Uri="File=$(VsSolutionUri)/directshowuseonly/架构demo结构/source/功能集/procedure_demonamexxx v0.3.1.2/demonamexxx.hpp" />
+    <Alias n="614" Uri="File=$(VsSolutionUri)/directShowUseOnly/header/thirdParty_procedureNeedUses/xxxxUse/useXX/demoXX.hpp" />
     <Alias n="615" Id="(@1 @614)" />
-    <Alias n="616" Uri="File=$(VsSolutionUri)/directShowUseOnly/架构Demo结构/source/内部组件集/demoNameXXX v0.2.1.4/demoNameXXX.hpp" />
+    <Alias n="616" Uri="File=$(VsSolutionUri)/directShowUseOnly/架构Demo结构/header/thirdParty_procedureNeedUses/xxxxUse/useXX/demoXX.hpp" />
     <Alias n="617" Id="(@1 @616)" />
-    <Alias n="618" Uri="File=$(VsInstallDirUri)/vc/include/cwchar" />
-    <Alias n="619" Id="(@3 @618)" />
-    <Alias n="620" Uri="File=$(VsInstallDirUri)/vc/include/system_error" />
-    <Alias n="621" Id="(@3 @620)" />
-    <Alias n="622" Uri="File=$(VsInstallDirUri)/vc/include/ios" />
+    <Alias n="618" Uri="File=$(VsSolutionUri)/directshowuseonly/架构demo结构/source/功能集/procedure_demonamexxx v0.3.1.2/demonamexxx.hpp" />
+    <Alias n="619" Id="(@1 @618)" />
+    <Alias n="620" Uri="File=$(VsSolutionUri)/directShowUseOnly/架构Demo结构/source/内部组件集/demoNameXXX v0.2.1.4/demoNameXXX.hpp" />
+    <Alias n="621" Id="(@1 @620)" />
+    <Alias n="622" Uri="File=$(VsInstallDirUri)/vc/include/cwchar" />
     <Alias n="623" Id="(@3 @622)" />
-    <Alias n="624" Uri="File=$(VsInstallDirUri)/vc/include/type_traits" />
+    <Alias n="624" Uri="File=$(VsInstallDirUri)/vc/include/system_error" />
     <Alias n="625" Id="(@3 @624)" />
-    <Alias n="626" Uri="File=$(VsInstallDirUri)/vc/include/limits" />
+    <Alias n="626" Uri="File=$(VsInstallDirUri)/vc/include/ios" />
     <Alias n="627" Id="(@3 @626)" />
-    <Alias n="628" Uri="File=$(VsInstallDirUri)/vc/include/climits" />
+    <Alias n="628" Uri="File=$(VsInstallDirUri)/vc/include/type_traits" />
     <Alias n="629" Id="(@3 @628)" />
-    <Alias n="630" Uri="File=$(VsInstallDirUri)/vc/include/cfloat" />
+    <Alias n="630" Uri="File=$(VsInstallDirUri)/vc/include/limits" />
     <Alias n="631" Id="(@3 @630)" />
-    <Alias n="632" Uri="File=$(VsInstallDirUri)/vc/include/xfacet" />
+    <Alias n="632" Uri="File=$(VsInstallDirUri)/vc/include/climits" />
     <Alias n="633" Id="(@3 @632)" />
-    <Alias n="634" Uri="File=$(VsInstallDirUri)/vc/include/stdexcept" />
+    <Alias n="634" Uri="File=$(VsInstallDirUri)/vc/include/cfloat" />
     <Alias n="635" Id="(@3 @634)" />
-    <Alias n="636" Uri="File=$(VsInstallDirUri)/vc/include/initializer_list" />
+    <Alias n="636" Uri="File=$(VsInstallDirUri)/vc/include/xfacet" />
     <Alias n="637" Id="(@3 @636)" />
-    <Alias n="638" Uri="File=$(VsInstallDirUri)/vc/include/new" />
+    <Alias n="638" Uri="File=$(VsInstallDirUri)/vc/include/stdexcept" />
     <Alias n="639" Id="(@3 @638)" />
-    <Alias n="640" Uri="File=$(VsInstallDirUri)/vc/include/xmemory" />
+    <Alias n="640" Uri="File=$(VsInstallDirUri)/vc/include/initializer_list" />
     <Alias n="641" Id="(@3 @640)" />
-    <Alias n="642" Uri="File=$(VsInstallDirUri)/vc/include/utility" />
+    <Alias n="642" Uri="File=$(VsInstallDirUri)/vc/include/new" />
     <Alias n="643" Id="(@3 @642)" />
-    <Alias n="644" Uri="File=$(VsInstallDirUri)/vc/include/xutility" />
+    <Alias n="644" Uri="File=$(VsInstallDirUri)/vc/include/xmemory" />
     <Alias n="645" Id="(@3 @644)" />
+    <Alias n="646" Uri="File=$(VsInstallDirUri)/vc/include/utility" />
+    <Alias n="647" Id="(@3 @646)" />
+    <Alias n="648" Uri="File=$(VsInstallDirUri)/vc/include/xutility" />
+    <Alias n="649" Id="(@3 @648)" />
   </IdentifierAliases>
   <Styles>
     <Style TargetType="Node" GroupLabel="C++ 项目文件" ValueLabel="具有类别">

@@ -29,7 +29,7 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 	HRESULT hr;//用于接收返回结果
 
 	//COM组件初始化流程 代码段 开始--------------------------------------------------------2018年12月25日09:52:11
-	HRESULT hr = CoInitializeEx(NULL, COINIT_MULTITHREADED);
+	hr = CoInitializeEx(NULL, COINIT_MULTITHREADED);
 	//COM组件初始化流程 代码段 结束--------------------------------------------------------2018年12月25日09:52:11
 
 	//创建一个Graph 代码段 开始--------------------------------------------------------2018年12月24日21:49:42

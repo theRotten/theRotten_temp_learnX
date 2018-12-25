@@ -22,14 +22,15 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 	//测试试验 目的：去实现一个让摄像头在屏幕上预览
 
 	IMoniker *pMoniker;//用于接收摄像头设备的昵称
-	IGraphBuilder **m_pGraph=NULL;//用于接收画布
+	IGraphBuilder **m_pGraph=NULL;//用于接收FilterGraph
+	IEnumMoniker *pEnum;//用于接收枚举
+	IBaseFilter *pCap = NULL;
+
 	HRESULT hr;//用于接收返回结果
 
 	//COM组件初始化流程 代码段 开始--------------------------------------------------------2018年12月25日09:52:11
 	HRESULT hr = CoInitializeEx(NULL, COINIT_MULTITHREADED);
 	//COM组件初始化流程 代码段 结束--------------------------------------------------------2018年12月25日09:52:11
-
-
 
 	//创建一个Graph 代码段 开始--------------------------------------------------------2018年12月24日21:49:42
 	//2.接下来，调用CoCreateInstance以创建Filter Graph Manager：
@@ -37,34 +38,19 @@ void ::____aRottenGeneralNameThisX_thisNamespace_thisUse_randomMacro_20181224135
 	hr = CoCreateInstance(CLSID_FilterGraph, NULL,
 		CLSCTX_INPROC_SERVER, IID_IGraphBuilder, (void **)m_pGraph);//创建CLSID_FilterGraph种类的实例，非聚合COM对象，线程内运行上下文，通讯接口（和IID_IGraphBuilder进行），用m_pGraph接收创建出来的实例//这条执行之后，出现了1个新线程：quartz.dll!ObjectThread
 	//如图所示，类标识符（CLSID）是CLSID_FilterGraph。Filter Graph Manager由进程内DLL提供，因此执行上下文为CLSCTX_INPROC_SERVER。DirectShow支持自由线程模型，因此您也可以使用COINIT_MULTITHREADED标志调用CoInitializeEx。
-
-
 	//创建一个Graph 代码段 结束--------------------------------------------------------2018年12月24日21:49:42
 
+	//对摄像头类型设备进行枚举 代码段内部段 开始----------------------------------2018年12月25日09:59:56
+	hr = EnumerateDevices(CLSID_VideoInputDeviceCategory, &pEnum);//CLSID_VideoInputDeviceCategory是摄像头（视频输入设备）类的GUID
+	//对摄像头类型设备进行枚举 代码段内部段 结束----------------------------------2018年12月25日09:59:56
 
-	if (SUCCEEDED(hr))
-	{
-		IEnumMoniker *pEnum;
+	//用于释放‘设备的枚举’ 设备枚举周期_释放 开始----------------------------------2018年12月25日11:25:26
+	pEnum->Release();
+	//用于释放‘设备的枚举’ 设备枚举周期_释放 结束----------------------------------2018年12月25日11:25:26
 
-		//对摄像头类型设备进行枚举 代码段内部段 开始----------------------------------2018年12月25日09:59:56
-		hr = EnumerateDevices(CLSID_VideoInputDeviceCategory, &pEnum);//CLSID_VideoInputDeviceCategory是摄像头（视频输入设备）类的GUID
-		//对摄像头类型设备进行枚举 代码段内部段 结束----------------------------------2018年12月25日09:59:56
-		
-		if (SUCCEEDED(hr))
-		{
-			DisplayDeviceInformation(pEnum);
-			pEnum->Release();
-		}
-		hr = EnumerateDevices(CLSID_AudioInputDeviceCategory, &pEnum);//CLSID_VideoInputDeviceCategory是麦克风（音频输入设备）类的GUID
-		if (SUCCEEDED(hr))
-		{
-			DisplayDeviceInformation(pEnum);
-			pEnum->Release();
-		}
-		//COM组件Un初始化流程 代码段 开始--------------------------------------------------------2018年12月25日09:52:11
-		CoUninitialize();
-		//COM组件Un初始化流程 代码段 结束--------------------------------------------------------2018年12月25日09:52:11
-	}
+	//COM组件Un初始化流程 代码段 开始--------------------------------------------------------2018年12月25日09:52:11
+	CoUninitialize();
+	//COM组件Un初始化流程 代码段 结束--------------------------------------------------------2018年12月25日09:52:11
 
 	
 

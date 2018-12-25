@@ -79,6 +79,7 @@
     <ClCompile Include="source\sub\useCOM\useCOM.cpp" />
     <ClCompile Include="source\sub\templateLearn\templateLearn.cpp" />
     <ClCompile Include="source\functionSets\procedure_videoCapture\videoCapture.cpp" />
+    <ClCompile Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helper.cpp" />
     <ClCompile Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX.cpp" />
     <ClCompile Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helperFunction.cpp" />
     <ClCompile Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_parts.cpp" />
@@ -117,10 +118,18 @@
     <ClInclude Include="source\functionSets\procedure_videoCapture\videoCapture_namespace_useThis.hpp" />
     <ClInclude Include="source\functionSets\procedure_videoCapture\videoCapture_thirdPartyUse_include.hpp" />
     <ClInclude Include="source\functionSets\procedure_videoCapture\thirdPartyUse_include\xxxx_use\dNX_wTUX_tDS.hpp" />
+    <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helper_namespace_useThis.hpp" />
+    <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helperF_namespace_useThis.hpp" />
+    <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helperF_include.hpp" />
+    <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helperF_namespace_include.hpp" />
+    <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helperFunction_namespace.hpp" />
+    <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helper_include.hpp" />
     <ClInclude Include="架构Demo结构\header\thirdParty_procedureNeedUses\xxxxUse\useXX\demoXX.hpp" />
     <ClInclude Include="架构Demo结构\header\thirdParty_procedureNeedUses\xxxxUse\XXXXUseProcedure_all_include.hpp" />
     <ClInclude Include="架构Demo结构\header\thirdParty_useNeeds\useXX\useXX_needsInclude.hpp" />
     <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX.hpp" />
+    <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helper_namespace.hpp" />
+    <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helper_namespace_include.hpp" />
     <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_include.hpp" />
     <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace_include.hpp" />
     <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_namespace_useThis.hpp" />

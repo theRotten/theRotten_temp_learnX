@@ -3,8 +3,8 @@
 #define UNICODE
 #endif 
 
-//#include "../../main_include.hpp"
-//#include "./win32windowMain.hpp"
+#include "../../main_include.hpp"
+#include "./win32windowMain.hpp"
 
 #include <windows.h>
 
@@ -40,12 +40,28 @@ int WINAPI wWinMain(HINSTANCE hInstance, HINSTANCE, PWSTR pCmdLine, int nCmdShow
 		NULL        // Additional application data
 		);
 
+	HWND hwnd2 = CreateWindowEx(
+		0,                              // Optional window styles.
+		CLASS_NAME,                     // Window class
+		L"µÚ2¸ö´°¿Ú",    // Window text
+		WS_OVERLAPPEDWINDOW,            // Window style
+
+		// Size and position
+		CW_USEDEFAULT, CW_USEDEFAULT, CW_USEDEFAULT, CW_USEDEFAULT,
+
+		NULL,       // Parent window    
+		NULL,       // Menu
+		hInstance,  // Instance handle
+		NULL        // Additional application data
+		);
+
 	if (hwnd == NULL)
 	{
 		return 0;
 	}
 
 	ShowWindow(hwnd, nCmdShow);
+	ShowWindow(hwnd2, nCmdShow);
 
 	// Run the message loop.
 

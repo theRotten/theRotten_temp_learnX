@@ -72,6 +72,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main\main.cpp" />
+    <ClCompile Include="main\main_sub.cpp" />
     <ClCompile Include="source\functionSets\procedure_playAFile\playAFile.cpp" />
     <ClCompile Include="source\functionSets\procedure_videoCapture\videoCapture_helperFunction.cpp" />
     <ClCompile Include="source\functionSets\procedure_videoCapture\videoCapture_parts.cpp" />
@@ -94,6 +95,11 @@
     <ClInclude Include="header\thirdParty_procedureNeedUses\xxxxUse\useXX\demoXX.hpp" />
     <ClInclude Include="header\thirdParty_useNeeds\useDirectShow\useDirectShow_needsInclude.hpp" />
     <ClInclude Include="header\thirdParty_useNeeds\useXX\useXX_needsInclude.hpp" />
+    <ClInclude Include="main\mainWholeInc\bare\bareMain.hpp" />
+    <ClInclude Include="main\mainWholeInc\test\testMain.hpp" />
+    <ClInclude Include="main\mainWholeInc\test\mainWholeInc_testMain.hpp" />
+    <ClInclude Include="main\mainWholeInc\win32window\win32windowMain.hpp" />
+    <ClInclude Include="main\mainWholeInc\win32window\mainWholeInc_win32window.hpp" />
     <ClInclude Include="main\main_include.hpp" />
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_include.hpp" />
     <ClInclude Include="source\functionSets\procedure_playAFile\playAFile_namespace_include.hpp" />
@@ -144,6 +150,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
+    <None Include="main\mainWholeInc\bare\mainWholeInc_bare.hpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="架构Demo结构\架构概述说明.txt" />

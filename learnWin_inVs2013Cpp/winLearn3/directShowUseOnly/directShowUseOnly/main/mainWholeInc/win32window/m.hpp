@@ -3,8 +3,8 @@
 #define UNICODE
 #endif 
 
-#include "../../main_include.hpp"
-#include "./win32windowMain.hpp"
+//#include "../../main_include.hpp"
+//#include "./win32windowMain.hpp"
 
 #include <windows.h>
 

@@ -369,7 +369,7 @@
     <ClCompile Include="架构Demo结构\source\功能集\procedure_demoNameXXX v0.3.1.2\demoNameXXX_parts.cpp">
       <Filter>架构demo结构（内容成分demo）\功能集 成分架构结构构件demo\demoNameXXX v0.3.1.2\源文件成分内容与结构位置</Filter>
     </ClCompile>
-    <ClCompile Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helper.cpp">
+    <ClCompile Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_hp.cpp">
       <Filter>架构demo结构（内容成分demo）\内部组件 集 成分架构结构构件demo\demoNameXXX v0.2.1.4\源文件成分内容与结构位置</Filter>
     </ClCompile>
   </ItemGroup>
@@ -530,7 +530,7 @@
     <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_helperF_namespace_useThis.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_hp_include.hpp">
+    <ClInclude Include="架构Demo结构\source\内部组件集\demoNameXXX v0.2.1.4\demoNameXXX_hp_inc.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

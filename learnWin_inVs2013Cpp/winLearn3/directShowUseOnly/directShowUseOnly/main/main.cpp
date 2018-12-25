@@ -18,14 +18,14 @@ void mainTemp(void)
 void mainTest(void)
 {
 	//procedure_videoCapture的试验
-	::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::test();
+	//::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::test();
 
 }
 
 void mainTestX(void)
 {
 	//测试procedure_videoCapture模块videoCapture_main();
-	//::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::videoCapture_main();
+	::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_videoCapture::videoCapture_main();
 
 	//测试procedure_playAFile模块playAFile_main();
 	//::aRottenGeneralNameThisX_thisNamespace::functionSets::procedure_playAFile::playAFile_main();
